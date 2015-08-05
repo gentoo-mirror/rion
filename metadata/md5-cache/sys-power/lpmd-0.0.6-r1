@@ -1,0 +1,12 @@
+_eclasses_=toolchain-funcs	42408102d713fbad60ca21349865edb4	multilib	62927b3db3a589b0806255f3a002d5d3
+_md5_=ff598f4d019d1ea44cc65c632751d5f4
+SLOT=0
+DEFINED_PHASES=compile install
+EAPI=4
+DEPEND=sys-apps/lm_sensors sys-fs/sysfsutils sys-power/cpufrequtils dev-lang/lua
+DESCRIPTION=Daemon controlling CPU, temperature, power, configurable in Lua
+LICENSE=GPL-3
+SRC_URI=mirror://sourceforge/lpmd/lpmd-0.0.6.tar.xz
+KEYWORDS=~amd64
+HOMEPAGE=http://sourceforge.net/projects/lpmd/
+RDEPEND=sys-apps/lm_sensors sys-fs/sysfsutils sys-power/cpufrequtils dev-lang/lua

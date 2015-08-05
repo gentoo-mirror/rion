@@ -1,0 +1,13 @@
+_eclasses_=toolchain-funcs	42408102d713fbad60ca21349865edb4	multilib	62927b3db3a589b0806255f3a002d5d3	eutils	9fb270e417e0e83d64ca52586c4a79de	cmake-utils	430c386d85cec959d72640afd63ea91	flag-o-matic	c9602887773166fe300444712fc7ff98
+_md5_=18344bfba18f156f85c153e47afbd2b
+SLOT=0
+DEFINED_PHASES=compile configure install prepare test
+EAPI=3
+DEPEND=>=net-im/vacuum-1.1.0 app-text/enchant sys-devel/make >=dev-util/cmake-2.8.12 userland_GNU? ( >=sys-apps/findutils-4.4.0 )
+DESCRIPTION=Spell checker for vacuum
+LICENSE=GPL-3
+IUSE=linguas_ru
+SRC_URI=https://vacuum-plugins.googlecode.com/files/vacuum-spellchecker_0.0.3.28_1.1.1.tar.bz2
+KEYWORDS=~amd64 ~x86
+HOMEPAGE=http://code.google.com/p/vacuum-im
+RDEPEND=>=net-im/vacuum-1.1.0 app-text/enchant

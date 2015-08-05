@@ -1,0 +1,14 @@
+_eclasses_=versionator	cd0bcdb170807e4a1984115e9d53a26f	toolchain-funcs	42408102d713fbad60ca21349865edb4	distutils-r1	715b22a21726d3fd76b17e007c5daf5f	multilib	62927b3db3a589b0806255f3a002d5d3	python-r1	d9c8348f26710ea523a385c2328cf027	base	87f7447ccfc06fd0729ff4684e11e0d6	fdo-mime	acfe1a88fd8751a1d5dc671168219fa	multibuild	6d4858dc00f8bc51caf3f957f8430eb0	multiprocessing	d7f2985a2c76c365ee20269db5261414	eutils	9fb270e417e0e83d64ca52586c4a79de	python-utils-r1	295a286ec27cab6af76b3b75ba07a3a
+_md5_=5e2ac1ccdc23dbcade80691269b5bbc3
+SLOT=0
+DEFINED_PHASES=compile configure install postinst postrm prepare test unpack
+EAPI=5
+DEPEND=dev-python/wxpython virtual/python-imaging python_targets_python2_7? ( >=dev-lang/python-2.7.5-r2:2.7 ) >=dev-lang/python-exec-2:=[python_targets_python2_7(-)?,-python_single_target_python2_7(-)]
+DESCRIPTION=Phatch is a simple to use cross-platform GUI Photo Batch Processor
+LICENSE=GPL-3
+IUSE=python_targets_python2_7
+REQUIRED_USE=|| ( python_targets_python2_7 )
+SRC_URI=http://photobatch.stani.be/download/package/phatch-0.2.7.1.tar.gz
+KEYWORDS=~amd64 ~x86
+HOMEPAGE=http://photobatch.stani.be/
+RDEPEND=dev-python/wxpython virtual/python-imaging sys-apps/mlocate python_targets_python2_7? ( >=dev-lang/python-2.7.5-r2:2.7 ) >=dev-lang/python-exec-2:=[python_targets_python2_7(-)?,-python_single_target_python2_7(-)]

@@ -1,0 +1,12 @@
+_eclasses_=toolchain-funcs	42408102d713fbad60ca21349865edb4	multilib	62927b3db3a589b0806255f3a002d5d3
+_md5_=c8575683f3972d059ae28c93ff79d3ac
+SLOT=0
+DEFINED_PHASES=install prepare
+EAPI=2
+DEPEND=>=net-im/pidgin-2.3.1 virtual/pkgconfig
+DESCRIPTION=Mail.Ru agent protocol for pidgin.
+LICENSE=GPL-2
+SRC_URI=http://mrim-prpl.googlecode.com/files/mrim-prpl-0.1.26.tar.gz
+KEYWORDS=~amd64 ~x86
+HOMEPAGE=http://code.google.com/p/mrim-prpl/
+RDEPEND=>=net-im/pidgin-2.3.1

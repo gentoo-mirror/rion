@@ -1,0 +1,11 @@
+_eclasses_=toolchain-funcs	42408102d713fbad60ca21349865edb4	flag-o-matic	c9602887773166fe300444712fc7ff98	git-r3	727a612b4c6247766904e3f74a326e2b	multilib	62927b3db3a589b0806255f3a002d5d3	cmake-utils	430c386d85cec959d72640afd63ea91	eutils	9fb270e417e0e83d64ca52586c4a79de
+_md5_=c5a6bc8b522150f60f2715dd89331cc1
+SLOT=0
+DEFINED_PHASES=compile configure install prepare test unpack
+EAPI=5
+DEPEND=>=net-im/pidgin-2.7[gtk] virtual/pkgconfig sys-devel/gettext test? ( dev-libs/check ) sys-devel/make >=dev-util/cmake-2.8.12 userland_GNU? ( >=sys-apps/findutils-4.4.0 ) >=dev-vcs/git-1.8.2.1
+DESCRIPTION=Mail.Ru agent protocol for pidgin.
+LICENSE=GPL-2+
+IUSE=test
+HOMEPAGE=https://bitbucket.org/mrim-prpl-team/mrim-prpl
+RDEPEND=>=net-im/pidgin-2.7[gtk]

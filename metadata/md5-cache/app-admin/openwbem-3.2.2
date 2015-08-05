@@ -1,0 +1,12 @@
+_eclasses_=toolchain-funcs	42408102d713fbad60ca21349865edb4	multilib	62927b3db3a589b0806255f3a002d5d3	autotools-utils	dbce0f7913bd240fdf0ef428149855c0	libtool	52d0e17251d04645ffaa61bfdd858944	autotools	2264f05fbbbaaf83d34ec81e72b38ffd	eutils	9fb270e417e0e83d64ca52586c4a79de
+_md5_=ab05fbb121173099b0a795a72ae20586
+SLOT=0
+DEFINED_PHASES=compile configure install prepare test
+EAPI=5
+DEPEND=ssl? ( dev-libs/openssl ) slp? ( net-libs/openslp ) !<sys-devel/gettext-0.18.1.1-r3 =sys-devel/automake-1.9* >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4
+DESCRIPTION=The OpenWBEM CIMOM
+LICENSE=BSD
+IUSE=+association-traversal +cmpi debug +digest static-libs slp ssl pam perl valgrind zlib
+SRC_URI=mirror://sourceforge/project/openwbem/openwbem/3.2.2/openwbem-3.2.2.tar.bz2
+KEYWORDS=~amd64
+HOMEPAGE=http://www.openwbem.org/

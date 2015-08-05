@@ -1,0 +1,14 @@
+_eclasses_=qmake-utils	4ce40e37ef0e28425a7159b0353be026	toolchain-funcs	42408102d713fbad60ca21349865edb4	multilib	62927b3db3a589b0806255f3a002d5d3	eutils	9fb270e417e0e83d64ca52586c4a79de
+_md5_=2c7e374e27e14ab2257c7b0531f022e6
+SLOT=0
+DEFINED_PHASES=configure install setup
+EAPI=5
+DEPEND=qt4? ( dev-qt/qtgui:4 dev-qt/qtsingleapplication[X,qt4] kde? ( kde-base/kdelibs ) ) qt5? ( dev-qt/qtgui:5 dev-qt/qtwidgets dev-qt/qtnetwork:5 dev-qt/qtprintsupport:5 dev-qt/qtsingleapplication[X,qt5] kde? ( kde-frameworks/kglobalaccel kde-frameworks/kwindowsystem kde-frameworks/knotifications ) ) spell? ( app-text/hunspell )
+DESCRIPTION=Qt note-taking application compatible with tomboy
+LICENSE=GPL-3
+IUSE=+qt4 qt5 spell kde unity
+REQUIRED_USE=^^ ( qt4 qt5 )
+SRC_URI=https://github.com/Ri0n/QtNote/archive/3.0.3.tar.gz -> qtnote-3.0.3.tar.gz
+KEYWORDS=amd64 x86
+HOMEPAGE=http://ri0n.github.io/QtNote/
+RDEPEND=qt4? ( dev-qt/qtgui:4 dev-qt/qtsingleapplication[X,qt4] kde? ( kde-base/kdelibs ) ) qt5? ( dev-qt/qtgui:5 dev-qt/qtwidgets dev-qt/qtnetwork:5 dev-qt/qtprintsupport:5 dev-qt/qtsingleapplication[X,qt5] kde? ( kde-frameworks/kglobalaccel kde-frameworks/kwindowsystem kde-frameworks/knotifications ) ) spell? ( app-text/hunspell )

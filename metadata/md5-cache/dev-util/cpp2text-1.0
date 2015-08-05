@@ -1,0 +1,12 @@
+_eclasses_=toolchain-funcs	42408102d713fbad60ca21349865edb4	multilib	62927b3db3a589b0806255f3a002d5d3	qmake-utils	4ce40e37ef0e28425a7159b0353be026	base	87f7447ccfc06fd0729ff4684e11e0d6	qt4-r2	7199e3db5b5908325487d379c6f67cf0	eutils	9fb270e417e0e83d64ca52586c4a79de
+_md5_=33e320bf00f42ca40c152e39335ef04b
+SLOT=0
+DEFINED_PHASES=compile configure install prepare unpack
+EAPI=5
+DEPEND=dev-qt/qtgui:*
+DESCRIPTION=Stupid bidirection cpp to text converter
+LICENSE=MIT
+SRC_URI=https://github.com/Ri0n/cpp2text/archive/1.0.tar.gz -> cpp2text-1.0.tar.gz
+KEYWORDS=amd64 x86
+HOMEPAGE=https://github.com/Ri0n/cpp2text
+RDEPEND=dev-qt/qtgui:*

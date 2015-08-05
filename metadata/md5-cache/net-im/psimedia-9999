@@ -1,0 +1,11 @@
+_eclasses_=qmake-utils	4ce40e37ef0e28425a7159b0353be026	toolchain-funcs	42408102d713fbad60ca21349865edb4	multilib	62927b3db3a589b0806255f3a002d5d3	git-2	e28f0d8a9b321431b1e699782851b827	base	87f7447ccfc06fd0729ff4684e11e0d6	qt4-r2	7199e3db5b5908325487d379c6f67cf0	eutils	9fb270e417e0e83d64ca52586c4a79de
+_md5_=cf9596ba426219f3170b4b8bc9041ba8
+SLOT=0
+DEFINED_PHASES=compile configure install prepare unpack
+EAPI=4
+DEPEND=>=dev-libs/glib-2.20.0 media-libs/gstreamer:0.10 media-libs/gst-plugins-base:0.10 media-libs/gst-plugins-good:0.10 >=dev-qt/qtgui-4.4:4 >=media-libs/speex-1.2_rc1 dev-libs/liboil sys-devel/qconf virtual/pkgconfig dev-vcs/git
+DESCRIPTION=Psi plugin for voice/video calls
+LICENSE=GPL-2
+IUSE=demo extras
+HOMEPAGE=http://delta.affinix.com/psimedia/
+RDEPEND=>=dev-libs/glib-2.20.0 media-libs/gstreamer:0.10 media-libs/gst-plugins-base:0.10 media-libs/gst-plugins-good:0.10 >=dev-qt/qtgui-4.4:4 >=media-libs/speex-1.2_rc1 dev-libs/liboil media-plugins/gst-plugins-speex:0.10 media-plugins/gst-plugins-vorbis:0.10 media-plugins/gst-plugins-theora:0.10 media-plugins/gst-plugins-alsa:0.10 media-plugins/gst-plugins-ogg:0.10 media-plugins/gst-plugins-v4l2:0.10 media-plugins/gst-plugins-jpeg:0.10 !<net-im/psi-0.13_rc1 extras? ( >=net-im/psi-0.15_pre20110125[extras] )

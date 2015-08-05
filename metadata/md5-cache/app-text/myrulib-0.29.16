@@ -1,0 +1,13 @@
+_eclasses_=toolchain-funcs	42408102d713fbad60ca21349865edb4	multilib	62927b3db3a589b0806255f3a002d5d3	wxwidgets	6d6eec2685256d35511e7b6d5461bec9	eutils	9fb270e417e0e83d64ca52586c4a79de
+_md5_=8491c62fbf080aa3532c9d18fcde6553
+SLOT=0
+DEFINED_PHASES=configure prepare
+EAPI=5
+DEPEND=x11-libs/wxGTK:2.8[X] dev-libs/libxml2 dev-db/sqlite:3[fts3(+),icu?] dev-db/wxsqlite3:2.8 app-arch/bzip2 icu? ( dev-libs/icu:= ) reader? ( media-libs/freetype:2 media-libs/libpng:= virtual/jpeg sys-libs/zlib ) virtual/pkgconfig
+DESCRIPTION=E-book collection manager
+LICENSE=GPL-3
+IUSE=+icu +links reader syslog
+SRC_URI=http://lintest.ru/pub/myrulib-0.29.16.tar.bz2
+KEYWORDS=~amd64 ~x86
+HOMEPAGE=http://www.lintest.ru/wiki/MyRuLib
+RDEPEND=x11-libs/wxGTK:2.8[X] dev-libs/libxml2 dev-db/sqlite:3[fts3(+),icu?] dev-db/wxsqlite3:2.8 app-arch/bzip2 icu? ( dev-libs/icu:= ) reader? ( media-libs/freetype:2 media-libs/libpng:= virtual/jpeg sys-libs/zlib )

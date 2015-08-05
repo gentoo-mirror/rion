@@ -1,0 +1,12 @@
+_eclasses_=toolchain-funcs	42408102d713fbad60ca21349865edb4	multilib	62927b3db3a589b0806255f3a002d5d3	eutils	9fb270e417e0e83d64ca52586c4a79de
+_md5_=14efd6089187a1961f756cb8120a611a
+SLOT=1.04.633
+DEFINED_PHASES=install
+EAPI=5
+DEPEND=app-emulation/emul-linux-x86-xlibs app-emulation/emul-linux-x86-baselibs app-emulation/emul-linux-x86-soundlibs
+DESCRIPTION=NaviKey's car navigation software
+LICENSE=EULA
+SRC_URI=http://navikey.ru/files/7w/7ways.tar.gz
+KEYWORDS=~amd64
+HOMEPAGE=http://navikey.ru/
+RDEPEND=app-emulation/emul-linux-x86-xlibs app-emulation/emul-linux-x86-baselibs app-emulation/emul-linux-x86-soundlibs

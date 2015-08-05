@@ -1,0 +1,11 @@
+_eclasses_=toolchain-funcs	42408102d713fbad60ca21349865edb4	flag-o-matic	c9602887773166fe300444712fc7ff98	git-r3	727a612b4c6247766904e3f74a326e2b	multilib	62927b3db3a589b0806255f3a002d5d3	cmake-utils	430c386d85cec959d72640afd63ea91	eutils	9fb270e417e0e83d64ca52586c4a79de
+_md5_=726e0300da667f4a31730fdc54ffeca
+SLOT=0
+DEFINED_PHASES=compile configure install prepare test unpack
+EAPI=5
+DEPEND=dev-libs/glib:2= dev-libs/libconfig:= dev-libs/libevent:=[threads] dev-libs/openssl:0= media-libs/alsa-lib:= media-libs/freetype:2= media-libs/mesa:=[egl,gles2] x11-libs/gtk+:2= x11-libs/libXrandr:= x11-libs/libXrender:= x11-libs/pango:=[X] pulseaudio? ( media-sound/pulseaudio ) dev-util/ragel virtual/pkgconfig sys-devel/make >=dev-util/cmake-2.8.8 userland_GNU? ( >=sys-apps/findutils-4.4.0 ) >=dev-vcs/git-1.8.2.1
+DESCRIPTION=PPAPI-host NPAPI-plugin adapter for flashplayer in npapi based browsers
+LICENSE=MIT
+IUSE=pulseaudio
+HOMEPAGE=https://github.com/i-rinat/freshplayerplugin
+RDEPEND=dev-libs/glib:2= dev-libs/libconfig:= dev-libs/libevent:=[threads] dev-libs/openssl:0= media-libs/alsa-lib:= media-libs/freetype:2= media-libs/mesa:=[egl,gles2] x11-libs/gtk+:2= x11-libs/libXrandr:= x11-libs/libXrender:= x11-libs/pango:=[X] pulseaudio? ( media-sound/pulseaudio ) || ( www-plugins/chrome-binary-plugins[flash] www-client/google-chrome www-client/google-chrome-beta www-client/google-chrome-unstable )

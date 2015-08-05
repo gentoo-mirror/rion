@@ -1,0 +1,13 @@
+_eclasses_=toolchain-funcs	42408102d713fbad60ca21349865edb4	multilib	62927b3db3a589b0806255f3a002d5d3
+_md5_=bede2b9c634591b52caf6620d5cfca5a
+SLOT=0
+DEFINED_PHASES=install postinst
+EAPI=4
+DEPEND=dev-perl/net-server dev-perl/Net-CIDR dev-perl/Config-IniFiles dev-perl/Cache-FastMmap dev-perl/Mail-SPF mysql? ( virtual/mysql ) postgres? ( dev-db/postgresql-base ) sqlite? ( dev-db/sqlite ) webinterface? ( dev-lang/php[pdo] virtual/httpd-php )
+DESCRIPTION=Policy daemon for postfix and other MTAs
+LICENSE=GPL-2
+IUSE=mysql postgres sqlite +webinterface
+SRC_URI=http://download.policyd.org/v2.0.14/cluebringer-v2.0.14.tar.bz2
+KEYWORDS=~amd64 ~x86
+HOMEPAGE=http://policyd.sf.net/
+RDEPEND=dev-perl/net-server dev-perl/Net-CIDR dev-perl/Config-IniFiles dev-perl/Cache-FastMmap dev-perl/Mail-SPF mysql? ( virtual/mysql ) postgres? ( dev-db/postgresql-base ) sqlite? ( dev-db/sqlite ) webinterface? ( dev-lang/php[pdo] virtual/httpd-php )

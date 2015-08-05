@@ -1,0 +1,12 @@
+_eclasses_=qmake-utils	4ce40e37ef0e28425a7159b0353be026	toolchain-funcs	42408102d713fbad60ca21349865edb4	multilib	62927b3db3a589b0806255f3a002d5d3	git-2	e28f0d8a9b321431b1e699782851b827	base	87f7447ccfc06fd0729ff4684e11e0d6	psiplus-plugin	f11c1dd2aac272b2ef165b28fe97757f	qt4-r2	7199e3db5b5908325487d379c6f67cf0	eutils	9fb270e417e0e83d64ca52586c4a79de
+_md5_=31fbce9b8cfa31a9cd64751beae68697
+SLOT=0
+DEFINED_PHASES=compile configure install prepare unpack
+EAPI=4
+DEPEND=dev-vcs/git >=net-im/psi-9999[extras,plugins]
+DESCRIPTION=Psi plugin for juick.com service
+LICENSE=GPL-2
+IUSE=+qt4 qt5
+REQUIRED_USE=^^ ( qt4 qt5 )
+HOMEPAGE=http://psi-dev.googlecode.com
+RDEPEND=>=net-im/psi-9999[extras,plugins]

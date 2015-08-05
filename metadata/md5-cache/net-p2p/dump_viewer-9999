@@ -1,0 +1,10 @@
+_eclasses_=toolchain-funcs	42408102d713fbad60ca21349865edb4	mercurial	2fbda5894dda6392b71334ee9a92de0b	multilib	62927b3db3a589b0806255f3a002d5d3	qmake-utils	4ce40e37ef0e28425a7159b0353be026	base	87f7447ccfc06fd0729ff4684e11e0d6	qt4-r2	7199e3db5b5908325487d379c6f67cf0	eutils	9fb270e417e0e83d64ca52586c4a79de
+_md5_=479ae3d27bfae61ae67494952a880d41
+SLOT=0
+DEFINED_PHASES=compile configure install prepare unpack
+EAPI=5
+DEPEND=dev-qt/qtcore:4 dev-qt/qtgui:4 dev-qt/qtwebkit:4 kde-base/kdelibs:4 dev-vcs/mercurial
+DESCRIPTION=Viewer for DB dumps of torrent trackers
+LICENSE=GPL-2
+HOMEPAGE=https://bitbucket.org/ratnik/dump_viewer
+RDEPEND=dev-qt/qtcore:4 dev-qt/qtgui:4 dev-qt/qtwebkit:4 kde-base/kdelibs:4

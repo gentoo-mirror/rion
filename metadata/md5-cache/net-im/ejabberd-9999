@@ -1,0 +1,13 @@
+_eclasses_=systemd	90342761f573a8280dd5aa6b0345f3b	toolchain-funcs	42408102d713fbad60ca21349865edb4	flag-o-matic	c9602887773166fe300444712fc7ff98	git-r3	727a612b4c6247766904e3f74a326e2b	multilib	62927b3db3a589b0806255f3a002d5d3	ssl-cert	b53367370fde96e19beca78050a47c61	subversion	c12bdf4fcc82f86ad89b14c8f76c4026	libtool	52d0e17251d04645ffaa61bfdd858944	autotools	2264f05fbbbaaf83d34ec81e72b38ffd	pam	aa1ebb3ab720ea04dbbdd6eaaf9554ed	eutils	9fb270e417e0e83d64ca52586c4a79de
+_md5_=630966899a09d09405b1d35945862567
+SLOT=0
+DEFINED_PHASES=compile configure install postinst preinst prepare setup unpack
+EAPI=5
+DEPEND=>=net-im/jabber-base-0.01 >=dev-libs/expat-1.95 dev-libs/libyaml dev-lang/erlang[ssl] doc? ( dev-tex/hevea ) odbc? ( dev-db/unixODBC ) ldap? ( =net-nds/openldap-2* ) >=dev-libs/openssl-0.9.8e captcha? ( media-gfx/imagemagick[truetype,png] ) zlib? ( sys-libs/zlib ) ssl? ( dev-libs/openssl ) virtual/pkgconfig >=dev-vcs/git-1.8.2.1 || ( dev-vcs/subversion[http] dev-vcs/subversion[webdav-neon] dev-vcs/subversion[webdav-serf] ) net-misc/rsync !<sys-devel/gettext-0.18.1.1-r3 || ( >=sys-devel/automake-1.15:1.15 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4
+DESCRIPTION=The Erlang Jabber Daemon
+LICENSE=GPL-2
+IUSE=captcha debug +doc json lager ldap md5 mssql mysql odbc pam postgres riak tools zlib mod_statsdx atom_pubsub ircd mod_admin_extra mod_archive mod_cron mod_log_chat mod_logsession mod_logxml mod_muc_admin mod_muc_log_http mod_multicast mod_openid mod_profile mod_register_web mod_rest mod_s2s_log mod_shcommands mod_webpresence ssl
+REQUIRED_USE=postgres? ( odbc ) mysql? ( odbc ) mssql? ( odbc ) riak? ( odbc )
+SRC_URI=mod_statsdx? ( http://dev.gentoo.org/~radhermit/dist/ejabberd-mod_statsdx-1118.patch.gz )
+HOMEPAGE=http://www.ejabberd.im/ https://github.com/processone/ejabberd/
+RDEPEND=>=net-im/jabber-base-0.01 >=dev-libs/expat-1.95 dev-libs/libyaml dev-lang/erlang[ssl] doc? ( dev-tex/hevea ) odbc? ( dev-db/unixODBC ) ldap? ( =net-nds/openldap-2* ) >=dev-libs/openssl-0.9.8e captcha? ( media-gfx/imagemagick[truetype,png] ) zlib? ( sys-libs/zlib ) >=sys-apps/shadow-4.1.4.2-r3 pam? ( virtual/pam )

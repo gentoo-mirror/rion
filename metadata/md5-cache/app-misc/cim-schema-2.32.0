@@ -1,0 +1,12 @@
+_eclasses_=toolchain-funcs	42408102d713fbad60ca21349865edb4	versionator	cd0bcdb170807e4a1984115e9d53a26f	multilib	62927b3db3a589b0806255f3a002d5d3	eutils	9fb270e417e0e83d64ca52586c4a79de
+_md5_=e2c6865bc6cf8f3365ce3f7141da094b
+SLOT=2.32.0
+DEFINED_PHASES=install prepare
+EAPI=4
+DEPEND=app-arch/unzip
+DESCRIPTION=Common Information Model (CIM) Schema
+LICENSE=DMTF
+IUSE=doc
+SRC_URI=http://dmtf.org/sites/default/files/cim/cim_schema_v2320/cim_schema_2.32.0Experimental-MOFs.zip doc? ( http://dmtf.org/sites/default/files/cim/cim_schema_v2320/cim_schema_2.32.0Experimental-Doc.zip )
+KEYWORDS=~amd64
+HOMEPAGE=http://www.dmtf.org/

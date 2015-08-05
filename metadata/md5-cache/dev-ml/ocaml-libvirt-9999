@@ -1,0 +1,11 @@
+_eclasses_=toolchain-funcs	42408102d713fbad60ca21349865edb4	git-r3	727a612b4c6247766904e3f74a326e2b	multilib	62927b3db3a589b0806255f3a002d5d3	findlib	9cf6020ee5481f39f1aa566a323f9868	base	87f7447ccfc06fd0729ff4684e11e0d6	libtool	52d0e17251d04645ffaa61bfdd858944	autotools	2264f05fbbbaaf83d34ec81e72b38ffd	eutils	9fb270e417e0e83d64ca52586c4a79de
+_md5_=6108d5c76ecb5ec771793a018b884818
+SLOT=0
+DEFINED_PHASES=compile configure install prepare unpack
+EAPI=4
+DEPEND=app-emulation/libvirt dev-ml/ocaml-gettext >=dev-ml/findlib-1.0.4-r1 >=dev-vcs/git-1.8.2.1 !<sys-devel/gettext-0.18.1.1-r3 || ( >=sys-devel/automake-1.15:1.15 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4
+DESCRIPTION=Ocaml libvirt binding's
+LICENSE=GPL-2
+IUSE=doc
+HOMEPAGE=http://www.libvirt.org/
+RDEPEND=app-emulation/libvirt dev-ml/ocaml-gettext

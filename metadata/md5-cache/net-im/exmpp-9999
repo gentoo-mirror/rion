@@ -1,0 +1,11 @@
+_eclasses_=git-2	e28f0d8a9b321431b1e699782851b827	multilib	62927b3db3a589b0806255f3a002d5d3	autotools	2264f05fbbbaaf83d34ec81e72b38ffd	libtool	52d0e17251d04645ffaa61bfdd858944	toolchain-funcs	42408102d713fbad60ca21349865edb4
+_md5_=621d0ee9a49df50ed961a16de76dccbb
+SLOT=0
+DEFINED_PHASES=configure install prepare unpack
+EAPI=4
+DEPEND=>=sys-devel/autoconf-2.64 dev-lang/erlang dev-libs/expat dev-libs/libxml2 dev-libs/openssl sys-libs/zlib !<sys-devel/gettext-0.18.1.1-r3 || ( >=sys-devel/automake-1.15:1.15 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4 dev-vcs/git
+DESCRIPTION=fast and scalable XMPP library written in Erlang/OTP
+LICENSE=ErlPL-1.1
+IUSE=examples doc
+HOMEPAGE=https://support.process-one.net/doc/display/EXMPP
+RDEPEND=dev-lang/erlang dev-libs/expat dev-libs/libxml2 dev-libs/openssl sys-libs/zlib

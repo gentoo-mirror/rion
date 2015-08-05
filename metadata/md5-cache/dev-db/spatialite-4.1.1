@@ -1,0 +1,13 @@
+_eclasses_=toolchain-funcs	42408102d713fbad60ca21349865edb4	multilib	62927b3db3a589b0806255f3a002d5d3	eutils	9fb270e417e0e83d64ca52586c4a79de
+_md5_=376ea0ab43c2c0446ad1d390dabb376d
+SLOT=0
+DEFINED_PHASES=configure install
+EAPI=5
+DEPEND=>=dev-db/sqlite-3.7.5:3[extensions(+)] geos? ( >=sci-libs/geos-3.3 ) proj? ( sci-libs/proj ) xls? ( dev-libs/freexl )
+DESCRIPTION=A complete Spatial DBMS in a nutshell built upon sqlite
+LICENSE=MPL-1.1
+IUSE=+geos iconv +proj +xls
+SRC_URI=http://www.gaia-gis.it/gaia-sins/libspatialite-sources/libspatialite-4.1.1.tar.gz
+KEYWORDS=~amd64 ~ppc ~ppc64 ~x86
+HOMEPAGE=http://www.gaia-gis.it/gaia-sins/
+RDEPEND=>=dev-db/sqlite-3.7.5:3[extensions(+)] geos? ( >=sci-libs/geos-3.3 ) proj? ( sci-libs/proj ) xls? ( dev-libs/freexl )

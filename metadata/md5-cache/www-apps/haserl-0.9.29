@@ -1,0 +1,13 @@
+_eclasses_=toolchain-funcs	42408102d713fbad60ca21349865edb4	multilib	62927b3db3a589b0806255f3a002d5d3	eutils	9fb270e417e0e83d64ca52586c4a79de
+_md5_=83445f1c7c60452c69787b55d82a94ec
+SLOT=0
+DEFINED_PHASES=configure install
+EAPI=2
+DEPEND=lua? ( dev-lang/lua ) virtual/pkgconfig
+DESCRIPTION=HTML And Shell Embedded Report Language
+LICENSE=GPL-2
+IUSE=lua
+SRC_URI=mirror://sourceforge/haserl/haserl-0.9.29.tar.gz
+KEYWORDS=~x86 ~amd64
+HOMEPAGE=http://haserl.sourceforge.net/
+RDEPEND=lua? ( dev-lang/lua )

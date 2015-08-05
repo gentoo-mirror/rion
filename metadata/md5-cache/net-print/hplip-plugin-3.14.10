@@ -1,0 +1,13 @@
+_eclasses_=toolchain-funcs	42408102d713fbad60ca21349865edb4	unpacker	f300a7ca9131b1024a79762e8edd3c52	multilib	62927b3db3a589b0806255f3a002d5d3	udev	da001465a2e939c93f7ae16947ce3438
+_md5_=2a07c61925e62250a7e1818461547e40
+SLOT=0
+DEFINED_PHASES=install unpack
+EAPI=5
+DEPEND=virtual/pkgconfig
+DESCRIPTION=Proprietary plugins and firmware for HPLIP
+LICENSE=hplip-plugin
+RESTRICT=mirror
+SRC_URI=http://www.openprinting.org/download/printdriver/auxfiles/HP/plugins/hplip-3.14.10-plugin.run
+KEYWORDS=amd64 x86
+HOMEPAGE=http://hplipopensource.com/hplip-web/index.html
+RDEPEND=~net-print/hplip-3.14.10 virtual/udev
