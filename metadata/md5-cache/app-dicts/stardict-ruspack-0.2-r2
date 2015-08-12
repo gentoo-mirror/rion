@@ -1,0 +1,12 @@
+_eclasses_=
+_md5_=664b51c7bf7d9754ae993a1d76c6e3d0
+SLOT=0
+DEFINED_PHASES=install
+EAPI=2
+DEPEND=|| ( app-arch/unrar app-arch/rar )
+DESCRIPTION=Collection of dicts for stardict.
+LICENSE=GPL-2
+SRC_URI=ftp://ftp.msiu.ru/education/FSF-Windows/stardict/dicts/stardict-dicts.exe -> stardict-ruspack-0.2.rar
+KEYWORDS=~amd64 ~x86
+HOMEPAGE=http://gnome.msiu.ru/stardict.php
+RDEPEND=!app-dicts/stardict-freedict-eng-rus

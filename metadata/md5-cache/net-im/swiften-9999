@@ -1,0 +1,11 @@
+_eclasses_=git-2	1bb87192831f668cd20d93ffb1689c94	toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	eutils	351a78113be5b393c09a2c948701ad36	scons-utils	b7d634f772db55c8af429f50aeec6ee0
+_md5_=2e5801b63d7340e6714df106fbc5b3ae
+SLOT=0
+DEFINED_PHASES=compile install prepare test unpack
+EAPI=4
+DEPEND=avahi? ( net-dns/avahi ) >=dev-libs/boost-1.42 >=dev-libs/openssl-0.9.8g >=net-dns/libidn-1.10 dev-libs/libxml2 >=dev-libs/expat-2.0.1 sys-libs/zlib doc? ( >=app-text/docbook-xsl-stylesheets-1.75 >=app-text/docbook-xml-dtd-4.5 dev-libs/libxslt ) >=dev-util/scons-1.2 dev-vcs/git
+DESCRIPTION=Just a perfect C++ XMPP library
+LICENSE=GPL-3
+IUSE=avahi debug doc test linguas_ca linguas_de linguas_es linguas_fr linguas_hu linguas_nl linguas_pl linguas_ru linguas_se linguas_sk
+HOMEPAGE=http://swift.im/
+RDEPEND=avahi? ( net-dns/avahi ) >=dev-libs/boost-1.42 >=dev-libs/openssl-0.9.8g >=net-dns/libidn-1.10 dev-libs/libxml2 >=dev-libs/expat-2.0.1 sys-libs/zlib

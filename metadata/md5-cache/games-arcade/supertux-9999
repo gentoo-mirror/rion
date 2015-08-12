@@ -1,0 +1,11 @@
+_eclasses_=toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361	flag-o-matic	2090c5a622458303e6bf68837ac6b96	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	git-2	1bb87192831f668cd20d93ffb1689c94	base	84d9f879f57a8316ff02be0373a3d6f9	games	9e5e9ee0b325a8a10823f9b385ca2036	user	906f3c8eb3a2350a4f1191a89baa3e46	cmake-utils	f474224ef49d530640a43a04ae94928e	eutils	351a78113be5b393c09a2c948701ad36
+_md5_=77875dfada8d770b54ec08581d86611b
+SLOT=2
+DEFINED_PHASES=compile configure install postinst preinst prepare setup test unpack
+EAPI=3
+DEPEND=media-libs/libsdl2[joystick] media-libs/sdl2-image[png,jpeg] media-libs/libvorbis dev-games/physfs media-libs/openal media-libs/glew x11-libs/libXt dev-games/physfs opengl? ( virtual/opengl ) curl? ( net-misc/curl ) dev-vcs/git sys-devel/make >=dev-util/cmake-2.8.12 userland_GNU? ( >=sys-apps/findutils-4.4.0 )
+DESCRIPTION=Classic 2D jump'n run sidescroller game in a style similar to the original Super Mario Bros.
+LICENSE=GPL-2
+IUSE=opengl curl debug
+HOMEPAGE=http://super-tux.sourceforge.net
+RDEPEND=media-libs/libsdl2[joystick] media-libs/sdl2-image[png,jpeg] media-libs/libvorbis dev-games/physfs media-libs/openal media-libs/glew x11-libs/libXt dev-games/physfs opengl? ( virtual/opengl ) curl? ( net-misc/curl ) games-misc/games-envd

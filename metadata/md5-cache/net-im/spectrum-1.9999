@@ -1,0 +1,11 @@
+_eclasses_=toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361	flag-o-matic	2090c5a622458303e6bf68837ac6b96	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	git-2	1bb87192831f668cd20d93ffb1689c94	cmake-utils	f474224ef49d530640a43a04ae94928e	eutils	351a78113be5b393c09a2c948701ad36
+_md5_=29b6f3dde52cb94a97196cf44512ff78
+SLOT=0
+DEFINED_PHASES=compile configure install prepare setup test unpack
+EAPI=4
+DEPEND=>=dev-libs/poco-1.3.3[mysql?,sqlite?] media-gfx/imagemagick[cxx] >=net-im/pidgin-2.6.0 >=net-libs/gloox-1.0 dev-python/xmpppy dev-libs/libev <dev-lang/python-3 sys-devel/gettext dev-util/cmake sys-devel/make >=dev-util/cmake-2.8.12 userland_GNU? ( >=sys-apps/findutils-4.4.0 ) dev-vcs/git
+DESCRIPTION=Spectrum is an XMPP transport/gateway
+LICENSE=GPL-2
+IUSE=mysql sqlite symlinks tools staticport
+HOMEPAGE=http://spectrum.im
+RDEPEND=>=dev-libs/poco-1.3.3[mysql?,sqlite?] media-gfx/imagemagick[cxx] >=net-im/pidgin-2.6.0 >=net-libs/gloox-1.0 dev-python/xmpppy dev-libs/libev <dev-lang/python-3

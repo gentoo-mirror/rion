@@ -1,0 +1,13 @@
+_eclasses_=toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361	flag-o-matic	2090c5a622458303e6bf68837ac6b96	python	6d7be3e54573292f012e3cc433d8297	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	cmake-utils	f474224ef49d530640a43a04ae94928e	eutils	351a78113be5b393c09a2c948701ad36
+_md5_=461c2056cac9ac7f1838bb31da518106
+SLOT=0
+DEFINED_PHASES=compile configure install prepare setup test
+EAPI=4
+DEPEND=cim? ( dev-libs/sblim-sfcc ) ssl? ( dev-libs/openssl ) pam? ( virtual/pam ) ruby? ( <dev-lang/ruby-2 ) perl? ( dev-lang/perl ) java? ( virtual/jdk ) net-misc/curl dev-libs/libxml2 python? ( =dev-lang/python-2.7* ) sys-devel/make >=dev-util/cmake-2.8.12 userland_GNU? ( >=sys-apps/findutils-4.4.0 )
+DESCRIPTION=Opensource Implementation of WS-Management Client
+LICENSE=BSD
+IUSE=+cim debug examples +eventing ipv6 java pam perl python plugins ruby ssl server
+SRC_URI=mirror://sourceforge/project/openwsman/openwsman/2.3.5/openwsman-2.3.5.tar.bz2
+KEYWORDS=~amd64
+HOMEPAGE=http://sourceforge.net/projects/openwsman
+RDEPEND=cim? ( dev-libs/sblim-sfcc ) ssl? ( dev-libs/openssl ) pam? ( virtual/pam ) ruby? ( <dev-lang/ruby-2 ) perl? ( dev-lang/perl ) java? ( virtual/jdk ) net-misc/curl dev-libs/libxml2 python? ( =dev-lang/python-2.7* )

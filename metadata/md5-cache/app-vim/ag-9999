@@ -1,0 +1,10 @@
+_eclasses_=git-2	1bb87192831f668cd20d93ffb1689c94	vim-doc	1b0813c9dadf2431c96854a8d46f5eaf	vim-plugin	222d094e412102a0169617b4d68b6250
+_md5_=586b522e31558fd8cae38535544cbc22
+SLOT=0
+DEFINED_PHASES=install postinst postrm prepare unpack
+EAPI=5
+DEPEND=|| ( >=app-editors/vim-7.3 >=app-editors/gvim-7.3 ) dev-vcs/git
+DESCRIPTION=vim plugin: the_silver_searcher integration
+LICENSE=as-is
+HOMEPAGE=http://www.vim.org/scripts/script.php?script_id=4450
+RDEPEND=|| ( >=app-editors/vim-7.3 >=app-editors/gvim-7.3 )
