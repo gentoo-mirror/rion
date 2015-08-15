@@ -1,13 +1,13 @@
-_eclasses_=systemd	6b4f0cefa642270eded7e6ca816fd181	toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361	flag-o-matic	2090c5a622458303e6bf68837ac6b96	git-r3	1502b9838d043db47700b8120083e637	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	ssl-cert	e90a74de57c48ea6c058b1cb3a735907	subversion	d11b897c0c78e23413f0af0959ec6b92	libtool	7f78cd7d403808a350c9ae23f5821fb4	autotools	8056957fdccf2b3cd6e282a4b4551d1a	pam	5f80e6013406d68612a7493314e3777	eutils	351a78113be5b393c09a2c948701ad36
-_md5_=630966899a09d09405b1d35945862567
-SLOT=0
 DEFINED_PHASES=compile configure install postinst preinst prepare setup unpack
-EAPI=5
 DEPEND=>=net-im/jabber-base-0.01 >=dev-libs/expat-1.95 dev-libs/libyaml dev-lang/erlang[ssl] doc? ( dev-tex/hevea ) odbc? ( dev-db/unixODBC ) ldap? ( =net-nds/openldap-2* ) >=dev-libs/openssl-0.9.8e captcha? ( media-gfx/imagemagick[truetype,png] ) zlib? ( sys-libs/zlib ) ssl? ( dev-libs/openssl ) virtual/pkgconfig >=dev-vcs/git-1.8.2.1 || ( dev-vcs/subversion[http] dev-vcs/subversion[webdav-neon] dev-vcs/subversion[webdav-serf] ) net-misc/rsync !<sys-devel/gettext-0.18.1.1-r3 || ( >=sys-devel/automake-1.15:1.15 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4
 DESCRIPTION=The Erlang Jabber Daemon
-LICENSE=GPL-2
-IUSE=captcha debug +doc json lager ldap md5 mssql mysql odbc pam postgres riak tools zlib mod_statsdx atom_pubsub ircd mod_admin_extra mod_archive mod_cron mod_log_chat mod_logsession mod_logxml mod_muc_admin mod_muc_log_http mod_multicast mod_openid mod_profile mod_register_web mod_rest mod_s2s_log mod_shcommands mod_webpresence ssl
-REQUIRED_USE=postgres? ( odbc ) mysql? ( odbc ) mssql? ( odbc ) riak? ( odbc )
-SRC_URI=mod_statsdx? ( http://dev.gentoo.org/~radhermit/dist/ejabberd-mod_statsdx-1118.patch.gz )
+EAPI=5
 HOMEPAGE=http://www.ejabberd.im/ https://github.com/processone/ejabberd/
+IUSE=captcha debug +doc json lager ldap md5 mssql mysql odbc pam postgres riak tools zlib mod_statsdx atom_pubsub ircd mod_admin_extra mod_archive mod_cron mod_log_chat mod_logsession mod_logxml mod_muc_admin mod_muc_log_http mod_multicast mod_openid mod_profile mod_register_web mod_rest mod_s2s_log mod_shcommands mod_webpresence ssl
+LICENSE=GPL-2
 RDEPEND=>=net-im/jabber-base-0.01 >=dev-libs/expat-1.95 dev-libs/libyaml dev-lang/erlang[ssl] doc? ( dev-tex/hevea ) odbc? ( dev-db/unixODBC ) ldap? ( =net-nds/openldap-2* ) >=dev-libs/openssl-0.9.8e captcha? ( media-gfx/imagemagick[truetype,png] ) zlib? ( sys-libs/zlib ) >=sys-apps/shadow-4.1.4.2-r3 pam? ( virtual/pam )
+REQUIRED_USE=postgres? ( odbc ) mysql? ( odbc ) mssql? ( odbc ) riak? ( odbc )
+SLOT=0
+SRC_URI=mod_statsdx? ( http://dev.gentoo.org/~radhermit/dist/ejabberd-mod_statsdx-1118.patch.gz )
+_eclasses_=autotools	8056957fdccf2b3cd6e282a4b4551d1a	eutils	351a78113be5b393c09a2c948701ad36	flag-o-matic	02090c5a622458303e6bf68837ac6b96	git-r3	1502b9838d043db47700b8120083e637	libtool	7f78cd7d403808a350c9ae23f5821fb4	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	pam	05f80e6013406d68612a7493314e3777	ssl-cert	e90a74de57c48ea6c058b1cb3a735907	subversion	d11b897c0c78e23413f0af0959ec6b92	systemd	6b4f0cefa642270eded7e6ca816fd181	toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361
+_md5_=630966899a09d09405b1d35945862567

@@ -1,13 +1,13 @@
-_eclasses_=toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361	java-pkg-2	bb9b8157d2a348d9ec42ce34a107fe0d	flag-o-matic	2090c5a622458303e6bf68837ac6b96	python	6d7be3e54573292f012e3cc433d8297	java-utils-2	7c8af272d218f7b7df22fd16bb0bfb63	versionator	99ae9d758cbe7cfed19170e7d48f5a9c	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	cmake-utils	f474224ef49d530640a43a04ae94928e	ssl-cert	e90a74de57c48ea6c058b1cb3a735907	eutils	351a78113be5b393c09a2c948701ad36
-_md5_=7d637ca963ef81200959e919450047
-SLOT=0
 DEFINED_PHASES=compile configure install postinst preinst prepare setup test
-EAPI=5
 DEPEND=cim? ( dev-libs/sblim-sfcc ) ssl? ( dev-libs/openssl ) pam? ( virtual/pam ) ruby? ( <dev-lang/ruby-2 ) perl? ( dev-lang/perl ) java? ( virtual/jdk ) plugins? ( dev-lang/swig ) net-misc/curl[idn] dev-libs/libxml2[icu] test? ( dev-util/cunit ) python? ( =dev-lang/python-2.7* ) sys-devel/make >=dev-util/cmake-2.8.12 userland_GNU? ( >=sys-apps/findutils-4.4.0 ) ssl? ( dev-libs/openssl ) >=dev-java/java-config-2.2.0
 DESCRIPTION=Opensource Implementation of WS-Management Client
-LICENSE=BSD
-IUSE=+cim debug examples +eventing ipv6 java pam perl python plugins ruby ssl +server test ssl elibc_FreeBSD elibc_FreeBSD
-SRC_URI=mirror://sourceforge/project/openwsman/openwsman/2.3.6/openwsman-2.3.6.tar.bz2
-KEYWORDS=~amd64 ~x86
+EAPI=5
 HOMEPAGE=http://sourceforge.net/projects/openwsman
+IUSE=+cim debug examples +eventing ipv6 java pam perl python plugins ruby ssl +server test ssl elibc_FreeBSD elibc_FreeBSD
+KEYWORDS=~amd64 ~x86
+LICENSE=BSD
 RDEPEND=cim? ( dev-libs/sblim-sfcc ) ssl? ( dev-libs/openssl ) pam? ( virtual/pam ) ruby? ( <dev-lang/ruby-2 ) perl? ( dev-lang/perl ) java? ( virtual/jdk ) plugins? ( dev-lang/swig ) net-misc/curl[idn] dev-libs/libxml2[icu] python? ( =dev-lang/python-2.7* ) >=dev-java/java-config-2.2.0
+SLOT=0
+SRC_URI=mirror://sourceforge/project/openwsman/openwsman/2.3.6/openwsman-2.3.6.tar.bz2
+_eclasses_=cmake-utils	f474224ef49d530640a43a04ae94928e	eutils	351a78113be5b393c09a2c948701ad36	flag-o-matic	02090c5a622458303e6bf68837ac6b96	java-pkg-2	bb9b8157d2a348d9ec42ce34a107fe0d	java-utils-2	7c8af272d218f7b7df22fd16bb0bfb63	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	python	06d7be3e54573292f012e3cc433d8297	ssl-cert	e90a74de57c48ea6c058b1cb3a735907	toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
+_md5_=007d637ca963ef81200959e919450047

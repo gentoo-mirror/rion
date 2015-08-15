@@ -1,12 +1,12 @@
-_eclasses_=toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361	flag-o-matic	2090c5a622458303e6bf68837ac6b96	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	git-2	1bb87192831f668cd20d93ffb1689c94	cmake-utils	f474224ef49d530640a43a04ae94928e	eutils	351a78113be5b393c09a2c948701ad36
-_md5_=6297ae20514c57d6fcadada45960c85b
-SLOT=0
 DEFINED_PHASES=compile configure install postinst prepare setup test unpack
-EAPI=4
 DEPEND=net-im/jabber-base net-im/swiften dev-libs/popt dev-libs/openssl log? ( dev-libs/log4cxx ) mysql? ( virtual/mysql ) postgres? ( dev-libs/libpqxx ) sqlite? ( dev-db/sqlite:3 ) frotz? ( dev-libs/protobuf ) irc? ( <net-im/libcommuni-3 dev-libs/protobuf ) purple? ( >=net-im/pidgin-2.6.0 dev-libs/protobuf ) skype? ( dev-libs/dbus-glib x11-base/xorg-server[xvfb] dev-libs/protobuf ) libev? ( dev-libs/libev dev-libs/protobuf ) sys-devel/gettext dev-util/cmake doc? ( app-doc/doxygen ) test? ( dev-util/cppunit ) sys-devel/make >=dev-util/cmake-2.8.12 userland_GNU? ( >=sys-apps/findutils-4.4.0 ) dev-vcs/git
 DESCRIPTION=Spectrum is an XMPP transport/gateway
-LICENSE=GPL-2
-IUSE=debug doc libev log mysql postgres sqlite staticport symlinks test tools frotz irc purple skype smstools
-REQUIRED_USE=|| ( sqlite mysql postgres )
+EAPI=4
 HOMEPAGE=http://spectrum.im
+IUSE=debug doc libev log mysql postgres sqlite staticport symlinks test tools frotz irc purple skype smstools
+LICENSE=GPL-2
 RDEPEND=net-im/jabber-base net-im/swiften dev-libs/popt dev-libs/openssl log? ( dev-libs/log4cxx ) mysql? ( virtual/mysql ) postgres? ( dev-libs/libpqxx ) sqlite? ( dev-db/sqlite:3 ) frotz? ( dev-libs/protobuf ) irc? ( <net-im/libcommuni-3 dev-libs/protobuf ) purple? ( >=net-im/pidgin-2.6.0 dev-libs/protobuf ) skype? ( dev-libs/dbus-glib x11-base/xorg-server[xvfb] dev-libs/protobuf ) libev? ( dev-libs/libev dev-libs/protobuf )
+REQUIRED_USE=|| ( sqlite mysql postgres )
+SLOT=0
+_eclasses_=cmake-utils	f474224ef49d530640a43a04ae94928e	eutils	351a78113be5b393c09a2c948701ad36	flag-o-matic	02090c5a622458303e6bf68837ac6b96	git-2	1bb87192831f668cd20d93ffb1689c94	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361
+_md5_=6297ae20514c57d6fcadada45960c85b
