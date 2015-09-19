@@ -38,32 +38,6 @@ media-libs/mediastreamer:ortp - Enable usage of net-libs/ortp
 media-libs/mediastreamer:pcap - Enable usage of net-libs/libpcap
 media-libs/mediastreamer:silk - Use silk (skype protocol) codec plugin
 media-libs/mediastreamer:video - Enable video support
-net-im/ejabberd:atom_pubsub - Build pubsub to Atom translation module
-net-im/ejabberd:captcha - Support for CAPTCHA Forms (XEP-158)
-net-im/ejabberd:ircd - Build IRC-Daemon module
-net-im/ejabberd:md5 - Apply patch, that makes eJabberd save and read passwords hashed in md5, instead of plaintext.
-net-im/ejabberd:mod_admin_extra - Build module for extra admin features (for ejabberdctl).
-net-im/ejabberd:mod_archive - Build archive module
-net-im/ejabberd:mod_cron - Build cron module
-net-im/ejabberd:mod_irc - Build IRC module
-net-im/ejabberd:mod_log_chat - Build module for logging chats (with odbc support)
-net-im/ejabberd:mod_logsession - Build logsession module.
-net-im/ejabberd:mod_logxml - Build logxml module.
-net-im/ejabberd:mod_muc - Build Multi User Chat module
-net-im/ejabberd:mod_muc_admin - Build module for extra (muc-related) admin features (for ejabberdctl).
-net-im/ejabberd:mod_muc_log_http - Build module for accessing to logs during internal webserver.
-net-im/ejabberd:mod_multicast - Build module for sending multicast stanzas
-net-im/ejabberd:mod_openid - Build module for OpenID-providing
-net-im/ejabberd:mod_profile - Build user profile module
-net-im/ejabberd:mod_proxy65 - Support for SOCKS5 Bytestreams (XEP-0065)
-net-im/ejabberd:mod_pubsub - Build Pubsub module
-net-im/ejabberd:mod_register_web - Build module for registration over web.
-net-im/ejabberd:mod_rest - Build rest-module
-net-im/ejabberd:mod_s2s_log - Build module for s2s logging
-net-im/ejabberd:mod_shcommands - Build module for executing shell-commands
-net-im/ejabberd:mod_statsdx - Build stats module
-net-im/ejabberd:mod_webpresence - Build web presence module.
-net-im/ejabberd:web - Enable web admin interface
 net-im/psi:enchant - Use enchant spell engine instead of aspell
 net-im/psi:extras - Enables extra non official patches
 net-im/psi:iconsets - Install additional iconsets, some of them has not clear licensing
