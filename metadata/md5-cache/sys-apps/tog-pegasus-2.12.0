@@ -8,5 +8,5 @@ LICENSE=MIT
 RDEPEND=dev-libs/icu net-libs/openslp dev-libs/openssl
 SLOT=0
 SRC_URI=mirror://fedora-dev/linux/development/rawhide/source/SRPMS/t/tog-pegasus-2.12.0-5.fc19.src.rpm
-_eclasses_=eutils	95613dd6157fb4a3b225eafdc56bd441	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	rpm	514a1840ee796656311a029ea952faa9	toolchain-funcs	1dfcad7b3f439dbc511d76c49f23da0d
+_eclasses_=eutils	43da5163ba106e87d22d2e7d6d67537f	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	rpm	514a1840ee796656311a029ea952faa9	toolchain-funcs	1dfcad7b3f439dbc511d76c49f23da0d
 _md5_=f10a3b3409ad4a326d69605a40e7b161

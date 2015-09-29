@@ -8,5 +8,5 @@ LICENSE=EULA
 RDEPEND=app-emulation/emul-linux-x86-xlibs app-emulation/emul-linux-x86-baselibs app-emulation/emul-linux-x86-soundlibs
 SLOT=1.04.633
 SRC_URI=http://navikey.ru/files/7w/7ways.tar.gz
-_eclasses_=eutils	95613dd6157fb4a3b225eafdc56bd441	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	toolchain-funcs	1dfcad7b3f439dbc511d76c49f23da0d
+_eclasses_=eutils	43da5163ba106e87d22d2e7d6d67537f	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	toolchain-funcs	1dfcad7b3f439dbc511d76c49f23da0d
 _md5_=14efd6089187a1961f756cb8120a611a

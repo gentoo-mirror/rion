@@ -8,5 +8,5 @@ LICENSE=GPL-2
 RDEPEND=dev-qt/qtgui:= dbus? ( dev-qt/qtdbus:= ) dev-libs/glib:2 plugin_swac? ( dev-qt/qtsql:= )
 REQUIRED_USE=|| ( plugin_stardict plugin_swac plugin_web )
 SLOT=0
-_eclasses_=base	84d9f879f57a8316ff02be0373a3d6f9	confutils	18995f74ac4ffafb7ad853dfe133f209	eutils	95613dd6157fb4a3b225eafdc56bd441	git-2	1bb87192831f668cd20d93ffb1689c94	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	qmake-utils	05b63bb5c708c5903a9de5c58c8e43c8	qt4-r2	cb2cb5856695b300266b425da70e82d8	toolchain-funcs	1dfcad7b3f439dbc511d76c49f23da0d
+_eclasses_=base	84d9f879f57a8316ff02be0373a3d6f9	confutils	18995f74ac4ffafb7ad853dfe133f209	eutils	43da5163ba106e87d22d2e7d6d67537f	git-2	1bb87192831f668cd20d93ffb1689c94	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	qmake-utils	05b63bb5c708c5903a9de5c58c8e43c8	qt4-r2	cb2cb5856695b300266b425da70e82d8	toolchain-funcs	1dfcad7b3f439dbc511d76c49f23da0d
 _md5_=1b53a020fc84bd8a7bd386b1fa5ad386
