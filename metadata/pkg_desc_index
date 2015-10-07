@@ -12,10 +12,11 @@ app-text/myrulib 0.29.14 0.29.16 9999: E-book collection manager
 app-text/qstardict 1.0.1 9999: QStarDict is a StarDict clone written with using Qt
 app-text/rst2epub 20120114 99999999: reStructuredText documents to epub files convertor
 app-vim/ag 9999: vim plugin: the_silver_searcher integration
-dev-db/spatialite 4.1.1: A complete Spatial DBMS in a nutshell built upon sqlite
-dev-db/spatialite-tools 4.1.1: A complete Spatial DBMS in a nutshell built upon sqlite
+dev-db/spatialite 4.1.1 4.3.0: A complete Spatial DBMS in a nutshell built upon sqlite
+dev-db/spatialite-tools 4.1.1 4.3.0: A complete Spatial DBMS in a nutshell built upon sqlite
 dev-db/wxsqlite3 3.0.5: C++ wrapper around the public domain SQLite 3.x database
 dev-libs/extra-cmake-modules 9999: Extra modules and scripts for CMake
+dev-libs/freexl 1.0.2: Simple XLS data extraction library
 dev-libs/sblim-cmpi-devel 2.0.3: SBLIM CMPI Provider Development Support
 dev-libs/sblim-indication_helper 0.4.2: Toolkit for CMPI indication providers
 dev-libs/sblim-sfcCommon 1.0.0 1.0.1: Provides a common library for functions shared between sfcb and sfcc.
