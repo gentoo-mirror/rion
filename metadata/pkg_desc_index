@@ -39,7 +39,7 @@ media-gfx/glc-player 2.3.0: Open Source 3D viewer used to view 3d models
 media-gfx/phatch 0.2.7.1 0.2.7.1-r1: Phatch is a simple to use cross-platform GUI Photo Batch Processor
 media-gfx/separate 0.5.8: Separate+ is the plug-in package that provides some useful color-management functions for the GIMP.
 media-gfx/simpleviewer-gl 9999: Small and simple image viewer for Linux.
-media-libs/glc-lib 2.2.0: OpenGL Library Class
+media-libs/glc-lib 2.1.0-r1 2.2.0: OpenGL Library Class
 media-libs/mediastreamer 2.11.0: Mediastreaming library for telephony application
 media-sound/alsoft-conf 1.4.3: OpenAL Soft Configurator
 media-sound/dcaenc 2: Encoder for the DTS Coherent Acoustics audio format
