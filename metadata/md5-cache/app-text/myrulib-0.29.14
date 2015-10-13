@@ -9,5 +9,5 @@ LICENSE=GPL-3
 RDEPEND=x11-libs/wxGTK:2.8[X] dev-libs/libxml2 dev-db/sqlite:3[fts3(+),icu?] app-arch/bzip2 icu? ( dev-libs/icu:= ) reader? ( media-libs/freetype:2 media-libs/libpng:= virtual/jpeg sys-libs/zlib )
 SLOT=0
 SRC_URI=http://launchpad.net/myrulib/trunk/0.29.14/+download/myrulib-0.29.14.tar.bz2
-_eclasses_=eutils	43da5163ba106e87d22d2e7d6d67537f	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	toolchain-funcs	1dfcad7b3f439dbc511d76c49f23da0d	wxwidgets	e0c7fd61275cea7156be4143ba8c673a
+_eclasses_=eutils	43da5163ba106e87d22d2e7d6d67537f	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85	wxwidgets	e0c7fd61275cea7156be4143ba8c673a
 _md5_=faa8c0f91df58bf6cd7991df46d3830f
