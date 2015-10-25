@@ -8,5 +8,5 @@ LICENSE=GPL-2
 RDEPEND=net-im/jabber-base net-im/swiften dev-libs/popt dev-libs/openssl log? ( dev-libs/log4cxx ) mysql? ( virtual/mysql ) postgres? ( dev-libs/libpqxx ) sqlite? ( dev-db/sqlite:3 ) frotz? ( dev-libs/protobuf ) irc? ( net-im/libcommuni dev-libs/protobuf ) purple? ( >=net-im/pidgin-2.6.0 dev-libs/protobuf ) skype? ( dev-libs/dbus-glib x11-base/xorg-server[xvfb] dev-libs/protobuf ) libev? ( dev-libs/libev dev-libs/protobuf )
 REQUIRED_USE=|| ( sqlite mysql postgres )
 SLOT=0
-_eclasses_=cmake-utils	7dc05d514e5011a2a16bfa7a32e69587	eutils	43da5163ba106e87d22d2e7d6d67537f	flag-o-matic	85dc1eac3c64d8141374490ed64122e5	git-2	1bb87192831f668cd20d93ffb1689c94	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
+_eclasses_=cmake-utils	7dc05d514e5011a2a16bfa7a32e69587	eutils	43da5163ba106e87d22d2e7d6d67537f	flag-o-matic	85dc1eac3c64d8141374490ed64122e5	git-2	32530738ee006bc09e1ac93f6e73d719	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
 _md5_=cc8f672af10589ff36dbb13bee9c945d
