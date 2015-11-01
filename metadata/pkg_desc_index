@@ -44,6 +44,7 @@ media-libs/mediastreamer 2.11.0: Mediastreaming library for telephony applicatio
 media-sound/alsoft-conf 1.4.3: OpenAL Soft Configurator
 media-sound/dcaenc 2: Encoder for the DTS Coherent Acoustics audio format
 media-sound/vkplayer 0.08.15 0.08.16.4: Music player for social network VKontakte.ru
+net-im/ejabberd 15.10: The Erlang Jabber Daemon
 net-im/exmpp 0.9.9 9999: fast and scalable XMPP library written in Erlang/OTP
 net-im/libcommuni 2.2.0 3.4.0: A cross-platform IRC framework written with Qt 4
 net-im/psi 9999: Qt4 Jabber client, with Licq-like interface

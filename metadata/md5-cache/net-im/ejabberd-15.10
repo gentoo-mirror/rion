@@ -1,0 +1,13 @@
+DEFINED_PHASES=compile configure install postinst prepare
+DEPEND=>=net-im/jabber-base-0.01 >=dev-libs/expat-1.95 >=dev-libs/libyaml-0.1.4 >=dev-lang/erlang-15.2[ssl] odbc? ( dev-db/unixODBC ) ldap? ( =net-nds/openldap-2* ) >=dev-libs/openssl-0.9.8e captcha? ( media-gfx/imagemagick[truetype,png] ) zlib? ( >=sys-libs/zlib-1.2.3 ) ssl? ( dev-libs/openssl ) virtual/pkgconfig !<sys-devel/gettext-0.18.1.1-r3 || ( >=sys-devel/automake-1.15:1.15 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4
+DESCRIPTION=The Erlang Jabber Daemon
+EAPI=5
+HOMEPAGE=http://www.ejabberd.im/ https://github.com/processone/ejabberd/
+IUSE=captcha debug elixir ldap mysql nls odbc pam postgres riak redis tools zlib mod_bosh mod_irc mod_muc mod_proxy65 mod_pubsub ssl
+KEYWORDS=~amd64 ~arm ~ia64 ~ppc ~sparc ~x86
+LICENSE=GPL-2
+RDEPEND=>=net-im/jabber-base-0.01 >=dev-libs/expat-1.95 >=dev-libs/libyaml-0.1.4 >=dev-lang/erlang-15.2[ssl] odbc? ( dev-db/unixODBC ) ldap? ( =net-nds/openldap-2* ) >=dev-libs/openssl-0.9.8e captcha? ( media-gfx/imagemagick[truetype,png] ) zlib? ( >=sys-libs/zlib-1.2.3 ) >=sys-apps/shadow-4.1.4.2-r3 pam? ( virtual/pam )
+SLOT=0
+SRC_URI=https://github.com/processone/ejabberd/archive/15.10.tar.gz -> ejabberd-15.10.tar.gz
+_eclasses_=autotools	07e71b3b5690738ef7e8bc097077e00c	eutils	43da5163ba106e87d22d2e7d6d67537f	flag-o-matic	85dc1eac3c64d8141374490ed64122e5	libtool	7f78cd7d403808a350c9ae23f5821fb4	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	pam	3ecd5b75e39b0bb05a3183c08fcdfdb4	ssl-cert	e90a74de57c48ea6c058b1cb3a735907	systemd	6b4f0cefa642270eded7e6ca816fd181	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
+_md5_=9ee169b53c8c6da3cea308b7ecc9c5fe
