@@ -36,7 +36,7 @@ mail-filter/milter-greylist 4.3.9 4.4.1 4.4.2 4.4.3: Milter-greylist is a stand-
 mail-filter/opendmarc 1.0.0 1.0.0-r1: Open source DMARC implementation
 mail-filter/policyd 2.0.12 2.0.14: Policy daemon for postfix and other MTAs
 media-gfx/glc-player 2.3.0: Open Source 3D viewer used to view 3d models
-media-gfx/phatch 0.2.7.1 0.2.7.1-r1: Phatch is a simple to use cross-platform GUI Photo Batch Processor
+media-gfx/phatch 9999: Phatch is a simple to use cross-platform GUI Photo Batch Processor
 media-gfx/separate 0.5.8: Separate+ is the plug-in package that provides some useful color-management functions for the GIMP.
 media-gfx/simpleviewer-gl 9999: Small and simple image viewer for Linux.
 media-libs/glc-lib 2.1.0-r1 2.2.0: OpenGL Library Class
