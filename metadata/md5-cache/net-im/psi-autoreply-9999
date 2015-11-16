@@ -8,5 +8,5 @@ LICENSE=GPL-2
 RDEPEND=>=net-im/psi-9999[extras,plugins]
 REQUIRED_USE=^^ ( qt4 qt5 )
 SLOT=0
-_eclasses_=base	3fe4f8980633fd7bc69e9887209ba2fe	eutils	8644194de7be04932084752fb1327080	git-2	df00117322129fb906bb0a53c3d6a020	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	psiplus-plugin	f11c1dd2aac272b2ef165b28fe97757f	qmake-utils	05b63bb5c708c5903a9de5c58c8e43c8	qt4-r2	cb2cb5856695b300266b425da70e82d8	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
+_eclasses_=base	3fe4f8980633fd7bc69e9887209ba2fe	eutils	f813d23e417656bf3917483643165d5a	git-2	df00117322129fb906bb0a53c3d6a020	multilib	3972ca401cf7dbb430df9995f5d8d580	psiplus-plugin	f11c1dd2aac272b2ef165b28fe97757f	qmake-utils	05b63bb5c708c5903a9de5c58c8e43c8	qt4-r2	cb2cb5856695b300266b425da70e82d8	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
 _md5_=9e6f97e50be6f9a71ba5a8faf40a53ff
