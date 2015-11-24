@@ -9,5 +9,6 @@ LICENSE=GPL-2
 RDEPEND=dev-perl/net-server dev-perl/Net-CIDR dev-perl/Config-IniFiles dev-perl/Cache-FastMmap dev-perl/Mail-SPF mysql? ( virtual/mysql ) postgres? ( dev-db/postgresql-base ) sqlite? ( dev-db/sqlite ) webinterface? ( dev-lang/php[pdo] virtual/httpd-php )
 SLOT=0
 SRC_URI=http://download.policyd.org/v2.0.14/cluebringer-v2.0.14.tar.bz2
+_eclass_exported_funcs=pkg_postinst:- src_install:-
 _eclasses_=multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
 _md5_=bede2b9c634591b52caf6620d5cfca5a

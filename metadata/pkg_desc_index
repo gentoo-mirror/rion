@@ -1,52 +1,52 @@
 app-admin/eselect-xorgconf 0.3: An eselect module to manage /etc/X11/xorg.conf symlink.
-app-admin/openwbem 3.2.2: The OpenWBEM CIMOM
+app-admin/openwbem 3.2.2: 
 app-admin/sblim-sfcb 1.3.15 1.3.16: Small Footprint CIM Broker (sfcb)
-app-admin/wsl 0.2.1: Wsman Shell Command Line whistle
+app-admin/wsl 0.2.1: 
 app-dicts/stardict-ruspack 0.2-r2: Collection of dicts for stardict.
-app-laptop/clevo-wmi 9999: WMI driver for Clevo laptops
+app-laptop/clevo-wmi 9999: 
 app-misc/cim-schema 2.32.0 2.34.0 2.35.0: Common Information Model (CIM) Schema
 app-misc/qmetro 0.5.5 0.5.7 9999: Vector metro (subway) map for calculating route and getting information about transport nodes.
-app-misc/qtnote 0.2.3.1-r1 3.0.3 9999: Qt note-taking application compatible with tomboy
-app-text/makedict 0.4.1_beta1 9999: Dictionary converter
-app-text/myrulib 0.29.14 0.29.16 9999: E-book collection manager
-app-text/qstardict 1.0.1 9999: QStarDict is a StarDict clone written with using Qt
+app-misc/qtnote 0.2.3.1-r1 3.0.3 9999: 
+app-text/makedict 0.4.1_beta1 9999: 
+app-text/myrulib 0.29.14 0.29.16 9999: 
+app-text/qstardict 1.0.1 9999: 
 app-text/rst2epub 20120114 99999999: reStructuredText documents to epub files convertor
-app-vim/ag 9999: vim plugin: the_silver_searcher integration
-dev-db/spatialite 4.1.1 4.3.0: A complete Spatial DBMS in a nutshell built upon sqlite
-dev-db/spatialite-tools 4.1.1 4.3.0: A complete Spatial DBMS in a nutshell built upon sqlite
-dev-db/wxsqlite3 3.0.5: C++ wrapper around the public domain SQLite 3.x database
-dev-libs/extra-cmake-modules 9999: Extra modules and scripts for CMake
-dev-libs/freexl 1.0.2: Simple XLS data extraction library
+app-vim/ag 9999: 
+dev-db/spatialite 4.1.1 4.3.0: 
+dev-db/spatialite-tools 4.1.1 4.3.0: 
+dev-db/wxsqlite3 3.0.5: 
+dev-libs/extra-cmake-modules 9999: 
+dev-libs/freexl 1.0.2: 
 dev-libs/sblim-cmpi-devel 2.0.3: SBLIM CMPI Provider Development Support
 dev-libs/sblim-indication_helper 0.4.2: Toolkit for CMPI indication providers
-dev-libs/sblim-sfcCommon 1.0.0 1.0.1: Provides a common library for functions shared between sfcb and sfcc.
-dev-libs/sblim-sfcc 2.2.5: Small Footprint CIM Client Library
-dev-ml/ocaml-curses 1.0.3: OCaml Curses is a project to provide curses / ncurses bindings for the Objective Caml language.
+dev-libs/sblim-sfcCommon 1.0.0 1.0.1: 
+dev-libs/sblim-sfcc 2.2.5: 
+dev-ml/ocaml-curses 1.0.3: 
 dev-ml/ocaml-libvirt 0.6.1.1 0.6.1.2 0.6.1.4 9999: Ocaml libvirt binding's
-dev-perl/Sys-Virt 1.2.9: Sys::Virt provides an API for using the libvirt library from Perl
-dev-python/pathtools 0.1.1: Pattern matching and various utilities for file systems paths.
+dev-perl/Sys-Virt 1.2.9: 
+dev-python/pathtools 0.1.1: 
 dev-python/rcore 9999: Just an core for all rion's projects
-dev-util/cpp2text 1.0: Stupid bidirection cpp to text converter
+dev-util/cpp2text 1.0: 
 dev-util/douml 9999: Powerful UML 2 modelling tool. BoUML fork
-dev-util/gmanedit2 9999: Gnome Manual Pages Editor
-dev-vcs/mercurial 2.8.9999: Scalable distributed SCM
-games-action/oolite 1.82: Elite space trading & warfare remake
+dev-util/gmanedit2 9999: 
+dev-vcs/mercurial 2.8.9999: 
+games-action/oolite 1.82: 
 games-arcade/supertux 9999: Classic 2D jump'n run sidescroller game in a style similar to the original Super Mario Bros.
 mail-filter/milter-greylist 4.3.9 4.4.1 4.4.2 4.4.3: Milter-greylist is a stand-alone milter that implements the greylist filtering method
-mail-filter/opendmarc 1.0.0 1.0.0-r1: Open source DMARC implementation
+mail-filter/opendmarc 1.0.0 1.0.0-r1: 
 mail-filter/policyd 2.0.12 2.0.14: Policy daemon for postfix and other MTAs
 media-gfx/glc-player 2.3.0: Open Source 3D viewer used to view 3d models
-media-gfx/phatch 9999: Phatch is a simple to use cross-platform GUI Photo Batch Processor
+media-gfx/phatch 9999: 
 media-gfx/separate 0.5.8: Separate+ is the plug-in package that provides some useful color-management functions for the GIMP.
-media-gfx/simpleviewer-gl 9999: Small and simple image viewer for Linux.
-media-libs/glc-lib 2.1.0-r1 2.2.0: OpenGL Library Class
-media-libs/mediastreamer 2.11.0: Mediastreaming library for telephony application
+media-gfx/simpleviewer-gl 9999: 
+media-libs/glc-lib 2.1.0-r1 2.2.0: 
+media-libs/mediastreamer 2.11.0: 
 media-sound/alsoft-conf 1.4.3: OpenAL Soft Configurator
 media-sound/dcaenc 2: Encoder for the DTS Coherent Acoustics audio format
 media-sound/vkplayer 0.08.15 0.08.16.4: Music player for social network VKontakte.ru
-net-im/ejabberd 15.10: The Erlang Jabber Daemon
-net-im/libcommuni 2.2.0 3.4.0: A cross-platform IRC framework written with Qt 4
-net-im/psi 9999: Qt4 Jabber client, with Licq-like interface
+net-im/ejabberd 15.10: 
+net-im/libcommuni 2.2.0 3.4.0: 
+net-im/psi 9999: 
 net-im/psi-attention 9999: Psi plugin for making attention (XEP-0224)
 net-im/psi-autoreply 9999: Psi autoreply plugin.
 net-im/psi-birthdayreminder 9999: Psi plugin to remind contact's birthdays
@@ -69,7 +69,7 @@ net-im/psi-jabberdisk 9999: Psi+ plugin for file sharing via jabber disk
 net-im/psi-juick 9999: Psi plugin for juick.com service
 net-im/psi-otr 0.9.4 9999: OTR Plugin for Psi
 net-im/psi-pepchangenotify 9999: Psi plugin to show PEP change notifications
-net-im/psi-plugins-meta 9999: Meta package for net-im/psi plugins
+net-im/psi-plugins-meta 9999: 
 net-im/psi-psto 9999: Psi plugin for psto.net service
 net-im/psi-qipxstatuses 9999: QIP xStatus reader Psi plugin
 net-im/psi-screenshot 9999: Psi plugin to quickly make screenshots
@@ -84,47 +84,47 @@ net-im/psimedia 9999: Psi plugin for voice/video calls
 net-im/spectrum 1.4.8 1.9999 2.9999: Spectrum is an XMPP transport/gateway
 net-im/swift 1.0 9999: Qt4 jabber (xmpp) client
 net-im/swiften 9999: Just a perfect C++ XMPP library
-net-im/vacuum 9999: Qt4 Crossplatform Jabber client.
-net-im/vacuum-dbusnotifications 15 9999: DBus popup notifications for vacuum
-net-im/vacuum-gmailnotify 1.0.0.11 9999: GMail notifications for vacuum
-net-im/vacuum-kinotifications 11 9999: Kinetic popup notifications for vacuum
+net-im/vacuum 9999: 
+net-im/vacuum-dbusnotifications 15 9999: 
+net-im/vacuum-gmailnotify 1.0.0.11 9999: 
+net-im/vacuum-kinotifications 11 9999: 
 net-im/vacuum-otre2e 9999: Off-The-Record messaging (OTR) for vacuum
-net-im/vacuum-spellchecker 0.0.3.28 9999: Spell checker for vacuum
-net-libs/jdns 2.0.3: JDNS is a simple DNS implementation library
-net-libs/ortp 0.24.0: Open Real-time Transport Protocol (RTP, RFC3550) stack
-net-mail/mailgraph 1.14-r3: A mail statistics RRDtool frontend for Postfix
+net-im/vacuum-spellchecker 0.0.3.28 9999: 
+net-libs/jdns 2.0.3: 
+net-libs/ortp 0.24.0: 
+net-mail/mailgraph 1.14-r3: 
 net-misc/dlan-linux 6.1: Find and configure your devolo (Etbernet via existing electrical wiring) dLAN devices
 net-misc/hermes 9999: The great messenger of the gods
 net-misc/htbstat 0.9: HTB class tree viewer of alexpro (Alexey Prokopchuk)
 net-misc/kamailio 3.3.3: An Open SIP Express Router
-net-misc/linuxptp 1.3 1.4: Precision Time Protocol (PTP) for Linux ( IEEE standard 1588 )
-net-misc/modem-manager-gui 0.0.16: GUI for Modem Manager daemon.
-net-p2p/dump_viewer 9999: Viewer for DB dumps of torrent trackers
+net-misc/linuxptp 1.3 1.4: 
+net-misc/modem-manager-gui 0.0.16: 
+net-p2p/dump_viewer 9999: 
 net-p2p/passkeychanger 0.1.0.0 9999: Qt4 torrent passkey changer
-net-print/hplip-plugin 3.14.10 3.15.9 3.15.11: Proprietary plugins and firmware for HPLIP
-sci-geosciences/7ways 1.04.633: NaviKey's car navigation software
-sci-geosciences/qgis 2.10.1 2.12.0: User friendly Geographic Information System
-sci-libs/geographiclib 1.31 1.32: Small set of C++ classes for performing various geographic and geodesic conversions
+net-print/hplip-plugin 3.14.10 3.15.9 3.15.11: 
+sci-geosciences/7ways 1.04.633: 
+sci-geosciences/qgis 2.10.1 2.12.0: 
+sci-libs/geographiclib 1.31 1.32: 
 sys-apps/hasp 3.3_p5-r1: Hardware Against Software Piracy for access to parallel and usb keys
-sys-apps/ksmtuned 9999: Simple script that controls whether (and with what vigor) ksm should search for duplicated pages
+sys-apps/ksmtuned 9999: 
 sys-apps/linux-ftools 0_p20120419: Linux command line tools for fallocate, fincore, fadvise
-sys-apps/openwsman 2.3.5 2.3.6: Opensource Implementation of WS-Management Client
+sys-apps/openwsman 2.3.5 2.3.6: 
 sys-apps/sblim-cmpi-base 1.6.2: SBLIM Base Providers
 sys-apps/sblim-cmpi-fsvol 1.5.1: SBLIM fsvol instrumentation
 sys-apps/sblim-gather 2.2.7 2.2.8: SBLIM Performance Data Gatherer
 sys-apps/tog-pegasus 2.12.0: OpenPegasus WBEM Services for Linux
 sys-apps/wsmancli 2.3.0: Opensource Implementation of WS-Management - Command line utility
-sys-cluster/ploop 1.12.2: openvz tool and a library to control ploop block devices
-sys-devel/qconf 1.6_pre1 9999: Qt ./configure generation util
-sys-kernel/openvz-sources 2.6.32.104.1: Kernel sources with OpenVZ patchset
+sys-cluster/ploop 1.12.2: 
+sys-devel/qconf 1.6_pre1 9999: 
+sys-kernel/openvz-sources 2.6.32.104.1: 
 sys-power/lpmd 0.0.6-r1: Daemon controlling CPU, temperature, power, configurable in Lua
 www-apache/mod_ruid2 0.9.8: mod_ruid2 is a suexec module for apache which takes advantage of POSIX.1e capabilities
 www-apps/ctpp2 2.8.3-r1: CTPP is a tool separating data processing (business logic) from data presentation.
 www-apps/haserl 0.9.29: HTML And Shell Embedded Report Language
-www-plugins/freshplayerplugin 9999: PPAPI-host NPAPI-plugin adapter for flashplayer in npapi based browsers
+www-plugins/freshplayerplugin 9999: 
 www-servers/adsf 1.0.1: A Dead Simple Fileserver is a static file server that you can launch instantly in a directory.
 x11-misc/kbdd 9999: Very simple layout switcher
-x11-plugins/mrim-prpl 0.1.26 0.1.28 0.1.28.1 9999: Mail.Ru agent protocol for pidgin.
+x11-plugins/mrim-prpl 0.1.26 0.1.28 0.1.28.1 9999: 
 x11-themes/country-flag 0: The flag icon filenames follow the ISO 3166-1 alpha-2 country codes.
-x11-themes/elementary-icon-theme 2.7.1-r1 3.1: Elementary gnome icon theme
-x11-wm/awesome 9999: A dynamic floating and tiling window manager
+x11-themes/elementary-icon-theme 2.7.1-r1 3.1: 
+x11-wm/awesome 9999: 
