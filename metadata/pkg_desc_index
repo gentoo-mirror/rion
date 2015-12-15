@@ -103,7 +103,7 @@ net-p2p/dump_viewer 9999: Viewer for DB dumps of torrent trackers
 net-p2p/passkeychanger 0.1.0.0 9999: Qt4 torrent passkey changer
 net-print/hplip-plugin 3.14.10 3.15.9 3.15.11: Proprietary plugins and firmware for HPLIP
 sci-geosciences/7ways 1.04.633: NaviKey's car navigation software
-sci-geosciences/qgis 2.10.1 2.12.0: User friendly Geographic Information System
+sci-geosciences/qgis 2.10.1 2.12.1: User friendly Geographic Information System
 sci-libs/geographiclib 1.31 1.32: Small set of C++ classes for performing various geographic and geodesic conversions
 sys-apps/hasp 3.3_p5-r1: Hardware Against Software Piracy for access to parallel and usb keys
 sys-apps/ksmtuned 9999: Simple script that controls whether (and with what vigor) ksm should search for duplicated pages
