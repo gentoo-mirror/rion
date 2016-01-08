@@ -8,5 +8,5 @@ LICENSE=GPL-3
 RDEPEND=avahi? ( net-dns/avahi ) >=dev-libs/boost-1.42 >=dev-libs/openssl-0.9.8g >=net-dns/libidn-1.10 >=x11-libs/libXScrnSaver-1.2 >=dev-qt/qtgui-4.5:4 >=dev-qt/qtwebkit-4.5:4 dev-libs/libxml2 >=dev-libs/expat-2.0.1 sys-libs/zlib
 SLOT=0
 _eclass_exported_funcs=src_unpack:git-2 src_prepare:- src_compile:- src_test:- src_install:-
-_eclasses_=git-2	df00117322129fb906bb0a53c3d6a020	multilib	3972ca401cf7dbb430df9995f5d8d580	scons-utils	b7d634f772db55c8af429f50aeec6ee0	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
+_eclasses_=git-2	df00117322129fb906bb0a53c3d6a020	multilib	3972ca401cf7dbb430df9995f5d8d580	scons-utils	6a35944612b7ecb18a3803359554badc	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
 _md5_=2e8b86e36b98c08e3926b0f4bf20504a

@@ -10,5 +10,5 @@ RDEPEND=avahi? ( net-dns/avahi ) >=dev-libs/boost-1.42 >=dev-libs/openssl-0.9.8g
 SLOT=0
 SRC_URI=http://swift.im/downloads/releases/swift-1.0/swift-1.0.tar.gz
 _eclass_exported_funcs=src_prepare:- src_compile:- src_test:- src_install:-
-_eclasses_=multilib	3972ca401cf7dbb430df9995f5d8d580	scons-utils	b7d634f772db55c8af429f50aeec6ee0	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
+_eclasses_=multilib	3972ca401cf7dbb430df9995f5d8d580	scons-utils	6a35944612b7ecb18a3803359554badc	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
 _md5_=cbd79896cce2d6143eaa27b19d1bd8c1
