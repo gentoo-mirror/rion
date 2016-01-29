@@ -9,4 +9,4 @@ RDEPEND=avahi? ( net-dns/avahi ) >=dev-libs/boost-1.42 >=dev-libs/openssl-0.9.8g
 SLOT=0
 _eclass_exported_funcs=src_unpack:git-2 src_prepare:- src_compile:- src_test:- src_install:-
 _eclasses_=git-2	df00117322129fb906bb0a53c3d6a020	multilib	3972ca401cf7dbb430df9995f5d8d580	scons-utils	6a35944612b7ecb18a3803359554badc	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
-_md5_=2e8b86e36b98c08e3926b0f4bf20504a
+_md5_=e089a7f48994867eff51330d092025ba

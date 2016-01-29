@@ -11,4 +11,4 @@ SLOT=0
 SRC_URI=http://www.gaia-gis.it/gaia-sins/spatialite-tools-sources/spatialite-tools-4.3.0.tar.gz
 _eclass_exported_funcs=src_configure:-
 _eclasses_=multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
-_md5_=58bab85e2fe22e64b0673c25008ff2a4
+_md5_=dbfbe9f929c743c6cb04cee8e984ce03

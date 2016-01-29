@@ -10,4 +10,4 @@ SLOT=0
 SRC_URI=mirror://sourceforge/lpmd/lpmd-0.0.6.tar.xz
 _eclass_exported_funcs=src_compile:- src_install:-
 _eclasses_=multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
-_md5_=ff598f4d019d1ea44cc65c632751d5f4
+_md5_=da631c7a5e9f6c1072432e30194a578b

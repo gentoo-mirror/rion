@@ -9,4 +9,4 @@ RDEPEND=dev-libs/glib x11-libs/libX11 dbus? ( sys-apps/dbus >=dev-libs/dbus-glib
 SLOT=0
 _eclass_exported_funcs=src_unpack:git-2 src_prepare:- src_configure:-
 _eclasses_=autotools	07e71b3b5690738ef7e8bc097077e00c	git-2	df00117322129fb906bb0a53c3d6a020	libtool	b75230758539a7da029e24afdb693960	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
-_md5_=419e26c32df8bbadc4308373e4203fe4
+_md5_=b5c916f2cac8a4184f84101f2b1d7018
