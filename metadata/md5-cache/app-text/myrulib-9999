@@ -8,5 +8,5 @@ LICENSE=GPL-3
 RDEPEND=x11-libs/wxGTK:2.8[X] dev-libs/libxml2 dev-db/sqlite:3[fts3(+),icu?] dev-db/wxsqlite3:2.8 app-arch/bzip2 icu? ( dev-libs/icu:= ) reader? ( media-libs/freetype:2 media-libs/libpng:= virtual/jpeg sys-libs/zlib )
 SLOT=0
 _eclass_exported_funcs=src_unpack:git-2 src_prepare:- src_configure:-
-_eclasses_=eutils	28fb3e5852485af1c348d446b0b98389	flag-o-matic	85dc1eac3c64d8141374490ed64122e5	git-2	df00117322129fb906bb0a53c3d6a020	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85	wxwidgets	2a19d3cd9b18703ae9fb53123722061c
+_eclasses_=eutils	28fb3e5852485af1c348d446b0b98389	flag-o-matic	d270fa247153df66074f795fa42dba3e	git-2	df00117322129fb906bb0a53c3d6a020	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85	wxwidgets	2a19d3cd9b18703ae9fb53123722061c
 _md5_=e32b7380544cbd146180c722606c3033
