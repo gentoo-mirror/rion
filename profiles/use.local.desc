@@ -153,3 +153,6 @@ sys-apps/sblim-gather:libvirt -
 sys-apps/sblim-gather:provider - 
 www-apps/ctpp2:md5 - 
 x11-themes/elementary-icon-theme:monochrome - Monochrome addon for opaque light panels
+x11-themes/qtcurve:kde - Enable KDE4 support. This adds a QtCurve configuration module to KDE's SystemSettings
+x11-themes/qtcurve:kf5 - Enable KDE Frameworks 5 support
+x11-themes/qtcurve:windeco - Enable window decoration for KWin
