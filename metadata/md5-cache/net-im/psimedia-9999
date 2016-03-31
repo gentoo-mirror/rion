@@ -1,12 +1,13 @@
-DEFINED_PHASES=compile configure install prepare unpack
-DEPEND=>=dev-libs/glib-2.20.0 media-libs/gstreamer:0.10 media-libs/gst-plugins-base:0.10 media-libs/gst-plugins-good:0.10 >=dev-qt/qtgui-4.4:4 >=media-libs/speex-1.2_rc1 dev-libs/liboil sys-devel/qconf virtual/pkgconfig dev-vcs/git
+DEFINED_PHASES=compile configure install prepare test unpack
+DEPEND=>=dev-libs/glib-2.20.0 media-libs/gstreamer:0.10 media-libs/gst-plugins-base:0.10 media-libs/gst-plugins-good:0.10 qt4? ( >=dev-qt/qtcore-4.4:4 >=dev-qt/qtgui-4.4:4 ) qt5? ( dev-qt/qtcore:5 dev-qt/qtgui:5 dev-qt/qtwidgets ) >=media-libs/speex-1.2_rc1 dev-libs/liboil sys-devel/make >=dev-util/cmake-2.8.12 dev-vcs/git
 DESCRIPTION=Psi plugin for voice/video calls
-EAPI=4
+EAPI=5
 HOMEPAGE=http://delta.affinix.com/psimedia/
-IUSE=demo extras
+IUSE=debug demo extras qt4 qt5
 LICENSE=GPL-2
-RDEPEND=>=dev-libs/glib-2.20.0 media-libs/gstreamer:0.10 media-libs/gst-plugins-base:0.10 media-libs/gst-plugins-good:0.10 >=dev-qt/qtgui-4.4:4 >=media-libs/speex-1.2_rc1 dev-libs/liboil media-plugins/gst-plugins-speex:0.10 media-plugins/gst-plugins-vorbis:0.10 media-plugins/gst-plugins-theora:0.10 media-plugins/gst-plugins-alsa:0.10 media-plugins/gst-plugins-ogg:0.10 media-plugins/gst-plugins-v4l2:0.10 media-plugins/gst-plugins-jpeg:0.10 !<net-im/psi-0.13_rc1 extras? ( >=net-im/psi-0.15_pre20110125[extras] )
+RDEPEND=>=dev-libs/glib-2.20.0 media-libs/gstreamer:0.10 media-libs/gst-plugins-base:0.10 media-libs/gst-plugins-good:0.10 qt4? ( >=dev-qt/qtcore-4.4:4 >=dev-qt/qtgui-4.4:4 ) qt5? ( dev-qt/qtcore:5 dev-qt/qtgui:5 dev-qt/qtwidgets ) >=media-libs/speex-1.2_rc1 dev-libs/liboil media-plugins/gst-plugins-speex:0.10 media-plugins/gst-plugins-vorbis:0.10 media-plugins/gst-plugins-theora:0.10 media-plugins/gst-plugins-alsa:0.10 media-plugins/gst-plugins-ogg:0.10 media-plugins/gst-plugins-v4l2:0.10 media-plugins/gst-plugins-jpeg:0.10 !<net-im/psi-0.13_rc1 extras? ( >=net-im/psi-0.15_pre20110125[extras] )
+REQUIRED_USE=^^ ( qt4 qt5 )
 SLOT=0
-_eclass_exported_funcs=src_unpack:git-2 src_prepare:- src_configure:- src_compile:qt4-r2 src_install:-
-_eclasses_=base	3fe4f8980633fd7bc69e9887209ba2fe	eutils	9d81603248f2ba3ec59124320d123e5e	git-2	df00117322129fb906bb0a53c3d6a020	multilib	3972ca401cf7dbb430df9995f5d8d580	qmake-utils	0a242e7177789b0028b4045f336dd4db	qt4-r2	d6c113024bb3086a1facc65cd338930e	toolchain-funcs	d513d423d449877e49d99af3f7af7acb
-_md5_=f6c09b44171e59160325143e917c806b
+_eclass_exported_funcs=src_unpack:git-2 src_prepare:cmake-utils src_configure:- src_compile:cmake-utils src_test:cmake-utils src_install:cmake-utils
+_eclasses_=cmake-utils	e79d341200cba811b41cc0728403c48d	eutils	9d81603248f2ba3ec59124320d123e5e	flag-o-matic	d270fa247153df66074f795fa42dba3e	git-2	df00117322129fb906bb0a53c3d6a020	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	d513d423d449877e49d99af3f7af7acb	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
+_md5_=e3cdd78e1cc0e2a1d2b0ae0e96c141cd
