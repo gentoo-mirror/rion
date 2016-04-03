@@ -54,7 +54,6 @@ net-im/psi:enchant - Use enchant spell engine instead of aspell
 net-im/psi:extras - Enables extra non official patches
 net-im/psi:iconsets - Install additional iconsets, some of them has not clear licensing
 net-im/psi:plugins - Enable plugins support
-net-im/psi:sm - Enable stream management patch
 net-im/psi:sql - Enable psi-new-history extras patch
 net-im/psi:webkit - Enable chatlog rendering using webkit
 net-im/psi:whiteboarding - Enable experimental interactive SVG drawing
