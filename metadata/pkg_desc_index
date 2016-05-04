@@ -83,7 +83,7 @@ net-im/psi-yandexnarod 9999: Psi+ plugins for managing files on narod.yandex.ru
 net-im/psimedia 9999: Psi plugin for voice/video calls
 net-im/spectrum 1.4.8 1.9999 2.9999: Spectrum is an XMPP transport/gateway
 net-im/swift 1.0 9999: Qt4 jabber (xmpp) client
-net-im/swiften 9999: Just a perfect C++ XMPP library
+net-im/swiften 3.9999 9999: Just a perfect C++ XMPP library
 net-im/vacuum-dbusnotifications 15 9999: DBus popup notifications for vacuum
 net-im/vacuum-gmailnotify 1.0.0.11 9999: GMail notifications for vacuum
 net-im/vacuum-kinotifications 11 9999: Kinetic popup notifications for vacuum
