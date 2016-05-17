@@ -9,7 +9,7 @@ app-misc/qmetro 0.5.5 0.5.7 9999: Vector metro (subway) map for calculating rout
 app-misc/qtnote 0.2.3.1-r1 3.0.3 9999: Qt note-taking application compatible with tomboy
 app-text/makedict 0.4.1_beta1 9999: Dictionary converter
 app-text/myrulib 0.29.14 0.29.16 9999: E-book collection manager
-app-text/qstardict 1.0.1 9999: QStarDict is a StarDict clone written with using Qt
+app-text/qstardict 1.1 9999: QStarDict is a StarDict clone written with using Qt
 app-text/rst2epub 20120114 99999999: reStructuredText documents to epub files convertor
 app-vim/ag 9999: vim plugin: the_silver_searcher integration
 dev-db/spatialite 4.1.1 4.3.0: A complete Spatial DBMS in a nutshell built upon sqlite
