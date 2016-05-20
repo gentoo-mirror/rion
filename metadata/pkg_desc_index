@@ -127,5 +127,4 @@ x11-misc/kbdd 9999: Very simple layout switcher
 x11-plugins/mrim-prpl 0.1.26 0.1.28 0.1.28.1 9999: Mail.Ru agent protocol for pidgin.
 x11-themes/country-flag 0: The flag icon filenames follow the ISO 3166-1 alpha-2 country codes.
 x11-themes/elementary-icon-theme 2.7.1-r1 3.1: Elementary gnome icon theme
-x11-themes/qtcurve 9999-r1: A set of widget styles for Qt and GTK2
 x11-wm/awesome 9999: A dynamic floating and tiling window manager
