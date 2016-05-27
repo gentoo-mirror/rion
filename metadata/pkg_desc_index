@@ -4,6 +4,7 @@ app-admin/sblim-sfcb 1.3.15 1.3.16: Small Footprint CIM Broker (sfcb)
 app-admin/wsl 0.2.1: Wsman Shell Command Line whistle
 app-dicts/stardict-ruspack 0.2-r2: Collection of dicts for stardict.
 app-laptop/clevo-wmi 9999: WMI driver for Clevo laptops
+app-misc/anki 2.0.36: A spaced-repetition memory training program (flash cards)
 app-misc/cim-schema 2.32.0 2.34.0 2.35.0: Common Information Model (CIM) Schema
 app-misc/qmetro 0.5.5 0.5.7 9999: Vector metro (subway) map for calculating route and getting information about transport nodes.
 app-misc/qtnote 0.2.3.1-r1 3.0.3 9999: Qt note-taking application compatible with tomboy
@@ -41,6 +42,7 @@ media-gfx/separate 0.5.8: Separate+ is the plug-in package that provides some us
 media-gfx/simpleviewer-gl 9999: Small and simple image viewer for Linux.
 media-libs/glc-lib 2.1.0-r1 2.2.0: OpenGL Library Class
 media-libs/mediastreamer 2.11.0: Mediastreaming library for telephony application
+media-libs/pympv 20141222: A python wrapper for libmpv
 media-libs/qimageblitz 5.9999: Graphical effect and filter library by KDE
 media-sound/alsoft-conf 1.4.3: OpenAL Soft Configurator
 media-sound/dcaenc 2: Encoder for the DTS Coherent Acoustics audio format
