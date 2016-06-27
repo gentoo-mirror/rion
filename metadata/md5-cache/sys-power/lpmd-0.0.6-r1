@@ -9,5 +9,5 @@ RDEPEND=sys-apps/lm_sensors sys-fs/sysfsutils sys-power/cpufrequtils dev-lang/lu
 SLOT=0
 SRC_URI=mirror://sourceforge/lpmd/lpmd-0.0.6.tar.xz
 _eclass_exported_funcs=src_compile:- src_install:-
-_eclasses_=multilib	d062ae4ba2fc40a19c11de2ad89b6616	toolchain-funcs	bfd09e8e66991dd5ce9e57610d8d1e6c
+_eclasses_=multilib	d062ae4ba2fc40a19c11de2ad89b6616	toolchain-funcs	77f907363e91028a361ce5a3e9e7ed1e
 _md5_=da631c7a5e9f6c1072432e30194a578b
