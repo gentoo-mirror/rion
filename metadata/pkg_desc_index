@@ -115,6 +115,7 @@ sys-apps/tog-pegasus 2.12.0: OpenPegasus WBEM Services for Linux
 sys-apps/wsmancli 2.3.0: Opensource Implementation of WS-Management - Command line utility
 sys-cluster/ploop 1.15: openvz tool and a library to control ploop block devices
 sys-devel/qconf 1.6_pre1 9999: Qt ./configure generation util
+sys-libs/rts_bpp 1.1: Driver for realtek 5289/8411 card readers
 sys-power/lpmd 0.0.6-r1: Daemon controlling CPU, temperature, power, configurable in Lua
 www-apache/mod_ruid2 0.9.8: mod_ruid2 is a suexec module for apache which takes advantage of POSIX.1e capabilities
 www-apps/ctpp2 2.8.3-r1: CTPP is a tool separating data processing (business logic) from data presentation.
