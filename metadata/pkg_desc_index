@@ -31,7 +31,7 @@ dev-util/cpp2text 1.0: Stupid bidirection cpp to text converter
 dev-util/douml 9999: Powerful UML 2 modelling tool. BoUML fork
 dev-util/gmanedit2 9999: Gnome Manual Pages Editor
 dev-vcs/mercurial 2.8.9999: Scalable distributed SCM
-games-action/oolite 1.82: Elite space trading & warfare remake
+games-action/oolite 1.84: Elite space trading & warfare remake
 mail-filter/milter-greylist 4.3.9 4.4.1 4.4.2 4.4.3: Milter-greylist is a stand-alone milter that implements the greylist filtering method
 mail-filter/opendmarc 1.0.0 1.0.0-r1: Open source DMARC implementation
 mail-filter/policyd 2.0.12 2.0.14: Policy daemon for postfix and other MTAs
@@ -99,6 +99,7 @@ net-misc/htbstat 0.9: HTB class tree viewer of alexpro (Alexey Prokopchuk)
 net-misc/kamailio 3.3.3: An Open SIP Express Router
 net-misc/linuxptp 1.3 1.4: Precision Time Protocol (PTP) for Linux ( IEEE standard 1588 )
 net-misc/modem-manager-gui 0.0.16: GUI for Modem Manager daemon.
+net-misc/networkmanager-l2tp 9999: NetworkManager L2TP plugin
 net-p2p/dump_viewer 9999: Viewer for DB dumps of torrent trackers
 net-p2p/passkeychanger 0.1.0.0 9999: Qt4 torrent passkey changer
 sci-geosciences/7ways 1.04.633: NaviKey's car navigation software
