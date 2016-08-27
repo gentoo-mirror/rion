@@ -46,7 +46,6 @@ media-libs/qimageblitz 5.9999: Graphical effect and filter library by KDE
 media-sound/alsoft-conf 1.4.3: OpenAL Soft Configurator
 media-sound/dcaenc 2: Encoder for the DTS Coherent Acoustics audio format
 media-sound/vkplayer 0.08.15 0.08.16.4: Music player for social network VKontakte.ru
-net-im/ejabberd 15.10: The Erlang Jabber Daemon
 net-im/libcommuni 2.2.0 3.4.0: A cross-platform IRC framework written with Qt 4
 net-im/psi 9999: Qt4 Jabber client, with Licq-like interface
 net-im/psi-attention 9999: Psi plugin for making attention (XEP-0224)
@@ -90,7 +89,7 @@ net-im/vacuum-gmailnotify 1.0.0.11 9999: GMail notifications for vacuum
 net-im/vacuum-kinotifications 11 9999: Kinetic popup notifications for vacuum
 net-im/vacuum-otre2e 9999: Off-The-Record messaging (OTR) for vacuum
 net-im/vacuum-spellchecker 0.0.3.28 9999: Spell checker for vacuum
-net-libs/jdns 2.0.3: JDNS is a simple DNS implementation library
+net-libs/jdns 2.0.4: JDNS is a simple DNS implementation library
 net-libs/ortp 0.24.0: Open Real-time Transport Protocol (RTP, RFC3550) stack
 net-mail/mailgraph 1.14-r3: A mail statistics RRDtool frontend for Postfix
 net-misc/dlan-linux 6.1: Find and configure your devolo (Etbernet via existing electrical wiring) dLAN devices
