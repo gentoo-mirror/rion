@@ -9,5 +9,5 @@ RDEPEND=app-emulation/emul-linux-x86-xlibs app-emulation/emul-linux-x86-baselibs
 SLOT=1.04.633
 SRC_URI=http://navikey.ru/files/7w/7ways.tar.gz
 _eclass_exported_funcs=src_install:-
-_eclasses_=eutils	792f83d5ec9536cb5ccef375469d8bde	multilib	d062ae4ba2fc40a19c11de2ad89b6616	toolchain-funcs	6198c04daba0e1307bd844df7d37f423
+_eclasses_=eutils	b83a2420b796f7c6eff682679d08fe25	multilib	d062ae4ba2fc40a19c11de2ad89b6616	toolchain-funcs	6198c04daba0e1307bd844df7d37f423
 _md5_=dd6f4360602ea7352617c6135f2758f1
