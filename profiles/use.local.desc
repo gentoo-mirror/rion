@@ -6,6 +6,7 @@ app-admin/openwbem:association-traversal -
 app-admin/openwbem:cmpi - 
 app-admin/openwbem:digest - 
 app-admin/openwbem:valgrind - 
+app-misc/a4tool:battery - Enable battery level notifications using x11-libs/libnotify
 app-text/myrulib:links - Include links to the online collections
 app-text/myrulib:reader - Enable internal Cool Reader engine
 app-text/qstardict:plugin_stardict - build stardict plugin
