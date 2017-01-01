@@ -9,4 +9,4 @@ RDEPEND=!app-dicts/stardict-freedict-eng-rus
 SLOT=0
 SRC_URI=http://tkn.me/gentoo/distfiles/stardict-ruspack-0.2.rar
 _eclass_exported_funcs=src_install:-
-_md5_=85da89f370eeef0c3d855f83daac12e2
+_md5_=694bf5a848404f121de19425ccfaf4f9

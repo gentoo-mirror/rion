@@ -11,4 +11,4 @@ SLOT=0
 SRC_URI=https://github.com/BondarenkoArtur/init-gmouse/archive/cf30b50ccc5d52ada56b5b2a1343fdf63ee2424b.zip
 _eclass_exported_funcs=pkg_setup:- src_compile:- src_install:-
 _eclasses_=user	80aaa71614ced86f02ee1a513821dc87
-_md5_=6371b8c75761ca90c9b5e4edf298d85d
+_md5_=e2d43e46c1b6eea2105303c3aa649290

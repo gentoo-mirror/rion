@@ -10,4 +10,4 @@ SLOT=0
 SRC_URI=http://mrim-prpl.googlecode.com/files/mrim-prpl-0.1.26.tar.gz
 _eclass_exported_funcs=src_prepare:- src_install:-
 _eclasses_=multilib	165fc17c38d1b11dac2008280dab6e80	toolchain-funcs	1b1da0c45c555989dc5d832b54880783
-_md5_=131649c4649cc11efda98dddc996d461
+_md5_=6f0776308dbf1e7784919812cba6bfa5

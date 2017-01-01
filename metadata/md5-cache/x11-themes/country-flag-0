@@ -8,4 +8,4 @@ LICENSE=public-domain
 SLOT=0
 SRC_URI=http://www.famfamfam.com/lab/icons/flags/famfamfam_flag_icons.zip
 _eclass_exported_funcs=src_install:-
-_md5_=04d302277675f136f4cee41a306e86fc
+_md5_=c231ba8c619d2c43526077654e44be9e

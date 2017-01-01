@@ -11,4 +11,4 @@ SLOT=0
 SRC_URI=http://swift.im/downloads/releases/swift-1.0/swift-1.0.tar.gz
 _eclass_exported_funcs=src_prepare:- src_compile:- src_test:- src_install:-
 _eclasses_=multilib	165fc17c38d1b11dac2008280dab6e80	multiprocessing	66b3bf714f8cfc1b6494db5269b4666e	scons-utils	d42c1726f481bb5812cc2ce1f236db1d	toolchain-funcs	1b1da0c45c555989dc5d832b54880783
-_md5_=57be0bec9e671f6481849d6a0aed81dc
+_md5_=600009db6d316a63d841a1a487c95059
