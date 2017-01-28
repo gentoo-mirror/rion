@@ -89,11 +89,11 @@ net-im/psimedia 9999: Psi plugin for voice/video calls
 net-im/spectrum 1.4.8 1.9999 2.9999: Spectrum is an XMPP transport/gateway
 net-im/swift 1.0 9999: Qt4 jabber (xmpp) client
 net-im/swiften 3.9999 9999: Just a perfect C++ XMPP library
-net-im/vacuum-dbusnotifications 15 9999: DBus popup notifications for vacuum
-net-im/vacuum-gmailnotify 1.0.0.11 9999: GMail notifications for vacuum
-net-im/vacuum-kinotifications 11 9999: Kinetic popup notifications for vacuum
+net-im/vacuum-dbusnotifications 9999: DBus popup notifications for vacuum
+net-im/vacuum-gmailnotify 9999: GMail notifications for vacuum
+net-im/vacuum-kinotifications 9999: Kinetic popup notifications for vacuum
 net-im/vacuum-otre2e 9999: Off-The-Record messaging (OTR) for vacuum
-net-im/vacuum-spellchecker 0.0.3.28 9999: Spell checker for vacuum
+net-im/vacuum-spellchecker 9999: Spell checker for vacuum
 net-libs/jdns 2.0.4: JDNS is a simple DNS implementation library
 net-libs/ortp 0.24.0: Open Real-time Transport Protocol (RTP, RFC3550) stack
 net-mail/mailgraph 1.14-r3: A mail statistics RRDtool frontend for Postfix
