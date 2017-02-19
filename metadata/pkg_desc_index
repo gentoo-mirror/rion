@@ -109,7 +109,7 @@ sci-libs/geographiclib 1.31 1.32: Small set of C++ classes for performing variou
 sys-apps/hasp 3.3_p5-r1: Hardware Against Software Piracy for access to parallel and usb keys
 sys-apps/ksmtuned 9999: Simple script that controls whether (and with what vigor) ksm should search for duplicated pages
 sys-apps/linux-ftools 0_p20120419: Linux command line tools for fallocate, fincore, fadvise
-sys-apps/openwsman 2.3.5 2.3.6: Opensource Implementation of WS-Management Client
+sys-apps/openwsman 2.3.6: Opensource Implementation of WS-Management Client
 sys-apps/sblim-cmpi-base 1.6.2: SBLIM Base Providers
 sys-apps/sblim-cmpi-fsvol 1.5.1: SBLIM fsvol instrumentation
 sys-apps/sblim-gather 2.2.7 2.2.8: SBLIM Performance Data Gatherer
