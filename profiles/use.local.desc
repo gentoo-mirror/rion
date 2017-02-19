@@ -1,6 +1,6 @@
-# This file is deprecated as per GLEP 56 in favor of metadata.xml.
-# Please add your descriptions to your package's metadata.xml ONLY.
-# * generated automatically using pmaint *
+# This file is deprecated as per GLEP 56 in favor of metadata.xml. Please add
+# your descriptions to your package's metadata.xml ONLY.
+# * generated automatically using egencache *
 
 app-admin/openwbem:association-traversal - 
 app-admin/openwbem:cmpi - 
@@ -39,6 +39,14 @@ media-libs/mediastreamer:ortp - Enable usage of net-libs/ortp
 media-libs/mediastreamer:pcap - Enable usage of net-libs/libpcap
 media-libs/mediastreamer:silk - Use silk (skype protocol) codec plugin
 media-libs/mediastreamer:video - Enable video support
+media-sound/qomp:lastfmplugin - Last.FM plugin
+media-sound/qomp:mprisplugin - MPRIS plugin
+media-sound/qomp:myzukaruplugin - myzuka.ru plugin
+media-sound/qomp:notificationsplugin - notifications plugin
+media-sound/qomp:prostopleerplugin - Prosto Pleer plugin
+media-sound/qomp:tunetofileplugin - Tune To File plugin
+media-sound/qomp:urlplugin - URL Plugin
+media-sound/qomp:yandexmusicplugin - Yandex.Music plugin
 net-dialup/xl2tpd:dnsretry - Patch for host lookup retries, activated by redial feature
 net-dialup/xl2tpd:kernel - Enable kernel interface for PPPoL2TP
 net-im/psi:enchant - Use enchant spell engine instead of aspell
