@@ -62,6 +62,7 @@ net-im/psi-cleaner 9999: Psi profile cleaner plugin.
 net-im/psi-clientswitcher 9999: Psi+ plugin for client version masking
 net-im/psi-conferencelogger 9999: Psi plugin which saves logs of conferences
 net-im/psi-contentdownloader 9999: Psi plugin for downloading extras
+net-im/psi-enummessages 9999: Psi plugin to enumarate messages added to chat
 net-im/psi-extendedmenu 9999: Psi+ plugin which adds special submenu to contacts
 net-im/psi-extendedoptions 9999: Psi plugin for UI for some hidden options
 net-im/psi-gmailservice 9999: Gmail notify plugin for psi
@@ -69,10 +70,13 @@ net-im/psi-gnome3support 9999: Psi+ Gnome 3 support plugin
 net-im/psi-gnupg 9999: Psi+ GnuPG plugin
 net-im/psi-gomokugame 9999: Gomoku game for Psi+
 net-im/psi-historykeeper 9999: Psi plugin to keep certain contacts history clean
+net-im/psi-httpupload 9999: Psi plugin to suppor http uploade feature as per XEP-0363
 net-im/psi-icqdie 9999: Psi+'s "ICQDie!!" plugin.
 net-im/psi-image 9999: Psi plugin for sending in-band images
+net-im/psi-imagepreview 9999: Psi plugin to preview images in chat log
 net-im/psi-jabberdisk 9999: Psi+ plugin for file sharing via jabber disk
 net-im/psi-juick 9999: Psi plugin for juick.com service
+net-im/psi-messagefilter 9999: Psi plugin to filter out messages by various conditions
 net-im/psi-otr 0.9.4 9999: OTR Plugin for Psi
 net-im/psi-pepchangenotify 9999: Psi plugin to show PEP change notifications
 net-im/psi-plugins-meta 9999: Meta package for net-im/psi plugins
