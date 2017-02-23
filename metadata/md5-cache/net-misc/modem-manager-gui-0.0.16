@@ -8,5 +8,4 @@ LICENSE=GPL-3
 RDEPEND=>=x11-libs/gtk+-3.4.0 x11-libs/libnotify
 SLOT=0
 SRC_URI=http://download.tuxfamily.org/gsf/source/modem-manager-gui-0.0.16.tar.gz
-_eclass_exported_funcs=-
 _md5_=5c148266f56855b13f594e300cfe8722

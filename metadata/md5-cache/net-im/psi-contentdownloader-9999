@@ -8,6 +8,5 @@ LICENSE=GPL-2
 RDEPEND=net-libs/libproxy >=net-im/psi-9999[extras,plugins]
 REQUIRED_USE=^^ ( qt4 qt5 )
 SLOT=0
-_eclass_exported_funcs=src_unpack:psiplus-plugin src_prepare:psiplus-plugin src_configure:psiplus-plugin src_install:psiplus-plugin
-_eclasses_=eutils	708f85bc1bf00876604e223fb56e062a	git-r3	6efc2d7de07a77bf72c7207b48d0e123	multilib	165fc17c38d1b11dac2008280dab6e80	psiplus-plugin	1407966c73bdf57387a95715d5557ed2	qmake-utils	0a242e7177789b0028b4045f336dd4db	toolchain-funcs	1b1da0c45c555989dc5d832b54880783
-_md5_=068bdb6611d2262b8ed0ca4f092e8f55
+_eclasses_=eutils	708f85bc1bf00876604e223fb56e062a	git-r3	6efc2d7de07a77bf72c7207b48d0e123	multilib	165fc17c38d1b11dac2008280dab6e80	psi-plugin	9253c379d91bda90ae89a247fa0901f0	qmake-utils	0a242e7177789b0028b4045f336dd4db	toolchain-funcs	1b1da0c45c555989dc5d832b54880783
+_md5_=0d3014d9d6f41a89be0f8350d745352a

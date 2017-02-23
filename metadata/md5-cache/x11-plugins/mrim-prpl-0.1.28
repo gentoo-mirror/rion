@@ -8,6 +8,5 @@ LICENSE=GPL-2
 RDEPEND=>=net-im/pidgin-2.6[gtk]
 SLOT=0
 SRC_URI=http://mrim-prpl.googlecode.com/files/mrim-prpl-0.1.28.tar.gz
-_eclass_exported_funcs=src_configure:- src_compile:- src_install:-
 _eclasses_=multilib	165fc17c38d1b11dac2008280dab6e80	toolchain-funcs	1b1da0c45c555989dc5d832b54880783
 _md5_=ed1d9c6736acec422bff350673df7349
