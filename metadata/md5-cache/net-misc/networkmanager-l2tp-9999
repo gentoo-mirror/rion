@@ -8,5 +8,6 @@ KEYWORDS=~amd64 ~x86
 LICENSE=GPL-2
 RDEPEND=>=net-misc/networkmanager-1.0[ppp] dev-libs/dbus-glib net-dialup/ppp net-dialup/xl2tpd >=dev-libs/glib-2.32 net-misc/libreswan gnome? ( x11-libs/gtk+:3 gnome-base/libgnome-keyring )
 SLOT=0
+_eclass_exported_funcs=src_unpack:git-r3 src_prepare:- src_configure:-
 _eclasses_=autotools	07e71b3b5690738ef7e8bc097077e00c	eutils	708f85bc1bf00876604e223fb56e062a	git-r3	6efc2d7de07a77bf72c7207b48d0e123	gnome.org	ad34f378a3d57a6f2f2b8b4aaca4543e	libtool	84763589a795fb127b537cac01e5359f	multilib	165fc17c38d1b11dac2008280dab6e80	toolchain-funcs	1b1da0c45c555989dc5d832b54880783	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
 _md5_=91025491a83eeb7e8ef20d025618045d

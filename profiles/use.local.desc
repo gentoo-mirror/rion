@@ -43,6 +43,7 @@ media-libs/mediastreamer:ortp - Enable usage of net-libs/ortp
 media-libs/mediastreamer:pcap - Enable usage of net-libs/libpcap
 media-libs/mediastreamer:silk - Use silk (skype protocol) codec plugin
 media-libs/mediastreamer:video - Enable video support
+media-libs/mediastreamer:vpx - Enable vp8 encoding support using media-libs/libvpx
 media-sound/qomp:lastfmplugin - Last.FM plugin
 media-sound/qomp:mprisplugin - MPRIS plugin
 media-sound/qomp:myzukaruplugin - myzuka.ru plugin
@@ -53,8 +54,10 @@ media-sound/qomp:urlplugin - URL Plugin
 media-sound/qomp:yandexmusicplugin - Yandex.Music plugin
 net-dialup/xl2tpd:dnsretry - Patch for host lookup retries, activated by redial feature
 net-dialup/xl2tpd:kernel - Enable kernel interface for PPPoL2TP
-net-im/psi:enchant - Use enchant spell engine instead of aspell
+net-im/psi:aspell - Use Aspell spell check engine
+net-im/psi:enchant - Use Enchant spell engine
 net-im/psi:extras - Enables extra non official patches
+net-im/psi:hunspell - Use Hunspell spell engine
 net-im/psi:iconsets - Install additional iconsets, some of them has not clear licensing
 net-im/psi:plugins - Enable plugins support
 net-im/psi:sql - Enable psi-new-history extras patch
@@ -98,12 +101,18 @@ net-im/psi-plugins-meta:watcher - Enable Psi plugin for watching on contacts
 net-im/psi-skins:themes - Pull in themes via net-im/psi-skins-themes
 net-im/psimedia:demo - Build simple test application for the PsiMedia system
 net-im/psimedia:extras - Enables extra non official patches
+net-im/spectrum:frotz - Enable frotz plugin
+net-im/spectrum:irc - Enable IRC backend via net-im/libcommuni
+net-im/spectrum:libev - Use libev for event loop
+net-im/spectrum:log - Enables advanced logging through dev-libs/log4cxx
+net-im/spectrum:purple - Enables Purple backend via net-im/pidgin
+net-im/spectrum:skype - Enables Skype backend
 net-im/spectrum:staticport - Install spectrum tools
 net-im/spectrum:symlinks - Make symlinks for configuration files of all protocols to one file
 net-im/spectrum:tools - Install spectrum tools
+net-libs/jdns:tools - Enable jdns test tools
 net-libs/ortp:ntp-timestamp - Turn on NTP timestamping on received packet
 net-libs/ortp:srtp - Add support for Secure RTP
-net-libs/ortp:zrtp - Add support for ZRTP key negotiation
 sci-geosciences/qgis:grass - Add support for sci-geosciences/grass
 sci-geosciences/qgis:mapserver - Determines whether mapserver should be built
 sys-apps/hasp:demo - Install demo binaries
@@ -118,7 +127,6 @@ sys-apps/sblim-gather:base -
 sys-apps/sblim-gather:libvirt - 
 sys-apps/sblim-gather:provider - 
 www-apps/ctpp2:md5 - 
-x11-themes/elementary-icon-theme:monochrome - Monochrome addon for opaque light panels
-x11-themes/qtcurve:kde - Enable KDE4 support. This adds a QtCurve configuration module to KDE's SystemSettings
+www-plugins/freshplayerplugin:gtk3 - Use gtk3 instead of gtk2
 x11-themes/qtcurve:kf5 - Enable KDE Frameworks 5 support
 x11-themes/qtcurve:windeco - Enable window decoration for KWin
