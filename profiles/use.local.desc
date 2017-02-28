@@ -116,6 +116,8 @@ net-libs/jdns:tools - Enable jdns test tools
 net-libs/libexosip:srv - enable support for SRV records DNS queries
 net-libs/ortp:ntp-timestamp - Turn on NTP timestamping on received packet
 net-libs/ortp:srtp - Add support for Secure RTP
+net-voip/belle-sip:tls - Enable encrypted channels
+net-voip/belle-sip:tunnel - Enable proprietary tunnel (wtf?)
 net-voip/linphone:assistant - Turn on assistant compiling (needs gtk enabled)
 net-voip/linphone:gsm-nonstandard - Support non-standard GSM frequencies
 net-voip/linphone:sqlite - Turn on compilation of message storage
