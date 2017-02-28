@@ -110,9 +110,17 @@ net-im/spectrum:skype - Enables Skype backend
 net-im/spectrum:staticport - Install spectrum tools
 net-im/spectrum:symlinks - Make symlinks for configuration files of all protocols to one file
 net-im/spectrum:tools - Install spectrum tools
+net-libs/bctoolbox:mbedtls - enable embedtls for encryption
+net-libs/bctoolbox:polarssl - enable polarssl for encryption
 net-libs/jdns:tools - Enable jdns test tools
+net-libs/libexosip:srv - enable support for SRV records DNS queries
 net-libs/ortp:ntp-timestamp - Turn on NTP timestamping on received packet
 net-libs/ortp:srtp - Add support for Secure RTP
+net-voip/linphone:assistant - Turn on assistant compiling (needs gtk enabled)
+net-voip/linphone:gsm-nonstandard - Support non-standard GSM frequencies
+net-voip/linphone:sqlite - Turn on compilation of message storage
+net-voip/linphone:tools - Compile tools
+net-voip/linphone:video - Enable video support (display/capture)
 sci-geosciences/qgis:grass - Add support for sci-geosciences/grass
 sci-geosciences/qgis:mapserver - Determines whether mapserver should be built
 sys-apps/hasp:demo - Install demo binaries

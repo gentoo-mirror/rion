@@ -41,7 +41,7 @@ media-gfx/glc-player 2.3.0: Open Source 3D viewer used to view 3d models
 media-gfx/phatch 9999: Phatch is a simple to use cross-platform GUI Photo Batch Processor
 media-gfx/simpleviewer-gl 9999: Small and simple image viewer for Linux.
 media-libs/glc-lib 2.1.0-r1 2.2.0: OpenGL Library Class
-media-libs/mediastreamer 2.11.0: Mediastreaming library for telephony application
+media-libs/mediastreamer 2.14.0: Mediastreaming library for telephony application
 media-libs/pympv 20141222: A python wrapper for libmpv
 media-libs/qimageblitz 5.9999: Graphical effect and filter library by KDE
 media-sound/alsoft-conf 1.4.3: OpenAL Soft Configurator
@@ -91,8 +91,11 @@ net-im/psimedia 9999: Psi plugin for voice/video calls
 net-im/spectrum 1.4.8 1.9999 2.9999: Spectrum is an XMPP transport/gateway
 net-im/swift 1.0 9999: Qt4 jabber (xmpp) client
 net-im/swiften 3.9999 9999: Just a perfect C++ XMPP library
+net-libs/bctoolbox 0.2.0: Utilities library used by Belledonne Communications softwares
 net-libs/jdns 2.0.4: JDNS is a simple DNS implementation library
-net-libs/ortp 0.24.0: Open Real-time Transport Protocol (RTP, RFC3550) stack
+net-libs/libexosip 5.0.0: library that hides the complexity of using the SIP protocol for multimedia session establishement
+net-libs/libosip 5.0.0: a simple way to support the Session Initiation Protocol
+net-libs/ortp 0.27.0: Open Real-time Transport Protocol (RTP, RFC3550) stack
 net-mail/mailgraph 1.14-r3: A mail statistics RRDtool frontend for Postfix
 net-misc/TelegramQML 9999: Telegram API tools for QtQML and Qml
 net-misc/aseman-qt-tools 9999: Set of tools from Aseman-Land
@@ -106,6 +109,8 @@ net-misc/modem-manager-gui 0.0.16: GUI for Modem Manager daemon.
 net-misc/networkmanager-l2tp 9999: NetworkManager L2TP plugin
 net-p2p/dump_viewer 9999: Viewer for DB dumps of torrent trackers
 net-p2p/passkeychanger 0.1.0.0 9999: Qt4 torrent passkey changer
+net-voip/belle-sip 1.5.0: C object oriented SIP Stack.
+net-voip/linphone 3.10.2: Video softphone based on the SIP protocol
 sci-geosciences/qgis 2.10.1 2.12.1: User friendly Geographic Information System
 sci-libs/geographiclib 1.31 1.32: Small set of C++ classes for performing various geographic and geodesic conversions
 sys-apps/hasp 3.3_p5-r1: Hardware Against Software Piracy for access to parallel and usb keys
