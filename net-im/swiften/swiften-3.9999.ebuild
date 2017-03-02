@@ -1,6 +1,5 @@
 # Copyright 1999-2017 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header: $
 
 EAPI="6"
 SCONS_MIN_VERSION="1.2"
@@ -38,7 +37,7 @@ PATCHES=( ${FILESDIR}/swiften-libdir-${PV}.patch )
 RDEPEND="
 	avahi? ( net-dns/avahi )
 	>=dev-libs/boost-1.42
-	>=dev-libs/openssl-0.9.8g
+	dev-libs/openssl:0
 	>=net-dns/libidn-1.10
 	dev-libs/libxml2
 	>=dev-libs/expat-2.0.1

@@ -1,6 +1,5 @@
 # Copyright 1999-2017 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header: Exp $
 
 EAPI=6
 PYTHON_COMPAT=( python2_7 )
@@ -13,13 +12,12 @@ HOMEPAGE="http://photobatch.stani.be/"
 #SRC_URI="http://photobatch.stani.be/download/package/${P}.tar.gz"
 EGIT_REPO_URI="https://github.com/tibor95/phatch-python2.7.git"
 
-
 LICENSE="GPL-3"
 SLOT="0"
 KEYWORDS=""
 IUSE=""
 
-DEPEND="dev-python/wxpython
+DEPEND="dev-python/wxpython:=
 	dev-python/pillow"
 
 RDEPEND="${DEPEND}

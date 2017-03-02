@@ -1,6 +1,5 @@
 # Copyright 1999-2017 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header: $
 
 EAPI=2
 
@@ -127,6 +126,5 @@ export  SYS_INCLUDES=-I/usr/kerberos/include
 export  PEGASUS_PLATFORM=LINUX_X86_64_GNU
 
 	emake -f Makefile.Release stage PEGASUS_STAGING_DIR=${D}
-
 
 }

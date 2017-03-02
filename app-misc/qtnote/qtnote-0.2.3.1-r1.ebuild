@@ -1,6 +1,5 @@
 # Copyright 1999-2017 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header: $
 
 EAPI=6
 
@@ -25,7 +24,7 @@ pkg_setup() {
 }
 
 src_configure() {
-	eqmake4 ${PN}.pro PREFIX=${EPREFIX}/usr
+	eqmake4 ${PN}.pro PREFIX="${EPREFIX}/usr"
 }
 
 src_install() {

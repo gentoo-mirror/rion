@@ -1,6 +1,5 @@
 # Copyright 1999-2017 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header: $
 
 # NOTE: The comments in this file are for instruction and documentation.
 # They're not meant to appear with your final, production ebuild.  Please
@@ -41,7 +40,6 @@ HOMEPAGE="http://foo.example.org/"
 # Point to any required sources; these will be automatically downloaded by
 # Portage.
 SRC_URI="ftp://foo.example.org/${P}.tar.gz"
-
 
 # License of the package.  This must match the name of file(s) in
 # /usr/portage/licenses/.  For complex license combination see the developer
@@ -88,7 +86,6 @@ IUSE="gnome X"
 # for details.  Usually not needed.
 #RESTRICT="strip"
 
-
 # Build-time dependencies, such as
 #    ssl? ( >=dev-libs/openssl-0.9.6b )
 #    >=dev-lang/perl-5.6.1-r1
@@ -107,7 +104,6 @@ RDEPEND="${DEPEND}"
 # If you don't need to change it, leave the S= line out of the ebuild
 # to keep it tidy.
 #S=${WORKDIR}/${P}
-
 
 # The following src_configure function is implemented as default by portage, so
 # you only need to call it if you need a different behaviour.

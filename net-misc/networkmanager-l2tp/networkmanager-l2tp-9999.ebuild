@@ -1,6 +1,5 @@
 # Copyright 1999-2017 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header: $
 
 EAPI=6
 
@@ -43,7 +42,7 @@ src_prepare() {
 
 src_configure() {
 	local myeconfargs=(
-		--with-pppd-plugin-dir=${EPREFIX}/usr/$(get_libdir)/pppd/2.4.7
+		--with-pppd-plugin-dir="${EPREFIX}/usr/$(get_libdir)/pppd/2.4.7"
 		$(use_with gnome)
 		$(use_enable static-libs static)
 	)

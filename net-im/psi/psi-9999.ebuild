@@ -1,6 +1,5 @@
 # Copyright 1999-2017 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header: /var/cvsroot/gentoo-x86/net-im/psi/psi-9999.ebuild,v 1.12 2011/06/30 09:23:16 pva Exp $
 
 EAPI=6
 
@@ -179,14 +178,13 @@ src_configure() {
 	use qt4 && CONF+=(--qtdir="$(qt4_get_bindir)/..")
 	use qt5 && CONF+=(--qtdir="$(qt5_get_bindir)/..")
 
-
 	use dbus || CONF+=("--disable-qdbus")
 	use debug && CONF+=("--debug")
 
 	for s in aspell enchant hunspell; do
 		use $s || CONF+=("--disable-$s")
 	done
-	
+
 	use whiteboarding && CONF+=("--enable-whiteboarding")
 	use xscreensaver || CONF+=("--disable-xss")
 	use plugins || CONF+=("--disable-plugins")

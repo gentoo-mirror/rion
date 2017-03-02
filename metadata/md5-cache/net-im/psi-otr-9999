@@ -8,6 +8,5 @@ LICENSE=GPL-2
 RDEPEND=app-text/tidy-html5 net-libs/libotr >=net-im/psi-9999[extras,plugins]
 REQUIRED_USE=^^ ( qt4 qt5 )
 SLOT=0
-_eclass_exported_funcs=src_unpack:psi-plugin src_prepare:psi-plugin src_configure:psi-plugin src_install:psi-plugin
 _eclasses_=eutils	3c847a0129fed780bd709b98e426f89c	git-r3	08c5be5f8bdc203ed54d5ff5fef3c34d	multilib	0236be304ee52e7f179ed2f337075515	psi-plugin	9253c379d91bda90ae89a247fa0901f0	qmake-utils	ea78a9056543346cdc8cbbd07f16c6fb	toolchain-funcs	53b75b4a49cf3e61530a523804045432
-_md5_=3b5224b8ad0b99698e5a73e242161000
+_md5_=9225a183b4a9836927f86ef41b5394b9
