@@ -24,7 +24,6 @@ dev-vcs/mercurial:bugzilla - Support bugzilla integration.
 dev-vcs/mercurial:gpg - Support signing with GnuPG.
 dev-vcs/mercurial:tk - Install dev-lang/tk for hgk script.
 mail-filter/milter-greylist:bind - Use net-dns/bind-tools resolver instead glibc resolver
-mail-filter/milter-greylist:dnsrbl - Add dnsrbl blacklist support
 mail-filter/milter-greylist:ldap - Build witch openldap support
 mail-filter/milter-greylist:p0f - Add support for OS type detection's. Usenet-analyzer/p0f
 mail-filter/milter-greylist:postfix - Add support for mail-mta/postfix MTA
@@ -53,7 +52,6 @@ media-sound/qomp:tunetofileplugin - Tune To File plugin
 media-sound/qomp:urlplugin - URL Plugin
 media-sound/qomp:yandexmusicplugin - Yandex.Music plugin
 net-dialup/xl2tpd:dnsretry - Patch for host lookup retries, activated by redial feature
-net-dialup/xl2tpd:kernel - Enable kernel interface for PPPoL2TP
 net-im/psi:aspell - Use Aspell spell check engine
 net-im/psi:enchant - Use Enchant spell engine
 net-im/psi:extras - Enables extra non official patches
@@ -115,7 +113,6 @@ net-libs/bctoolbox:polarssl - enable polarssl for encryption
 net-libs/jdns:tools - Enable jdns test tools
 net-libs/libexosip:srv - enable support for SRV records DNS queries
 net-libs/ortp:ntp-timestamp - Turn on NTP timestamping on received packet
-net-libs/ortp:srtp - Add support for Secure RTP
 net-voip/belle-sip:tls - Enable encrypted channels
 net-voip/belle-sip:tunnel - Enable proprietary tunnel (wtf?)
 net-voip/linphone:assistant - Turn on assistant compiling (needs gtk enabled)
