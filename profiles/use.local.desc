@@ -108,8 +108,6 @@ net-im/spectrum:skype - Enables Skype backend
 net-im/spectrum:staticport - Install spectrum tools
 net-im/spectrum:symlinks - Make symlinks for configuration files of all protocols to one file
 net-im/spectrum:tools - Install spectrum tools
-net-libs/bctoolbox:mbedtls - enable embedtls for encryption
-net-libs/bctoolbox:polarssl - enable polarssl for encryption
 net-libs/jdns:tools - Enable jdns test tools
 net-libs/libexosip:srv - enable support for SRV records DNS queries
 net-libs/ortp:ntp-timestamp - Turn on NTP timestamping on received packet
