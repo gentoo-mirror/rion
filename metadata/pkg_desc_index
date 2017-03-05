@@ -22,7 +22,7 @@ dev-libs/sblim-cmpi-devel 2.0.3: SBLIM CMPI Provider Development Support
 dev-libs/sblim-indication_helper 0.4.2: Toolkit for CMPI indication providers
 dev-libs/sblim-sfcCommon 1.0.0 1.0.1: Provides a common library for functions shared between sfcb and sfcc.
 dev-libs/sblim-sfcc 2.2.5: Small Footprint CIM Client Library
-dev-ml/ocaml-curses 1.0.3: OCaml Curses is a project to provide curses / ncurses bindings for the Objective Caml language.
+dev-ml/ocaml-curses 1.0.3: Curses / ncurses bindings for the Objective Caml language.
 dev-ml/ocaml-libvirt 0.6.1.4 9999: Ocaml libvirt binding's
 dev-perl/Sys-Virt 1.3.0: Sys::Virt provides an API for using the libvirt library from Perl
 dev-python/pathtools 0.1.1: Pattern matching and various utilities for file systems paths.
@@ -34,7 +34,7 @@ dev-util/douml 9999: Powerful UML 2 modelling tool. BoUML fork
 dev-util/gmanedit2 9999: Gnome Manual Pages Editor
 dev-vcs/mercurial 2.8.9999: Scalable distributed SCM
 games-action/oolite 1.84 1.85_alpha1: Elite space trading & warfare remake
-mail-filter/milter-greylist 4.4.3: Milter-greylist is a stand-alone milter that implements the greylist filtering method
+mail-filter/milter-greylist 4.4.3: Stand-alone milter that implements the greylist filtering method
 mail-filter/opendmarc 1.0.0 1.0.0-r1: Open source DMARC implementation
 mail-filter/policyd 2.0.12 2.0.14: Policy daemon for postfix and other MTAs
 media-gfx/glc-player 2.3.0: Open Source 3D viewer used to view 3d models
@@ -111,9 +111,9 @@ net-voip/belcard 1.0.1: C++ library to manipulate VCard standard format
 net-voip/belle-sip 1.6.1: C object oriented SIP Stack.
 net-voip/linphone 3.11.1: Video softphone based on the SIP protocol
 sci-geosciences/qgis 2.12.1: User friendly Geographic Information System
-sci-libs/geographiclib 1.31 1.32: Small set of C++ classes for performing various geographic and geodesic conversions
+sci-libs/geographiclib 1.32: C++ classes for performing various geographic and geodesic conversions
 sys-apps/hasp 3.3_p5-r1: Hardware Against Software Piracy for access to parallel and usb keys
-sys-apps/ksmtuned 9999: Simple script that controls whether (and with what vigor) ksm should search for duplicated pages
+sys-apps/ksmtuned 9999: Simple script to tune whether and with what vigor ksm searches for dup pages
 sys-apps/linux-ftools 0_p20120419: Linux command line tools for fallocate, fincore, fadvise
 sys-apps/openwsman 2.6.3: Opensource Implementation of WS-Management Client
 sys-apps/sblim-cmpi-base 1.6.2: SBLIM Base Providers
@@ -124,7 +124,7 @@ sys-apps/wsmancli 2.3.0: Opensource Implementation of WS-Management - Command li
 sys-cluster/ploop 1.15: openvz tool and a library to control ploop block devices
 sys-devel/qconf 1.6_pre1 9999: Qt ./configure generation util
 sys-libs/rts_bpp 9999: Driver for realtek 5289/8411 card readers
-www-apache/mod_ruid2 0.9.8: mod_ruid2 is a suexec module for apache which takes advantage of POSIX.1e capabilities
+www-apache/mod_ruid2 0.9.8: suexec module for apache which takes advantage of POSIX.1e capabilities
 www-apps/haserl 0.9.35: HTML And Shell Embedded Report Language
 www-plugins/freshplayerplugin 9999: PPAPI-host NPAPI-plugin adapter for flashplayer in npapi based browsers
 www-servers/adsf 1.2.1: A Dead Simple Fileserver is a static file server that can launch in a directory
