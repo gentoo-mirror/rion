@@ -106,7 +106,9 @@ net-misc/modem-manager-gui 0.0.16: GUI for Modem Manager daemon.
 net-misc/networkmanager-l2tp 9999: NetworkManager L2TP plugin
 net-p2p/dump_viewer 9999: Viewer for DB dumps of torrent trackers
 net-p2p/passkeychanger 0.1.0.0 9999: Qt4 torrent passkey changer
+net-voip/belcard 1.0.1: C++ library to manipulate VCard standard format
 net-voip/belle-sip 1.5.0: C object oriented SIP Stack.
+net-voip/belr 0.1.2: VCard parser
 net-voip/linphone 3.10.2: Video softphone based on the SIP protocol
 sci-geosciences/qgis 2.12.1: User friendly Geographic Information System
 sci-libs/geographiclib 1.31 1.32: Small set of C++ classes for performing various geographic and geodesic conversions
