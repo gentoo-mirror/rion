@@ -51,7 +51,7 @@ media-sound/dcaenc 2: Encoder for the DTS Coherent Acoustics audio format
 media-sound/qomp 9999: Quick(Qt) Online Music Player - one player for different online music hostings
 net-dialup/xl2tpd 1.3.7: A modern version of the Layer 2 Tunneling Protocol (L2TP) daemon
 net-im/cutegram 9999: A different telegram client from Aseman team forked from Sigram by Sialan Labs.
-net-im/libcommuni 3.5.0: A cross-platform IRC framework written with Qt 4
+net-im/libcommuni 3.5.0: A cross-platform IRC framework written with Qt
 net-im/psi 9999: Qt4 Jabber client, with Licq-like interface
 net-im/psi-attention 9999: Psi plugin for making attention (XEP-0224)
 net-im/psi-autoreply 9999: Psi plugin to gnerate automatic replies.
