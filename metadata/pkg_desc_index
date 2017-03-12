@@ -128,7 +128,6 @@ sys-cluster/ploop 1.15: openvz tool and a library to control ploop block devices
 sys-devel/qconf 1.6_pre1 9999: Qt ./configure generation util
 sys-libs/rts_bpp 9999: Driver for realtek 5289/8411 card readers
 www-apache/mod_ruid2 0.9.8: suexec module for apache which takes advantage of POSIX.1e capabilities
-www-apps/ctpp2 2.8.3-r1: Very fast template engine for WEB.
 www-apps/haserl 0.9.35: HTML And Shell Embedded Report Language
 www-plugins/freshplayerplugin 9999: PPAPI-host NPAPI-plugin adapter for flashplayer in npapi based browsers
 www-servers/adsf 1.2.1: A Dead Simple Fileserver is a static file server that can launch in a directory

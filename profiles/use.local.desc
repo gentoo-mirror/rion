@@ -132,7 +132,6 @@ sys-apps/openwsman:server -
 sys-apps/sblim-gather:base - 
 sys-apps/sblim-gather:libvirt - 
 sys-apps/sblim-gather:provider - 
-www-apps/ctpp2:md5 - 
 www-plugins/freshplayerplugin:gtk3 - Use gtk3 instead of gtk2
 x11-themes/qtcurve:kf5 - Enable KDE Frameworks 5 support
 x11-themes/qtcurve:windeco - Enable window decoration for KWin
