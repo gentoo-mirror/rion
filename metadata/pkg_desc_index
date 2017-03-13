@@ -48,7 +48,7 @@ media-libs/pympv 20141222: A python wrapper for libmpv
 media-libs/qimageblitz 5.9999: Graphical effect and filter library by KDE
 media-sound/alsoft-conf 1.4.3: OpenAL Soft Configurator
 media-sound/dcaenc 2: Encoder for the DTS Coherent Acoustics audio format
-media-sound/qomp 9999: Quick(Qt) Online Music Player - one player for different online music hostings
+media-sound/qomp 1.1.1 9999: Quick(Qt) Online Music Player - one player for different online music hostings
 net-dialup/xl2tpd 1.3.7: A modern version of the Layer 2 Tunneling Protocol (L2TP) daemon
 net-im/cutegram 9999: A different telegram client from Aseman team forked from Sigram by Sialan Labs.
 net-im/libcommuni 3.5.0: A cross-platform IRC framework written with Qt
