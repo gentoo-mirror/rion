@@ -52,6 +52,8 @@ media-sound/qomp:tunetofileplugin - Tune To File plugin
 media-sound/qomp:urlplugin - URL Plugin
 media-sound/qomp:yandexmusicplugin - Yandex.Music plugin
 net-dialup/xl2tpd:dnsretry - Patch for host lookup retries, activated by redial feature
+net-im/libcommuni:qml - Build QML/QtQuick bindings and imports
+net-im/libcommuni:uchardet - Enabled charset discovery via app-i18n/uchardet
 net-im/psi:aspell - Use Aspell spell check engine
 net-im/psi:enchant - Use Enchant spell engine
 net-im/psi:extras - Enables extra non official patches
