@@ -13,7 +13,7 @@ app-misc/qmetro 0.7.1 9999: Metro/subway map and route computation software.
 app-misc/qtnote 0.2.3.1-r1 3.0.3 9999: Qt note-taking application compatible with tomboy
 app-text/makedict 0.4.1_beta1-r1 9999: Dictionary converter
 app-text/myrulib 0.29.14 0.29.16 9999: E-book collection manager
-app-text/qstardict 1.1 9999: QStarDict is a StarDict clone written with using Qt
+app-text/qstardict 1.1 1.2 9999: QStarDict is a StarDict clone written with using Qt
 app-text/rst2epub 20120114 99999999: reStructuredText documents to epub files convertor
 dev-db/spatialite 4.1.1 4.3.0: A complete Spatial DBMS in a nutshell built upon sqlite
 dev-db/wxsqlite3 3.0.5: C++ wrapper around the public domain SQLite 3.x database
