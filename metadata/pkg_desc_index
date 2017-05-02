@@ -115,7 +115,7 @@ net-voip/belle-sip 1.6.1: C object oriented SIP Stack.
 net-voip/linphone 3.11.1: Video softphone based on the SIP protocol
 sci-geosciences/qgis 2.12.1: User friendly Geographic Information System
 sci-libs/geographiclib 1.32: C++ classes for performing various geographic and geodesic conversions
-sys-apps/hasp 3.3_p5-r1: Hardware Against Software Piracy for access to parallel and usb keys
+sys-apps/hasp 3.3_p5-r2: Hardware Against Software Piracy for access to parallel and usb keys
 sys-apps/ksmtuned 9999: Simple script to tune whether and with what vigor ksm searches for dup pages
 sys-apps/linux-ftools 0_p20120419: Linux command line tools for fallocate, fincore, fadvise
 sys-apps/openwsman 2.6.3: Opensource Implementation of WS-Management Client
