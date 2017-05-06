@@ -54,14 +54,15 @@ media-sound/qomp:yandexmusicplugin - Yandex.Music plugin
 net-dialup/xl2tpd:dnsretry - Patch for host lookup retries, activated by redial feature
 net-im/libcommuni:qml - Build QML/QtQuick bindings and imports
 net-im/libcommuni:uchardet - Enabled charset discovery via app-i18n/uchardet
-net-im/psi:aspell - Use Aspell spell check engine
-net-im/psi:enchant - Use Enchant spell engine
-net-im/psi:extras - Enables extra non official patches
-net-im/psi:hunspell - Use Hunspell spell engine
+net-im/psi:aspell - Enable spellchecking using app-text/aspell
+net-im/psi:enchant - Enable spellchecking using app-text/enchant
+net-im/psi:extras - Enable Psi+ patcheset
+net-im/psi:hunspell - Enable spellchecking using app-text/hunspell
 net-im/psi:iconsets - Install additional iconsets, some of them has not clear licensing
 net-im/psi:plugins - Enable plugins support
 net-im/psi:sql - Enable psi-new-history extras patch
-net-im/psi:webkit - Enable chatlog rendering using webkit
+net-im/psi:webengine - Use dev-qt/qtwebengine instead of dev-qt/qtwebkit
+net-im/psi:webkit - Enable themed, html-based chatlogs
 net-im/psi:whiteboarding - Enable experimental interactive SVG drawing
 net-im/psi-plugins-meta:attention - Enable Psi plugin for making attention (XEP-0224)
 net-im/psi-plugins-meta:autoreply - Enable Psi plugin to gnerate automatic replies.
