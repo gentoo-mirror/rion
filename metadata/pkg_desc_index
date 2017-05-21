@@ -46,6 +46,7 @@ media-libs/glc-lib 2.1.0-r1 2.2.0: OpenGL Library Class
 media-libs/mediastreamer 2.15.1: Mediastreaming library for telephony application
 media-libs/pympv 20141222: A python wrapper for libmpv
 media-libs/qimageblitz 5.9999: Graphical effect and filter library by KDE
+media-sound/alsoft-conf 1.4.3: OpenAL Soft Configurator
 media-sound/dcaenc 2: Encoder for the DTS Coherent Acoustics audio format
 media-sound/qomp 1.1.1 1.2 9999: Quick(Qt) Online Music Player - one player for different online music hostings
 net-dialup/xl2tpd 1.3.7: A modern version of the Layer 2 Tunneling Protocol (L2TP) daemon
@@ -108,6 +109,7 @@ net-misc/linuxptp 1.3 1.4: Precision Time Protocol (PTP) for Linux ( IEEE standa
 net-misc/modem-manager-gui 0.0.16: GUI for Modem Manager daemon.
 net-misc/networkmanager-l2tp 9999: NetworkManager L2TP plugin
 net-p2p/dump_viewer 9999: Viewer for DB dumps of torrent trackers
+net-p2p/passkeychanger 0.1.0.0 9999: Qt4 torrent passkey changer
 net-voip/belcard 1.0.1: C++ library to manipulate VCard standard format
 net-voip/belle-sip 1.6.1: C object oriented SIP Stack.
 net-voip/linphone 3.11.1: Video softphone based on the SIP protocol
