@@ -9,5 +9,5 @@ RDEPEND=>=net-im/psi-9999[extras,plugins]
 REQUIRED_USE=^^ ( qt4 qt5 )
 SLOT=0
 _eclass_exported_funcs=src_unpack:psi-plugin src_prepare:psi-plugin src_configure:psi-plugin src_install:psi-plugin
-_eclasses_=estack	43ddf5aaffa7a8d0482df54d25a66a1f	git-r3	cbafa3261c37c7e3af44bb16a34ea390	multilib	97f470f374f2e94ccab04a2fb21d811e	psi-plugin	9253c379d91bda90ae89a247fa0901f0	qmake-utils	40a2ae377c3111aa116512aaf010f6ff	toolchain-funcs	6eb35f81556258a4bc9182ad3dfd58ee
+_eclasses_=estack	43ddf5aaffa7a8d0482df54d25a66a1f	git-r3	cbafa3261c37c7e3af44bb16a34ea390	multilib	97f470f374f2e94ccab04a2fb21d811e	psi-plugin	9253c379d91bda90ae89a247fa0901f0	qmake-utils	990448b067cb3cfe1443bc25fb57239c	toolchain-funcs	6eb35f81556258a4bc9182ad3dfd58ee
 _md5_=f6e45d53de720319e90167e0db78b2a1
