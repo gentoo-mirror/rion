@@ -56,7 +56,6 @@ net-im/psi 1.0 9999: Qt4 Jabber client, with Licq-like interface
 net-im/psi-attention 9999: Psi plugin for making attention (XEP-0224)
 net-im/psi-autoreply 9999: Psi plugin to gnerate automatic replies.
 net-im/psi-birthdayreminder 9999: Psi plugin to remind contact's birthdays
-net-im/psi-captchaforms 9999: Psi plugin to show MUC's captcha
 net-im/psi-chess 9999: Psi plugin to play chess with your friends
 net-im/psi-cleaner 9999: Psi plugin for profile cleaning for specified contacts.
 net-im/psi-clientswitcher 9999: Psi plugin for client version masking
@@ -65,8 +64,6 @@ net-im/psi-contentdownloader 9999: Psi plugin for downloading extras
 net-im/psi-enummessages 9999: Psi plugin to enumarate messages added to chat
 net-im/psi-extendedmenu 9999: Psi plugin which adds special submenu to contacts
 net-im/psi-extendedoptions 9999: Psi plugin for UI for some hidden options
-net-im/psi-gmailservice 9999: Psi plugin for Gmail notification
-net-im/psi-gnome3support 9999: Psi plugin for Gnome 3 support
 net-im/psi-gnupg 9999: Psi plugin for GnuPG message encryption
 net-im/psi-gomokugame 9999: Psi plugin for Gomoku game
 net-im/psi-historykeeper 9999: Psi plugin to keep certain contacts history clean
