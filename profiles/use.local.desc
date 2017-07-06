@@ -43,6 +43,7 @@ media-libs/mediastreamer:pcap - Enable usage of net-libs/libpcap
 media-libs/mediastreamer:silk - Use silk (skype protocol) codec plugin
 media-libs/mediastreamer:video - Enable video support
 media-libs/mediastreamer:vpx - Enable vp8 encoding support using media-libs/libvpx
+media-sound/qomp:cuteradioplugin - cuteRadio plugin
 media-sound/qomp:lastfmplugin - Last.FM plugin
 media-sound/qomp:mprisplugin - MPRIS plugin
 media-sound/qomp:myzukaruplugin - myzuka.ru plugin
