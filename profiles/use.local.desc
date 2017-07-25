@@ -68,7 +68,6 @@ net-im/psi:whiteboarding - Enable experimental interactive SVG drawing
 net-im/psi-plugins-meta:attention - Enable Psi plugin for making attention (XEP-0224)
 net-im/psi-plugins-meta:autoreply - Enable Psi plugin to gnerate automatic replies.
 net-im/psi-plugins-meta:birthdayreminder - Enable Psi plugin to remind contact's birthdays
-net-im/psi-plugins-meta:captchaforms - Enable Psi plugin to show MUC's captcha
 net-im/psi-plugins-meta:chess - Enable Psi plugin to play chess with your friends
 net-im/psi-plugins-meta:cleaner - Enable Psi plugin for profile cleaning for specified contacts.
 net-im/psi-plugins-meta:clientswitcher - Enable Psi plugin for client version masking
@@ -77,8 +76,6 @@ net-im/psi-plugins-meta:contentdownloader - Enable Psi plugin for downloading ex
 net-im/psi-plugins-meta:enummessages - Enable Psi plugin to enumarate messages added to chat
 net-im/psi-plugins-meta:extendedmenu - Enable Psi plugin which adds special submenu to contacts
 net-im/psi-plugins-meta:extendedoptions - Enable Psi plugin for UI for some hidden options
-net-im/psi-plugins-meta:gmailservice - Enable Psi plugin for Gmail notification
-net-im/psi-plugins-meta:gnome3support - Enable Psi plugin for Gnome 3 support
 net-im/psi-plugins-meta:gnupg - Enable Psi plugin for GnuPG message encryption
 net-im/psi-plugins-meta:gomokugame - Enable Psi plugin for Gomoku game
 net-im/psi-plugins-meta:historykeeper - Enable Psi plugin to keep certain contacts history clean
