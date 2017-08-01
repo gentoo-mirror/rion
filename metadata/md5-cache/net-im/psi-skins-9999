@@ -1,12 +1,12 @@
 DEFINED_PHASES=configure install prepare unpack
-DEPEND=>=dev-vcs/git-1.8.2.1 >=net-im/psi-9999[extras,plugins]
+DEPEND=>=dev-vcs/git-1.8.2.1 >=net-im/psi-9999
 DESCRIPTION=Psi plugin for skins support.
 EAPI=6
 HOMEPAGE=https://github.com/psi-im/
 IUSE=+themes
 LICENSE=GPL-2
-RDEPEND=themes? ( !net-im/psi-skins-themes ) >=net-im/psi-9999[extras,plugins]
+RDEPEND=themes? ( !net-im/psi-skins-themes ) >=net-im/psi-9999
 SLOT=0
 _eclass_exported_funcs=src_unpack:- src_prepare:psi-plugin src_configure:psi-plugin src_install:-
-_eclasses_=estack	43ddf5aaffa7a8d0482df54d25a66a1f	git-r3	cbafa3261c37c7e3af44bb16a34ea390	multilib	97f470f374f2e94ccab04a2fb21d811e	psi-plugin	96447d932fbaf82ec56714f874d1810c	qmake-utils	990448b067cb3cfe1443bc25fb57239c	toolchain-funcs	8fec6b1eb195836560e70b66d98fb163
+_eclasses_=estack	43ddf5aaffa7a8d0482df54d25a66a1f	git-r3	cbafa3261c37c7e3af44bb16a34ea390	multilib	97f470f374f2e94ccab04a2fb21d811e	psi-plugin	75fc8692afa80da0f821b4e3361d368a	qmake-utils	990448b067cb3cfe1443bc25fb57239c	toolchain-funcs	8fec6b1eb195836560e70b66d98fb163
 _md5_=602e4fc54c209c0348c26a97f47a3019

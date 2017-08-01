@@ -60,7 +60,6 @@ net-im/psi:enchant - Enable spellchecking using app-text/enchant
 net-im/psi:extras - Enable Psi+ patcheset
 net-im/psi:hunspell - Enable spellchecking using app-text/hunspell
 net-im/psi:iconsets - Install additional iconsets, some of them has not clear licensing
-net-im/psi:plugins - Enable plugins support
 net-im/psi:sql - Enable psi-new-history extras patch
 net-im/psi:webengine - Use dev-qt/qtwebengine instead of dev-qt/qtwebkit
 net-im/psi:webkit - Enable themed, html-based chatlogs
