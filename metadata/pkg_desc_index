@@ -42,8 +42,9 @@ mail-filter/policyd 2.0.12 2.0.14: Policy daemon for postfix and other MTAs
 media-gfx/glc-player 2.3.0: Open Source 3D viewer used to view 3d models
 media-gfx/phatch 9999: Phatch is a simple to use cross-platform GUI Photo Batch Processor
 media-gfx/simpleviewer-gl 9999: Small and simple image viewer for Linux.
+media-libs/bcg729 1.0.4: Encoder and decoder of the ITU G729 Annex A/B speech codec
 media-libs/glc-lib 2.1.0-r1 2.2.0: OpenGL Library Class
-media-libs/mediastreamer 2.15.1: Mediastreaming library for telephony application
+media-libs/mediastreamer 2.15.1 2.16.1: Mediastreaming library for telephony application
 media-libs/pympv 20141222: A python wrapper for libmpv
 media-libs/qimageblitz 5.9999: Graphical effect and filter library by KDE
 media-sound/alsoft-conf 1.4.3: OpenAL Soft Configurator
