@@ -30,7 +30,7 @@ dev-perl/Sys-Virt 1.3.0: Sys::Virt provides an API for using the libvirt library
 dev-python/pathtools 0.1.1: Pattern matching and various utilities for file systems paths.
 dev-python/pyaudio 0.2.9: Python bindings for PortAudio
 dev-python/rcore 9999: Just an core for all rion's projects
-dev-util/bcunit 3.0.1: C Unit Test Framework from Belledonne Comminications
+dev-util/bcunit 3.0.1 3.0.2: C Unit Test Framework from Belledonne Comminications
 dev-util/cpp2text 1.0: Stupid bidirection cpp to text converter
 dev-util/douml 9999: Powerful UML 2 modelling tool. BoUML fork
 dev-util/gmanedit2 9999: Gnome Manual Pages Editor

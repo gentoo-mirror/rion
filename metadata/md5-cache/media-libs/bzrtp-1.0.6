@@ -1,14 +1,13 @@
 DEFINED_PHASES=compile configure install prepare test
-DEPEND=>=net-libs/bctoolbox-0.6.0 dev-libs/libxml2:2 dev-db/sqlite:3 >=app-portage/elt-patches-20170317 !<sys-devel/gettext-0.18.1.1-r3 || ( >=sys-devel/automake-1.15:1.15 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4
+DEPEND=>=net-libs/bctoolbox-0.6.0 dev-libs/libxml2:2 dev-db/sqlite:3 sys-devel/make >=dev-util/cmake-3.7.2
 DESCRIPTION=Implementation of ZRTP keys exchange protocol
 EAPI=6
 HOMEPAGE=http://www.linphone.org
-IUSE=static-libs test abi_x86_32 abi_x86_64 abi_x86_x32 abi_mips_n32 abi_mips_n64 abi_mips_o32 abi_ppc_32 abi_ppc_64 abi_s390_32 abi_s390_64
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-2
 RDEPEND=>=net-libs/bctoolbox-0.6.0 dev-libs/libxml2:2 dev-db/sqlite:3
 SLOT=0
 SRC_URI=http://www.linphone.org/releases/sources/bzrtp/bzrtp-1.0.6.tar.gz
-_eclass_exported_funcs=src_prepare:- src_configure:- src_compile:multilib-minimal src_test:- src_install:multilib-minimal
-_eclasses_=autotools	7027963e8e8cc12c91117bdb9225dc26	libtool	e32ea84bf82cf8987965b574672dba93	multibuild	72647e255187a1fadc81097b3657e5c3	multilib	97f470f374f2e94ccab04a2fb21d811e	multilib-build	eed53a6313267c9fbcd35fc384bd0087	multilib-minimal	9139c3a57e077cb8e0d0f73ceb080b89	toolchain-funcs	8fec6b1eb195836560e70b66d98fb163
-_md5_=ecce2464dc05990556d3adece75d706b
+_eclass_exported_funcs=src_prepare:cmake-utils src_configure:cmake-utils src_compile:cmake-utils src_test:cmake-utils src_install:cmake-utils
+_eclasses_=cmake-utils	026933aff3889190eeb565b642cfe252	epatch	8233751dc5105a6ae8fcd86ce2bb0247	estack	43ddf5aaffa7a8d0482df54d25a66a1f	eutils	9c113d6a64826c40154cad7be15d95ea	flag-o-matic	61cad4fb5d800b29d484b27cb033f59b	ltprune	2770eed66a9b8ef944714cd0e968182e	multilib	97f470f374f2e94ccab04a2fb21d811e	multiprocessing	284a473719153462f3e974d86c8cb81c	ninja-utils	ebb2eaddc6331c4fa000b8eb8f6fe074	toolchain-funcs	8fec6b1eb195836560e70b66d98fb163	versionator	c80ccf29e90adea7c5cae94b42eb76d0
+_md5_=e40c466473d9e2888e5fe0b63d5b6482
