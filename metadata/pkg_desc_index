@@ -48,6 +48,7 @@ media-libs/glc-lib 2.1.0-r1 2.2.0: OpenGL Library Class
 media-libs/mediastreamer 2.15.1 2.16.1: Mediastreaming library for telephony application
 media-libs/pympv 20141222: A python wrapper for libmpv
 media-libs/qimageblitz 5.9999: Graphical effect and filter library by KDE
+media-plugins/mediastreamer-x264 1.5.3: mediastreamer plugin: add H264 support
 media-sound/alsoft-conf 1.4.3: OpenAL Soft Configurator
 media-sound/dcaenc 2: Encoder for the DTS Coherent Acoustics audio format
 media-sound/qomp 1.1.1 1.2 1.2.1 9999: Quick(Qt) Online Music Player - one player for different online music hostings
