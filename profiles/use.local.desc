@@ -32,6 +32,7 @@ mail-filter/milter-greylist:spamassassin - Add spamassasin plugin
 mail-filter/milter-greylist:spf - Add Sender Policy Framework support
 mail-filter/policyd:webinterface - 
 media-libs/mediastreamer:amr - Use of AMR Narrow Band codec plugin
+media-libs/mediastreamer:bv16 - Use BroadVoice codec plugin
 media-libs/mediastreamer:filters - Enable compilation of filters
 media-libs/mediastreamer:g726 - Support g726 codec
 media-libs/mediastreamer:g729 - Use g726 codec plugin
@@ -41,6 +42,7 @@ media-libs/mediastreamer:opus - Enable opus codec support
 media-libs/mediastreamer:ortp - Enable usage of net-libs/ortp
 media-libs/mediastreamer:pcap - Enable usage of net-libs/libpcap
 media-libs/mediastreamer:silk - Use silk (skype protocol) codec plugin
+media-libs/mediastreamer:tools - Enable compilation of tools
 media-libs/mediastreamer:video - Enable video support
 media-libs/mediastreamer:vpx - Enable vp8 encoding support using media-libs/libvpx
 media-sound/qomp:cuteradioplugin - cuteRadio plugin
@@ -111,7 +113,6 @@ net-im/spectrum:tools - Install spectrum tools
 net-libs/jdns:tools - Enable jdns test tools
 net-libs/libexosip:srv - enable support for SRV records DNS queries
 net-libs/ortp:ntp-timestamp - Turn on NTP timestamping on received packet
-net-voip/belle-sip:tls - Enable encrypted channels
 net-voip/belle-sip:tunnel - Enable proprietary tunnel (wtf?)
 net-voip/linphone:assistant - Turn on assistant compiling (needs gtk enabled)
 net-voip/linphone:gsm-nonstandard - Support non-standard GSM frequencies
