@@ -17,7 +17,7 @@ app-text/qstardict 1.1 1.2 9999: QStarDict is a StarDict clone written with usin
 app-text/rst2epub 20120114 99999999: reStructuredText documents to epub files convertor
 dev-db/spatialite 4.1.1 4.3.0: A complete Spatial DBMS in a nutshell built upon sqlite
 dev-db/wxsqlite3 3.0.5: C++ wrapper around the public domain SQLite 3.x database
-dev-libs/belr 0.1.2 0.1.3: Belledonne Communications' language recognition library
+dev-libs/belr 0.1.3: Belledonne Communications' language recognition library
 dev-libs/extra-cmake-modules 9999: Extra modules and scripts for CMake
 dev-libs/freexl 1.0.2: Simple XLS data extraction library
 dev-libs/sblim-cmpi-devel 2.0.3: SBLIM CMPI Provider Development Support
@@ -45,7 +45,7 @@ media-gfx/simpleviewer-gl 9999: Small and simple image viewer for Linux.
 media-libs/bcg729 1.0.4: Encoder and decoder of the ITU G729 Annex A/B speech codec
 media-libs/bzrtp 1.0.6: Implementation of ZRTP keys exchange protocol
 media-libs/glc-lib 2.1.0-r1 2.2.0: OpenGL Library Class
-media-libs/mediastreamer 2.15.1 2.16.1: Mediastreaming library for telephony application
+media-libs/mediastreamer 2.16.1: Mediastreaming library for telephony application
 media-libs/pympv 20141222: A python wrapper for libmpv
 media-libs/qimageblitz 5.9999: Graphical effect and filter library by KDE
 media-plugins/mediastreamer-x264 1.5.3: mediastreamer plugin: add H264 support
@@ -101,17 +101,15 @@ net-libs/ortp 1.0.1 1.0.2: Open Real-time Transport Protocol (RTP, RFC3550) stac
 net-mail/mailgraph 1.14-r3: A mail statistics RRDtool frontend for Postfix
 net-misc/TelegramQML 9999: Telegram API tools for QtQML and Qml
 net-misc/aseman-qt-tools 9999: Set of tools from Aseman-Land
-net-misc/dlan-linux 6.1: Find and configure your devolo (Ethernet via existing home wires) dLAN devices
 net-misc/hermes 9999: The great messenger of the gods
-net-misc/htbstat 0.9: HTB class tree viewer of alexpro (Alexey Prokopchuk)
 net-misc/libqtelegram-ae 9999: A fork of libqtelegram by Aseman Team
 net-misc/linuxptp 1.3 1.4: Precision Time Protocol (PTP) for Linux ( IEEE standard 1588 )
 net-misc/modem-manager-gui 0.0.16: GUI for Modem Manager daemon.
 net-misc/networkmanager-l2tp 9999: NetworkManager L2TP plugin
 net-p2p/dump_viewer 9999: Viewer for DB dumps of torrent trackers
 net-p2p/passkeychanger 0.1.0.0 9999: Qt4 torrent passkey changer
-net-voip/belcard 1.0.1 1.0.2: C++ library to manipulate VCard standard format
-net-voip/belle-sip 1.6.1 1.6.3: C object oriented SIP Stack.
+net-voip/belcard 1.0.2: C++ library to manipulate VCard standard format
+net-voip/belle-sip 1.6.3: C object oriented SIP Stack.
 net-voip/linphone 3.11.1 3.12.0: Video softphone based on the SIP protocol
 sci-geosciences/qgis 2.12.1: User friendly Geographic Information System
 sci-libs/geographiclib 1.32: C++ classes for performing various geographic and geodesic conversions
@@ -132,7 +130,7 @@ www-apps/haserl 0.9.35: HTML And Shell Embedded Report Language
 www-plugins/freshplayerplugin 9999: PPAPI-host NPAPI-plugin adapter for flashplayer in npapi based browsers
 www-servers/adsf 1.2.1: A Dead Simple Fileserver is a static file server that can launch in a directory
 x11-misc/kbdd 9999: Very simple layout switcher
-x11-plugins/mrim-prpl 0.1.28 0.1.28.1 9999: Mail.Ru agent protocol for pidgin.
+x11-plugins/mrim-prpl 0.1.28.1 9999: Mail.Ru agent protocol for pidgin.
 x11-themes/country-flag 0: The flag icon filenames follow the ISO 3166-1 alpha-2 country codes.
 x11-themes/elementary-icon-theme 3.1: Elementary gnome icon theme
 x11-themes/qtcurve 9999-r1: A set of widget styles for Qt and GTK2
