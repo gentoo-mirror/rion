@@ -120,7 +120,7 @@ sys-apps/linux-ftools 0_p20120419: Linux command line tools for fallocate, finco
 sys-apps/openwsman 2.6.3: Opensource Implementation of WS-Management Client
 sys-apps/sblim-cmpi-base 1.6.2: SBLIM Base Providers
 sys-apps/sblim-cmpi-fsvol 1.5.1: SBLIM fsvol instrumentation
-sys-apps/sblim-gather 2.2.7 2.2.8: SBLIM Performance Data Gatherer
+sys-apps/sblim-gather 2.2.8: SBLIM Performance Data Gatherer
 sys-apps/tog-pegasus 2.14.1: OpenPegasus WBEM Services for Linux
 sys-apps/wsmancli 2.3.0: Opensource Implementation of WS-Management - Command line utility
 sys-cluster/ploop 1.15: openvz tool and a library to control ploop block devices
