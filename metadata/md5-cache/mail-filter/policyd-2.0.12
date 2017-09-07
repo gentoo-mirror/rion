@@ -9,6 +9,5 @@ LICENSE=GPL-2
 RDEPEND=dev-perl/Net-Server dev-perl/Net-CIDR dev-perl/Config-IniFiles dev-perl/Cache-FastMmap dev-perl/Mail-SPF mysql? ( virtual/mysql ) postgres? ( dev-db/postgresql ) sqlite? ( dev-db/sqlite ) webinterface? ( dev-lang/php[pdo] virtual/httpd-php )
 SLOT=0
 SRC_URI=http://devlabs.linuxassist.net/attachments/download/223/cluebringer-2.0.12.tar.xz
-_eclass_exported_funcs=pkg_postinst:- src_install:-
 _eclasses_=multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	185a06792159ca143528e7010368e8af
 _md5_=92691a2d9a9b4bcf74cbfd3a4e827467

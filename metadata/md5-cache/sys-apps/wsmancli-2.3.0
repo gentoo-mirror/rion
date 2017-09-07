@@ -9,6 +9,5 @@ LICENSE=BSD
 RDEPEND=net-misc/curl[idn] sys-apps/openwsman
 SLOT=0
 SRC_URI=mirror://sourceforge/project/openwsman/wsmancli/2.3.0/wsmancli-2.3.0.tar.bz2
-_eclass_exported_funcs=src_prepare:- src_configure:-
 _eclasses_=autotools	7027963e8e8cc12c91117bdb9225dc26	libtool	0081a71a261724730ec4c248494f044d	multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	185a06792159ca143528e7010368e8af
 _md5_=53d6c2ba29e42c3200bb818f9ccf8bc0
