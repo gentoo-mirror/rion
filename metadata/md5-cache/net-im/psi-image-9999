@@ -1,10 +1,10 @@
 DEFINED_PHASES=configure install prepare unpack
-DEPEND=>=dev-vcs/git-1.8.2.1 >=net-im/psi-9999
+DEPEND=>=dev-vcs/git-1.8.2.1 net-im/psi
 DESCRIPTION=Psi plugin for sending in-band images
 EAPI=6
 HOMEPAGE=https://github.com/psi-im/
 LICENSE=GPL-2
-RDEPEND=>=net-im/psi-9999
+RDEPEND=net-im/psi
 SLOT=0
-_eclasses_=estack	43ddf5aaffa7a8d0482df54d25a66a1f	git-r3	4f7ddb4119309845d6687213171ab445	multilib	97f470f374f2e94ccab04a2fb21d811e	psi-plugin	6a7b9fc134af9655d979318649e4ee2e	qmake-utils	990448b067cb3cfe1443bc25fb57239c	toolchain-funcs	185a06792159ca143528e7010368e8af
+_eclasses_=estack	43ddf5aaffa7a8d0482df54d25a66a1f	git-r3	4f7ddb4119309845d6687213171ab445	multilib	97f470f374f2e94ccab04a2fb21d811e	psi-plugin	b90c022e1044607a9e688cad2007030c	qmake-utils	990448b067cb3cfe1443bc25fb57239c	toolchain-funcs	185a06792159ca143528e7010368e8af
 _md5_=5c251586751be9b0b1542ddd3a013625
