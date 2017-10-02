@@ -101,6 +101,7 @@ net-im/psi-plugins-meta:watcher - Enable Psi plugin for watching on contacts
 net-im/psi-skins:themes - Pull in themes via net-im/psi-skins-themes
 net-im/psimedia:demo - Build simple test application for the PsiMedia system
 net-im/psimedia:extras - Enables extra non official patches
+net-im/skypeforlinux:pax_kernel - Triggers a paxmarking of the main skype binary
 net-im/spectrum:frotz - Enable frotz plugin
 net-im/spectrum:irc - Enable IRC backend via net-im/libcommuni
 net-im/spectrum:libev - Use libev for event loop
