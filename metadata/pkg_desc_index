@@ -90,7 +90,7 @@ net-im/psi-translate 9999: Psi plugin to fix incorrect input
 net-im/psi-videostatus 9999: Psi plugin for settings some status during video watching
 net-im/psi-watcher 9999: Psi plugin for watching on contacts
 net-im/psimedia 9999: Psi plugin for voice/video calls
-net-im/skypeforlinux 8.8.76.60544: P2P Internet Telephony (VoiceIP) client
+net-im/skypeforlinux 8.8.76.61628: P2P Internet Telephony (VoiceIP) client
 net-im/spectrum 2.9999: Spectrum is an XMPP transport/gateway
 net-im/swift 1.0 9999: Qt4 jabber (xmpp) client
 net-im/swiften 3.9999 9999: Just a perfect C++ XMPP library
