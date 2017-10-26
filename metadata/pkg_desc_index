@@ -92,8 +92,8 @@ net-im/psi-watcher 9999: Psi plugin for watching on contacts
 net-im/psimedia 9999: Psi plugin for voice/video calls
 net-im/skypeforlinux 8.9.76.64297: P2P Internet Telephony (VoiceIP) client
 net-im/spectrum 2.9999: Spectrum is an XMPP transport/gateway
-net-im/swift 1.0 9999: Qt4 jabber (xmpp) client
-net-im/swiften 3.9999 9999: Just a perfect C++ XMPP library
+net-im/swift 4.9999 9999: Qt5 jabber (xmpp) client
+net-im/swiften 4.9999 9999: Just a perfect C++ XMPP library
 net-libs/bctoolbox 0.5.1 0.6.0: Utilities library used by Belledonne Communications softwares
 net-libs/jdns 2.0.4: JDNS is a simple DNS implementation library
 net-libs/libexosip 5.0.0: Simple API for SIP protocol for multimedia session establishement
