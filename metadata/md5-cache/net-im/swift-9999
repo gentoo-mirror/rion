@@ -1,11 +1,11 @@
 DEFINED_PHASES=compile install postinst postrm prepare test unpack
-DEPEND=avahi? ( net-dns/avahi ) >=dev-libs/boost-1.42 >=dev-libs/openssl-0.9.8g >=x11-libs/libXScrnSaver-1.2 dev-qt/qtgui:5 dev-qt/qtwebkit:5 dev-qt/qtwidgets:5 dev-libs/libxml2 >=dev-libs/expat-2.0.1 sys-libs/zlib icu? ( dev-libs/icu:= ) !icu? ( net-dns/libidn ) >=dev-util/scons-1.2 >=sys-apps/sed-4 >=dev-vcs/git-1.8.2.1
+DEPEND=avahi? ( net-dns/avahi ) >=dev-libs/boost-1.42 dev-libs/openssl:0 >=x11-libs/libXScrnSaver-1.2 dev-qt/qtgui:5 dev-qt/qtwebkit:5 dev-qt/qtwidgets:5 dev-libs/libxml2 >=dev-libs/expat-2.0.1 sys-libs/zlib icu? ( dev-libs/icu:= ) !icu? ( net-dns/libidn ) >=dev-util/scons-1.2 >=sys-apps/sed-4 >=dev-vcs/git-1.8.2.1
 DESCRIPTION=Qt5 jabber (xmpp) client
 EAPI=6
 HOMEPAGE=http://swift.im/
 IUSE=avahi debug hunspell icu test linguas_ca linguas_cs linguas_de linguas_es linguas_fr linguas_gl linguas_he linguas_hu linguas_nl linguas_pl linguas_ru linguas_se linguas_sk linguas_sv
 LICENSE=GPL-3
-RDEPEND=avahi? ( net-dns/avahi ) >=dev-libs/boost-1.42 >=dev-libs/openssl-0.9.8g >=x11-libs/libXScrnSaver-1.2 dev-qt/qtgui:5 dev-qt/qtwebkit:5 dev-qt/qtwidgets:5 dev-libs/libxml2 >=dev-libs/expat-2.0.1 sys-libs/zlib icu? ( dev-libs/icu:= ) !icu? ( net-dns/libidn )
+RDEPEND=avahi? ( net-dns/avahi ) >=dev-libs/boost-1.42 dev-libs/openssl:0 >=x11-libs/libXScrnSaver-1.2 dev-qt/qtgui:5 dev-qt/qtwebkit:5 dev-qt/qtwidgets:5 dev-libs/libxml2 >=dev-libs/expat-2.0.1 sys-libs/zlib icu? ( dev-libs/icu:= ) !icu? ( net-dns/libidn )
 SLOT=0
 _eclasses_=epatch	8233751dc5105a6ae8fcd86ce2bb0247	estack	43ddf5aaffa7a8d0482df54d25a66a1f	eutils	227b041a120d309fdefbebb3b8c1dfa9	git-r3	52a888802d25387c2c74cb845d1219bc	gnome2-utils	4d211d7614f303710fca59db6ec12c88	ltprune	2770eed66a9b8ef944714cd0e968182e	multilib	97f470f374f2e94ccab04a2fb21d811e	multiprocessing	6f5991c7101863d0b29df63990ad852e	scons-utils	fcace052aef60e6b0eb3023c26aa585a	toolchain-funcs	185a06792159ca143528e7010368e8af	xdg-utils	f2c8335407f0b935b0a96d4adf23ef25
-_md5_=12573e94ccbe3bdd208e28b45f65ac56
+_md5_=45831bed7159bff487b327587795c30a

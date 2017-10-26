@@ -2,12 +2,7 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
-app-admin/openwbem:association-traversal - 
-app-admin/openwbem:cmpi - 
-app-admin/openwbem:digest - 
-app-admin/openwbem:valgrind - 
 app-misc/a4tool:battery - Enable battery level notifications using x11-libs/libnotify
-app-misc/anki:mpv - Play audio via mpv instead of mplayer
 app-misc/anki:recording - Enable support for audio recording
 app-misc/anki:sound - Enable support for adding sound to cards
 app-misc/qtnote:unity - Enable Unity/Ubuntu plugin
@@ -111,6 +106,7 @@ net-im/spectrum:skype - Enables Skype backend
 net-im/spectrum:staticport - Install spectrum tools
 net-im/spectrum:symlinks - Make symlinks for configuration files of all protocols to one file
 net-im/spectrum:tools - Install spectrum tools
+net-im/swift:hunspell - Enable spellchecking using app-text/hunspell
 net-libs/jdns:tools - Enable jdns test tools
 net-libs/libexosip:srv - enable support for SRV records DNS queries
 net-libs/ortp:ntp-timestamp - Turn on NTP timestamping on received packet
@@ -121,8 +117,6 @@ net-voip/linphone:sqlite - Turn on compilation of message storage
 net-voip/linphone:tools - Compile tools
 net-voip/linphone:vcard - Enable retrieving personal contact information
 net-voip/linphone:video - Enable video support (display/capture)
-sci-geosciences/qgis:grass - Add support for sci-geosciences/grass
-sci-geosciences/qgis:mapserver - Determines whether mapserver should be built
 sys-apps/hasp:demo - Install demo binaries
 sys-apps/hasp:lpt - Install kernel module for LPT-keys
 sys-apps/hasp:net_hasp - Install binaries for use HASP-keys on network
@@ -131,9 +125,6 @@ sys-apps/openwsman:cim -
 sys-apps/openwsman:eventing - 
 sys-apps/openwsman:plugins - 
 sys-apps/openwsman:server - 
-sys-apps/sblim-gather:base - 
-sys-apps/sblim-gather:libvirt - 
-sys-apps/sblim-gather:provider - 
 www-plugins/freshplayerplugin:gtk3 - Use gtk3 instead of gtk2
 x11-themes/qtcurve:kf5 - Enable KDE Frameworks 5 support
 x11-themes/qtcurve:windeco - Enable window decoration for KWin
