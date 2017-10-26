@@ -137,3 +137,4 @@ sys-apps/sblim-gather:provider -
 www-plugins/freshplayerplugin:gtk3 - Use gtk3 instead of gtk2
 x11-themes/qtcurve:kf5 - Enable KDE Frameworks 5 support
 x11-themes/qtcurve:windeco - Enable window decoration for KWin
+xfce-base/libxfce4ui:glade - Build support for Glade 3's GtkBuilder implementation

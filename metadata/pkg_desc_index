@@ -46,7 +46,6 @@ media-libs/bcmatroska2 0.23: mediastreamer plugin: add H264 support
 media-libs/bzrtp 1.0.6: Implementation of ZRTP keys exchange protocol
 media-libs/glc-lib 2.1.0-r1 2.2.0: OpenGL Library Class
 media-libs/mediastreamer 2.16.1: Mediastreaming library for telephony application
-media-libs/pympv 20141222: A python wrapper for libmpv
 media-libs/qimageblitz 5.9999: Graphical effect and filter library by KDE
 media-plugins/mediastreamer-x264 1.5.3: mediastreamer plugin: add H264 support
 media-sound/alsoft-conf 1.4.3: OpenAL Soft Configurator
@@ -135,3 +134,4 @@ x11-plugins/mrim-prpl 0.1.28.1 9999: Mail.Ru agent protocol for pidgin.
 x11-themes/country-flag 0: The flag icon filenames follow the ISO 3166-1 alpha-2 country codes.
 x11-themes/elementary-icon-theme 3.1: Elementary gnome icon theme
 x11-themes/qtcurve 9999-r1: A set of widget styles for Qt and GTK2
+xfce-base/libxfce4ui 4.13.1: Unified widget and session management libs for Xfce
