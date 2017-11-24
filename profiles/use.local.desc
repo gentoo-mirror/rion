@@ -49,7 +49,6 @@ media-sound/qomp:prostopleerplugin - Prosto Pleer plugin
 media-sound/qomp:tunetofileplugin - Tune To File plugin
 media-sound/qomp:urlplugin - URL Plugin
 media-sound/qomp:yandexmusicplugin - Yandex.Music plugin
-net-dialup/xl2tpd:dnsretry - Patch for host lookup retries, activated by redial feature
 net-im/ejabberd:captcha - Support for CAPTCHA Forms (XEP-158) on registration
 net-im/ejabberd:full-xml - Use XML features in XMPP stream (ex: CDATA), requires XML compliant clients
 net-im/ejabberd:hipe - Compile natively with HiPE, not recommended
