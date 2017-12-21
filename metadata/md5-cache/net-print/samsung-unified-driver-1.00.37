@@ -1,0 +1,15 @@
+DEFINED_PHASES=install postinst pretend setup unpack
+DEPEND=virtual/pkgconfig
+DESCRIPTION=Samsung Unified Linux Driver for printers and MFDs
+EAPI=6
+HOMEPAGE=http://www.samsung.com
+IUSE=cups network scanner
+KEYWORDS=-* ~amd64 ~x86
+LICENSE=Samsung-EULA
+RDEPEND=cups? ( net-print/cups !net-print/splix ) scanner? ( media-gfx/sane-backends dev-libs/libxml2:2 virtual/libusb:0 ) network? ( virtual/libusb )
+REQUIRED_USE=network? ( cups ) || ( cups scanner )
+RESTRICT=mirror strip
+SLOT=0
+SRC_URI=http://ftp.hp.com/pub/softlib/software13/printers/SS/SL-M2070/uld_v1.00.37_00.99.tar.gz
+_eclasses_=desktop	2ccd1dd1dd7bfb8795eea024a4f91bb6	epatch	8233751dc5105a6ae8fcd86ce2bb0247	estack	43ddf5aaffa7a8d0482df54d25a66a1f	eutils	97ce9decef1ff4b6c5be700283f67343	linux-info	ca370deef9d44125d829f2eb6ebc83e0	ltprune	2770eed66a9b8ef944714cd0e968182e	multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	185a06792159ca143528e7010368e8af	udev	d91cac2c73b94629cad2daea66e0d182	vcs-snapshot	03289f51c769cf409d200d2d628cdd6e	versionator	c80ccf29e90adea7c5cae94b42eb76d0
+_md5_=c5847f987a3fdeecf4648c68a596a379
