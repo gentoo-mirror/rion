@@ -8,6 +8,6 @@ KEYWORDS=~amd64 ~arm ~ia64 ppc ~sparc x86
 LICENSE=Apache-2.0
 RDEPEND=>=dev-erlang/fast_xml-1.1.22 >=dev-erlang/stringprep-1.0.8 >=dev-lang/erlang-17.1 !=dev-lang/erlang-20.1 dev-lang/erlang
 SLOT=0
-SRC_URI=https://github.com/processone/xmpp/archive/1.1.16.tar.gz -> xmpp-1.1.16.tar.gz
+SRC_URI=https://github.com/processone/xmpp/archive/1.1.17.tar.gz -> xmpp-1.1.17.tar.gz
 _eclasses_=rebar	f135c419c43bc8841cd57d1d53ed1da8
-_md5_=9707ba9b7d4cc26e18f594233ec3afc0
+_md5_=464046afa887c74ad5cea351884659da

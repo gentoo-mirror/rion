@@ -1,5 +1,7 @@
 app-misc/qtnote 0.2.3.1-r1 3.0.3: Qt note-taking application compatible with tomboy
-app-text/qstardict 1.1 1.2: QStarDict is a StarDict clone written with using Qt
+app-text/qstardict 1.2: QStarDict is a StarDict clone written with using Qt
+dev-erlang/esip 1.0.18: ProcessOne SIP server component
+dev-erlang/stun 1.0.17: STUN and TURN library for Erlang and Elixir
 dev-libs/freexl 1.0.2: Simple XLS data extraction library
 dev-util/cpp2text 1.0: Stupid bidirection cpp to text converter
 media-sound/qomp 1.3.1: Quick(Qt) Online Music Player - one player for different online music hostings

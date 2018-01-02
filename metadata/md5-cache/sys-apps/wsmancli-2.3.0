@@ -10,4 +10,4 @@ RDEPEND=net-misc/curl[idn] sys-apps/openwsman
 SLOT=0
 SRC_URI=mirror://sourceforge/project/openwsman/wsmancli/2.3.0/wsmancli-2.3.0.tar.bz2
 _eclasses_=autotools	dc412f38566b91012efd58b9c203e6c3	libtool	0081a71a261724730ec4c248494f044d	multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	885c7d8dd70a58825f3d17e35a3cd1e9
-_md5_=87ddf2f0339fd2e49fc983b0cf9b618c
+_md5_=9d8446003ce5c3b84f41dcafc7f75a75

@@ -10,4 +10,4 @@ RDEPEND=nls? ( sys-devel/gettext )
 SLOT=0
 SRC_URI=https://github.com/ddccontrol/ddccontrol-db/archive/20170716.tar.gz -> ddccontrol-db-20170716.tar.gz
 _eclasses_=autotools	dc412f38566b91012efd58b9c203e6c3	libtool	0081a71a261724730ec4c248494f044d	multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	885c7d8dd70a58825f3d17e35a3cd1e9
-_md5_=c9d145ce9156e064caa8a5a7f0e2949c
+_md5_=7b5020cbb645f6dcd04425d910c45db2
