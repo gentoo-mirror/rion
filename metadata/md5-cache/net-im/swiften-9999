@@ -7,5 +7,5 @@ IUSE=avahi debug doc examples test
 LICENSE=GPL-3
 RDEPEND=avahi? ( net-dns/avahi ) >=dev-libs/boost-1.42 dev-libs/openssl:0 >=net-dns/libidn-1.10 dev-libs/libxml2 >=dev-libs/expat-2.0.1 sys-libs/zlib
 SLOT=0
-_eclasses_=git-r3	25b08efef07cea6bcd45b8c6dcce2782	multilib	97f470f374f2e94ccab04a2fb21d811e	multiprocessing	cac3169468f893670dac3e7cb940e045	scons-utils	fcace052aef60e6b0eb3023c26aa585a	toolchain-funcs	885c7d8dd70a58825f3d17e35a3cd1e9
+_eclasses_=git-r3	25b08efef07cea6bcd45b8c6dcce2782	multilib	97f470f374f2e94ccab04a2fb21d811e	multiprocessing	cac3169468f893670dac3e7cb940e045	scons-utils	fcace052aef60e6b0eb3023c26aa585a	toolchain-funcs	fa02994d0beba88681127d93da4411ec
 _md5_=40fbe8b191a72fc4280280576839289b
