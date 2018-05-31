@@ -11,5 +11,5 @@ REQUIRED_USE=network? ( cups ) || ( cups scanner )
 RESTRICT=mirror strip
 SLOT=0
 SRC_URI=http://ftp.hp.com/pub/softlib/software13/printers/SS/SL-M2070/uld_v1.00.37_00.99.tar.gz
-_eclasses_=estack	43ddf5aaffa7a8d0482df54d25a66a1f	linux-info	ca370deef9d44125d829f2eb6ebc83e0	multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	1e35303c63cd707f6c3422b4493d5607	udev	d91cac2c73b94629cad2daea66e0d182	vcs-snapshot	3be1ab44131e8c0bbdaa75823008444b	versionator	26ca8a8bd95d6a74122c08ba98a4ee72
+_eclasses_=estack	43ddf5aaffa7a8d0482df54d25a66a1f	linux-info	aedb720bff5a5dec9b87edd351382bfc	multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	1e35303c63cd707f6c3422b4493d5607	udev	d91cac2c73b94629cad2daea66e0d182	vcs-snapshot	3be1ab44131e8c0bbdaa75823008444b	versionator	26ca8a8bd95d6a74122c08ba98a4ee72
 _md5_=b508b81f322a93afb523410ea48626a2
