@@ -7,4 +7,4 @@ LICENSE=GPL-2
 RDEPEND=>=app-crypt/libsignal-protocol-c-2.3.1_p20180209 >=app-crypt/qca-2.1.3_p20180105 net-im/psi
 SLOT=0
 _eclasses_=estack	43ddf5aaffa7a8d0482df54d25a66a1f	git-r3	8f6de46b0aa318aea0e8cac62ece098b	multilib	97f470f374f2e94ccab04a2fb21d811e	psi-plugin	b90c022e1044607a9e688cad2007030c	qmake-utils	990448b067cb3cfe1443bc25fb57239c	toolchain-funcs	1e35303c63cd707f6c3422b4493d5607
-_md5_=4015da614a83776e70fa56de90868d74
+_md5_=d22a55259894d3e1ae644766abb71bc6
