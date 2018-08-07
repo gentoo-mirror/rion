@@ -1,12 +1,10 @@
 DEFINED_PHASES=install prepare unpack
-DEPEND=qt4? ( dev-qt/qtgui:4 ) qt4? ( dev-qt/qtgui:5 dev-qt/qtwidgets:5 ) app-arch/unzip >=dev-vcs/git-1.8.2.1[curl]
+DEPEND=dev-qt/qtgui:5 dev-qt/qtwidgets:5 app-arch/unzip >=dev-vcs/git-1.8.2.1[curl]
 DESCRIPTION=Metro/subway map and route computation software.
 EAPI=6
 HOMEPAGE=https://sourceforge.net/projects/qmetro/
-IUSE=qt4 qt5
 LICENSE=GPL-2
-RDEPEND=qt4? ( dev-qt/qtgui:4 ) qt4? ( dev-qt/qtgui:5 dev-qt/qtwidgets:5 )
-REQUIRED_USE=^^ ( qt4 qt5 )
+RDEPEND=dev-qt/qtgui:5 dev-qt/qtwidgets:5
 SLOT=0
 _eclasses_=estack	43ddf5aaffa7a8d0482df54d25a66a1f	git-r3	8f6de46b0aa318aea0e8cac62ece098b	multilib	97f470f374f2e94ccab04a2fb21d811e	qmake-utils	bdf97e69a34b864d6d545f4ec3143ff7	toolchain-funcs	1e35303c63cd707f6c3422b4493d5607
-_md5_=70ec17c024c70566ca57347e360fa7af
+_md5_=b19715df7207403ab3828109de3148ef
