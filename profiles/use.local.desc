@@ -11,7 +11,7 @@ media-sound/qomp:lastfmplugin - Last.FM plugin
 media-sound/qomp:mprisplugin - MPRIS plugin
 media-sound/qomp:myzukaruplugin - myzuka.ru plugin
 media-sound/qomp:notificationsplugin - notifications plugin
-media-sound/qomp:prostopleerplugin - Prosto Pleer plugin
+media-sound/qomp:poiskmplugin - poiskm.me plugin
 media-sound/qomp:tunetofileplugin - Tune To File plugin
 media-sound/qomp:urlplugin - URL Plugin
 media-sound/qomp:yandexmusicplugin - Yandex.Music plugin
