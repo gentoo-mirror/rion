@@ -2,10 +2,46 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
+app-crypt/qca:botan - Enable botan plugin
+app-crypt/qca:gcrypt - Enable gcrypt plugin
+app-crypt/qca:gpg - Enable GnuPG plugin
+app-crypt/qca:logger - Enable logger plugin
+app-crypt/qca:nss - Enable NSS plugin
+app-crypt/qca:pkcs11 - Enable PKCS#11 plugin
+app-crypt/qca:sasl - Enable SASL plugin
+app-crypt/qca:softstore - Enable softstore plugin
+app-misc/a4tool:battery - Enable battery level notifications using x11-libs/libnotify
+app-misc/anki:recording - Enable support for audio recording
+app-misc/anki:sound - Enable support for adding sound to cards
 app-misc/qtnote:unity - Enable Unity/Ubuntu plugin
+app-text/myrulib:links - Include links to the online collections
+app-text/myrulib:reader - Enable internal Cool Reader engine
 app-text/qstardict:plugin_stardict - build stardict plugin
 app-text/qstardict:plugin_swac - 
 app-text/qstardict:plugin_web - build web plugin
+dev-python/rcore:sql - Install required dependencies to work database
+mail-filter/milter-greylist:bind - Use net-dns/bind-tools resolver instead glibc resolver
+mail-filter/milter-greylist:ldap - Build witch openldap support
+mail-filter/milter-greylist:p0f - Add support for OS type detection's. Usenet-analyzer/p0f
+mail-filter/milter-greylist:postfix - Add support for mail-mta/postfix MTA
+mail-filter/milter-greylist:sendmail - Add support for mail-mta/sendmail MTA
+mail-filter/milter-greylist:spamassassin - Add spamassasin plugin
+mail-filter/milter-greylist:spf - Add Sender Policy Framework support
+mail-filter/policyd:webinterface - 
+media-libs/mediastreamer:amr - Use of AMR Narrow Band codec plugin
+media-libs/mediastreamer:bv16 - Use BroadVoice codec plugin
+media-libs/mediastreamer:filters - Enable compilation of filters
+media-libs/mediastreamer:g726 - Support g726 codec
+media-libs/mediastreamer:g729 - Use g726 codec plugin
+media-libs/mediastreamer:ilbc - Use of iLBC (RFC3951) codec plugin
+media-libs/mediastreamer:ntp-timestamp - Turn on NTP timestamping on received packet
+media-libs/mediastreamer:opus - Enable opus codec support
+media-libs/mediastreamer:ortp - Enable usage of net-libs/ortp
+media-libs/mediastreamer:pcap - Enable usage of net-libs/libpcap
+media-libs/mediastreamer:silk - Use silk (skype protocol) codec plugin
+media-libs/mediastreamer:tools - Enable compilation of tools
+media-libs/mediastreamer:video - Enable video support
+media-libs/mediastreamer:vpx - Enable vp8 encoding support using media-libs/libvpx
 media-sound/qomp:cuteradioplugin - cuteRadio plugin
 media-sound/qomp:lastfmplugin - Last.FM plugin
 media-sound/qomp:mprisplugin - MPRIS plugin
@@ -15,3 +51,96 @@ media-sound/qomp:poiskmplugin - poiskm.me plugin
 media-sound/qomp:tunetofileplugin - Tune To File plugin
 media-sound/qomp:urlplugin - URL Plugin
 media-sound/qomp:yandexmusicplugin - Yandex.Music plugin
+net-im/ejabberd:captcha - Support for CAPTCHA Forms (XEP-158) on registration
+net-im/ejabberd:full-xml - Use XML features in XMPP stream (ex: CDATA), requires XML compliant clients
+net-im/ejabberd:graphics - Enable graphics manipulation (avatars,captcha)
+net-im/ejabberd:hipe - Compile natively with HiPE, not recommended
+net-im/ejabberd:mssql - Enable Microsoft SQL Server support (via ODBC) for data storage
+net-im/ejabberd:mysql - Enable MySQL support for data storage
+net-im/ejabberd:nls - Enable character set conversion for mod_irc
+net-im/ejabberd:odbc - Enable ODBC support to access data storage
+net-im/ejabberd:postgres - Enable PostgreSQL support for data storage
+net-im/ejabberd:redis - Enable Redis support for transient data
+net-im/ejabberd:riak - Enable support for Riak - distributed NoSQL key-value data store
+net-im/ejabberd:roster-gw - Turn on workaround for processing gateway subscriptions
+net-im/ejabberd:sip - Enable SIP support
+net-im/ejabberd:sqlite - Enable SQLite database support
+net-im/ejabberd:stun - Enable STUN/TURN support
+net-im/ejabberd:zlib - Enable Stream Compression (XEP-0138) using zlib
+net-im/psi:aspell - Enable spellchecking using app-text/aspell
+net-im/psi:enchant - Enable spellchecking using app-text/enchant
+net-im/psi:extras - Enable Psi+ patcheset
+net-im/psi:hunspell - Enable spellchecking using app-text/hunspell
+net-im/psi:iconsets - Install additional iconsets, some of them has not clear licensing
+net-im/psi:keyring - Use system keyring manager for password storage
+net-im/psi:sql - Enable psi-new-history extras patch
+net-im/psi:webengine - Use dev-qt/qtwebengine instead of dev-qt/qtwebkit
+net-im/psi:webkit - Enable themed, html-based chatlogs
+net-im/psi:whiteboarding - Enable experimental interactive SVG drawing
+net-im/psi-plugins-meta:attention - Enable Psi plugin for making attention (XEP-0224)
+net-im/psi-plugins-meta:autoreply - Enable Psi plugin to gnerate automatic replies.
+net-im/psi-plugins-meta:birthdayreminder - Enable Psi plugin to remind contact's birthdays
+net-im/psi-plugins-meta:chess - Enable Psi plugin to play chess with your friends
+net-im/psi-plugins-meta:cleaner - Enable Psi plugin for profile cleaning for specified contacts.
+net-im/psi-plugins-meta:clientswitcher - Enable Psi plugin for client version masking
+net-im/psi-plugins-meta:conferencelogger - Enable Psi plugin which saves logs of conferences
+net-im/psi-plugins-meta:contentdownloader - Enable Psi plugin for downloading extras
+net-im/psi-plugins-meta:enummessages - Enable Psi plugin to enumarate messages added to chat
+net-im/psi-plugins-meta:extendedmenu - Enable Psi plugin which adds special submenu to contacts
+net-im/psi-plugins-meta:extendedoptions - Enable Psi plugin for UI for some hidden options
+net-im/psi-plugins-meta:gnupg - Enable Psi plugin for GnuPG message encryption
+net-im/psi-plugins-meta:gomokugame - Enable Psi plugin for Gomoku game
+net-im/psi-plugins-meta:historykeeper - Enable Psi plugin to keep certain contacts history clean
+net-im/psi-plugins-meta:httpupload - Enable Psi plugin to suppor http uploade feature as per XEP-0363
+net-im/psi-plugins-meta:icqdie - Enable Psi plugin generating weird replies to icq transport contacts.
+net-im/psi-plugins-meta:image - Enable Psi plugin for sending in-band images
+net-im/psi-plugins-meta:imagepreview - Enable Psi plugin to preview images in chat log
+net-im/psi-plugins-meta:jabberdisk - Enable Psi plugin for file sharing via jabber disk
+net-im/psi-plugins-meta:juick - Enable Psi plugin for juick.com service
+net-im/psi-plugins-meta:messagefilter - Enable Psi plugin to filter out messages by various conditions
+net-im/psi-plugins-meta:otr - Enable Psi plugin for OTR message ecnryption
+net-im/psi-plugins-meta:pepchangenotify - Enable Psi plugin to show PEP change notifications
+net-im/psi-plugins-meta:psto - Enable Psi plugin for psto.net service
+net-im/psi-plugins-meta:qipxstatuses - Enable Psi plugin for QIP xStatus to xmpp user moods translation
+net-im/psi-plugins-meta:screenshot - Enable Psi plugin to quickly make screenshots
+net-im/psi-plugins-meta:skins - Enable Psi plugin for skins support.
+net-im/psi-plugins-meta:stopspam - Enable Psi plugin for spam blocking
+net-im/psi-plugins-meta:storagenotes - Enable Psi plugin for Jabber notes protocol extension
+net-im/psi-plugins-meta:translate - Enable Psi plugin to fix incorrect input
+net-im/psi-plugins-meta:videostatus - Enable Psi plugin for settings some status during video watching
+net-im/psi-plugins-meta:watcher - Enable Psi plugin for watching on contacts
+net-im/psi-skins:themes - Pull in themes via net-im/psi-skins-themes
+net-im/psimedia:demo - Build simple test application for the PsiMedia system
+net-im/psimedia:extras - Enables extra non official patches
+net-im/skypeforlinux:pax_kernel - Triggers a paxmarking of the main skype binary
+net-im/spectrum:frotz - Enable frotz plugin
+net-im/spectrum:irc - Enable IRC backend via net-im/libcommuni
+net-im/spectrum:libev - Use libev for event loop
+net-im/spectrum:log - Enables advanced logging through dev-libs/log4cxx
+net-im/spectrum:purple - Enables Purple backend via net-im/pidgin
+net-im/spectrum:skype - Enables Skype backend
+net-im/spectrum:staticport - Install spectrum tools
+net-im/spectrum:symlinks - Make symlinks for configuration files of all protocols to one file
+net-im/spectrum:tools - Install spectrum tools
+net-im/swift:hunspell - Enable spellchecking using app-text/hunspell
+net-libs/jdns:tools - Enable jdns test tools
+net-libs/libexosip:srv - enable support for SRV records DNS queries
+net-libs/ortp:ntp-timestamp - Turn on NTP timestamping on received packet
+net-print/samsung-unified-driver:network - Enable network printing support
+net-voip/belle-sip:tunnel - Enable proprietary tunnel (wtf?)
+net-voip/linphone:assistant - Turn on assistant compiling (needs gtk enabled)
+net-voip/linphone:gsm-nonstandard - Support non-standard GSM frequencies
+net-voip/linphone:sqlite - Turn on compilation of message storage
+net-voip/linphone:tools - Compile tools
+net-voip/linphone:vcard - Enable retrieving personal contact information
+net-voip/linphone:video - Enable video support (display/capture)
+sys-apps/hasp:demo - Install demo binaries
+sys-apps/hasp:lpt - Install kernel module for LPT-keys
+sys-apps/hasp:net_hasp - Install binaries for use HASP-keys on network
+sys-apps/hasp:wine - Install winehasp binary and init-script
+sys-apps/openwsman:cim - 
+sys-apps/openwsman:eventing - 
+sys-apps/openwsman:plugins - 
+sys-apps/openwsman:server - 
+www-plugins/freshplayerplugin:gles2 - Use system GLESv2 libraries instead of ANGLE for shader translation
+www-plugins/freshplayerplugin:v4l - Use libv4l2 for colorspace conversion
