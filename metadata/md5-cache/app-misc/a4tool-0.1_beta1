@@ -9,5 +9,5 @@ LICENSE=GPL-2
 RDEPEND=virtual/libusb:1 battery? ( x11-libs/libnotify ) virtual/udev
 SLOT=0
 SRC_URI=https://github.com/BondarenkoArtur/init-gmouse/archive/cf30b50ccc5d52ada56b5b2a1343fdf63ee2424b.zip
-_eclasses_=user	f8dcb46ee7b0bcdec51dac1ef4bfdfc9
+_eclasses_=user	00484e1be1aac73e24fca1c99557a7d6
 _md5_=2a26b8d1857413ddeb0c0a774c1b8998
