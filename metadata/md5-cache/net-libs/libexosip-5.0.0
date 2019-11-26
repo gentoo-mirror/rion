@@ -9,5 +9,5 @@ LICENSE=GPL-2
 RDEPEND=>=net-libs/libosip-5.0.0:= ssl? ( dev-libs/openssl:0 ) !!net-libs/libeXosip
 SLOT=0/5.0
 SRC_URI=mirror://nongnu/exosip/libexosip2-5.0.0.tar.gz
-_eclasses_=eutils	6e6c2737b59a4b982de6fb3ecefd87f8
+_eclasses_=eutils	fcb2aa98e1948b835b5ae66ca52868c5
 _md5_=99db5947882fb0117ce381747d98c4f2
