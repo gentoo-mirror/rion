@@ -96,7 +96,7 @@ net-print/samsung-unified-driver 1.00.39: Samsung Unified Linux Driver for print
 net-voip/belcard 1.0.2: C++ library to manipulate VCard standard format
 net-voip/belle-sip 1.6.3: C object oriented SIP Stack.
 net-voip/linphone 3.12.0: Video softphone based on the SIP protocol
-sys-apps/hasp 3.3_p5-r2: Hardware Against Software Piracy for access to parallel and usb keys
+sys-apps/hasp 3.3_p5-r3: Hardware Against Software Piracy for access to parallel and usb keys
 sys-apps/ksmtuned 9999: Simple script to tune whether and with what vigor ksm searches for dup pages
 sys-apps/linux-ftools 0_p20120419: Linux command line tools for fallocate, fincore, fadvise
 sys-apps/openwsman 2.6.3: Opensource Implementation of WS-Management Client
