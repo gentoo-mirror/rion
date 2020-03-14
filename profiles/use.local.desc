@@ -69,14 +69,14 @@ net-im/ejabberd:stun - Enable STUN/TURN support
 net-im/ejabberd:zlib - Enable Stream Compression (XEP-0138) using zlib
 net-im/psi:aspell - Enable spellchecking using app-text/aspell
 net-im/psi:enchant - Enable spellchecking using app-text/enchant
-net-im/psi:extras - Enable Psi+ patcheset
+net-im/psi:extras - Enable Psi+ patchset
 net-im/psi:hunspell - Enable spellchecking using app-text/hunspell
-net-im/psi:iconsets - Install additional iconsets, some of them has not clear licensing
-net-im/psi:keyring - Use system keyring manager for password storage
-net-im/psi:sql - Enable psi-new-history extras patch
-net-im/psi:webengine - Use dev-qt/qtwebengine instead of dev-qt/qtwebkit
-net-im/psi:webkit - Enable themed, html-based chatlogs
+net-im/psi:iconsets - Install additional iconsets, some of them have no clear licensing
+net-im/psi:keyring - Enable storing password in system keyring manager
+net-im/psi:webengine - Enable themed, html-based chatlogs using dev-qt/qtwebengine
+net-im/psi:webkit - Enable themed, html-based chatlogs using dev-qt/qtwebkit
 net-im/psi:whiteboarding - Enable experimental interactive SVG drawing
+net-im/psi:xscreensaver - Use X screensaver protocol extension to monitor idle/active status based on mouse/keyboard events
 net-im/psi-plugins-meta:attention - Enable Psi plugin for making attention (XEP-0224)
 net-im/psi-plugins-meta:autoreply - Enable Psi plugin to gnerate automatic replies.
 net-im/psi-plugins-meta:birthdayreminder - Enable Psi plugin to remind contact's birthdays
@@ -110,8 +110,7 @@ net-im/psi-plugins-meta:translate - Enable Psi plugin to fix incorrect input
 net-im/psi-plugins-meta:videostatus - Enable Psi plugin for settings some status during video watching
 net-im/psi-plugins-meta:watcher - Enable Psi plugin for watching on contacts
 net-im/psi-skins:themes - Pull in themes via net-im/psi-skins-themes
-net-im/psimedia:demo - Build simple test application for the PsiMedia system
-net-im/psimedia:extras - Enables extra non official patches
+net-im/psimedia:extras - Enable Psi+ mode (required when built for Psi+)
 net-im/skypeforlinux:pax_kernel - Triggers a paxmarking of the main skype binary
 net-im/spectrum:frotz - Enable frotz plugin
 net-im/spectrum:irc - Enable IRC backend via net-im/libcommuni

@@ -74,7 +74,7 @@ net-im/psi-storagenotes 9999: Psi plugin for Jabber notes protocol extension
 net-im/psi-translate 9999: Psi plugin to fix incorrect input
 net-im/psi-videostatus 9999: Psi plugin for settings some status during video watching
 net-im/psi-watcher 9999: Psi plugin for watching on contacts
-net-im/psimedia 9999: Psi plugin for voice/video calls
+net-im/psimedia 9999: Psi/Psi+ plugin for voice/video calls
 net-im/skypeforlinux 8.33.76.40: Instant messaging client, with support for audio and video
 net-im/spectrum 2.9999: Spectrum is an XMPP transport/gateway
 net-im/swift 4.9999 9999: Qt5 jabber (xmpp) client
@@ -103,7 +103,7 @@ sys-apps/openwsman 2.6.3: Opensource Implementation of WS-Management Client
 sys-apps/tog-pegasus 2.14.1: OpenPegasus WBEM Services for Linux
 sys-apps/wsmancli 2.3.0: Opensource Implementation of WS-Management - Command line utility
 sys-cluster/ploop 1.15: openvz tool and a library to control ploop block devices
-sys-devel/qconf 2.4 9999: ./configure like generator for qmake-based projects
+sys-devel/qconf 2.5 9999: ./configure like generator for qmake-based projects
 sys-libs/rts_bpp 9999: Driver for realtek 5289/8411 card readers
 www-apache/mod_ruid2 0.9.8: suexec module for apache which takes advantage of POSIX.1e capabilities
 www-apps/haserl 0.9.35: HTML And Shell Embedded Report Language
