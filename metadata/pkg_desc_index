@@ -10,7 +10,7 @@ app-misc/a4tool 0.1_beta1: Tools for control your smart mouse. A4Tech G10-700F, 
 app-misc/anki 2.1.0_beta29: A spaced-repetition memory training program (flash cards)
 app-misc/ddccontrol-db 20170716: DDCControl monitor database
 app-misc/qmetro 0.7.1 9999: Metro/subway map and route computation software.
-app-misc/qtnote 3.0.4 9999: Qt note-taking application compatible with tomboy
+app-misc/qtnote 3.0.5 9999: Qt note-taking application compatible with tomboy
 app-text/makedict 0.4.1_beta1-r1 9999: Dictionary converter
 app-text/myrulib 0.29.16 9999: E-book collection manager
 app-text/qstardict 1.2 9999: QStarDict is a StarDict clone written with using Qt
@@ -41,7 +41,6 @@ media-sound/qomp 1.4 9999: Quick(Qt) Online Music Player - one player for differ
 net-dialup/pptpclient 1.10.0: Linux client for PPTP
 net-im/cutegram 9999: A different telegram client from Aseman team forked from Sigram by Sialan Labs.
 net-im/ejabberd 18.03: Robust, scalable and extensible XMPP server
-net-im/psi 9999: Qt XMPP client
 net-im/psi-attention 9999: Psi plugin for making attention (XEP-0224)
 net-im/psi-autoreply 9999: Psi plugin to gnerate automatic replies.
 net-im/psi-birthdayreminder 9999: Psi plugin to remind contact's birthdays
@@ -107,6 +106,7 @@ sys-libs/rts_bpp 9999: Driver for realtek 5289/8411 card readers
 www-apache/mod_ruid2 0.9.8: suexec module for apache which takes advantage of POSIX.1e capabilities
 www-apps/haserl 0.9.35: HTML And Shell Embedded Report Language
 www-plugins/freshplayerplugin 9999: PPAPI-host NPAPI-plugin adapter for flashplayer in npapi based browsers
+x11-apps/ocs-url 9999: A program enabling web-installation of items via OpenCollaborationServices
 x11-misc/kbdd 9999: Very simple layout switcher
 x11-plugins/mrim-prpl 0.1.28.1 9999: Mail.Ru agent protocol for pidgin.
 x11-themes/country-flag 0: The flag icon filenames follow the ISO 3166-1 alpha-2 country codes.
