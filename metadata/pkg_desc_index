@@ -3,9 +3,6 @@ app-admin/wsl 0.2.1: Wsman Shell Command Line whistle
 app-crypt/libsignal-protocol-c 2.3.1_p20180209: Signal Protocol C Library
 app-crypt/qca 2.1.3_p20180105: Qt Cryptographic Architecture (QCA)
 app-dicts/stardict-ruspack 0.2-r3: Collection of dicts for stardict.
-app-laptop/clevo-wmi 9999: WMI driver for Clevo laptops
-app-laptop/clevo-xsm-wmi 9999: A driver for the Clevo P15xSM(1)(-A)/P17xSM(-A)/P370SM-A Laptop models
-app-laptop/clevo-xsm-wmi-gui 9999: An app for some Clevo P15xSM(1)(-A)/P17xSM(-A)/P370SM-A Laptop models
 app-misc/a4tool 0.1_beta1: Tools for control your smart mouse. A4Tech G10-700F, and other Oscar mouse's
 app-misc/anki 2.1.0_beta29: A spaced-repetition memory training program (flash cards)
 app-misc/ddccontrol-db 20170716: DDCControl monitor database
