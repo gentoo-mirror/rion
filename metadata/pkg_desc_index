@@ -77,6 +77,7 @@ net-libs/jdns 2.0.4: JDNS is a simple DNS implementation library
 net-libs/libexosip 5.0.0: Simple API for SIP protocol for multimedia session establishement
 net-libs/libosip 5.0.0: a simple way to support the Session Initiation Protocol
 net-libs/ortp 1.0.1 1.0.2: Open Real-time Transport Protocol (RTP, RFC3550) stack
+net-libs/usrsctp 20200415: A cross-platform userland SCTP stack
 net-mail/mailgraph 1.14-r3: A mail statistics RRDtool frontend for Postfix
 net-misc/TelegramQML 9999: Telegram API tools for QtQML and Qml
 net-misc/aseman-qt-tools 9999: Set of tools from Aseman-Land
