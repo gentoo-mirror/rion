@@ -12,6 +12,7 @@ app-text/makedict 0.4.1_beta1-r1 9999: Dictionary converter
 app-text/myrulib 0.29.16 9999: E-book collection manager
 app-text/qstardict 1.2 9999: QStarDict is a StarDict clone written with using Qt
 app-text/rst2epub 20120114 99999999: reStructuredText documents to epub files convertor
+dev-cpp/prometheus-cpp 0.9.0: Prometheus Client Library for Modern C++
 dev-libs/belr 0.1.3: Belledonne Communications' language recognition library
 dev-libs/launchdarkly-sdk-c 1.7.6: LaunchDarkly Client-side SDK for C/C++
 dev-ml/ocaml-curses 1.0.3: Curses / ncurses bindings for the Objective Caml language.
@@ -99,6 +100,7 @@ sys-libs/rts_bpp 9999: Driver for realtek 5289/8411 card readers
 www-apache/mod_ruid2 0.9.8: suexec module for apache which takes advantage of POSIX.1e capabilities
 www-apps/haserl 0.9.35: HTML And Shell Embedded Report Language
 www-plugins/freshplayerplugin 9999: PPAPI-host NPAPI-plugin adapter for flashplayer in npapi based browsers
+www-servers/civetweb 1.12: Embedded C/C++ web server
 x11-apps/ocs-url 9999: A program enabling web-installation of items via OpenCollaborationServices
 x11-misc/kbdd 9999: Very simple layout switcher
 x11-plugins/mrim-prpl 0.1.28.1 9999: Mail.Ru agent protocol for pidgin.

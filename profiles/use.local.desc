@@ -106,3 +106,4 @@ sys-apps/openwsman:plugins -
 sys-apps/openwsman:server - 
 www-plugins/freshplayerplugin:gles2 - Use system GLESv2 libraries instead of ANGLE for shader translation
 www-plugins/freshplayerplugin:v4l - Use libv4l2 for colorspace conversion
+www-servers/civetweb:server - Build standalone server
