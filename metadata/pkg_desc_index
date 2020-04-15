@@ -16,6 +16,7 @@ app-text/myrulib 0.29.16 9999: E-book collection manager
 app-text/qstardict 1.2 9999: QStarDict is a StarDict clone written with using Qt
 app-text/rst2epub 20120114 99999999: reStructuredText documents to epub files convertor
 dev-libs/belr 0.1.3: Belledonne Communications' language recognition library
+dev-libs/launchdarkly-sdk-c 1.7.6: LaunchDarkly Client-side SDK for C/C++
 dev-ml/ocaml-curses 1.0.3: Curses / ncurses bindings for the Objective Caml language.
 dev-ml/ocaml-libvirt 0.6.1.4 9999: Ocaml libvirt binding's
 dev-python/pyaudio 0.2.9: Python bindings for PortAudio
