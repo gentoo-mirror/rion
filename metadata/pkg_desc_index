@@ -39,6 +39,7 @@ media-plugins/mediastreamer-x264 1.5.3: mediastreamer plugin: add H264 support
 media-sound/qomp 1.4 9999: Quick(Qt) Online Music Player - one player for different online music hostings
 net-dialup/pptpclient 1.10.0: Linux client for PPTP
 net-im/cutegram 9999: A different telegram client from Aseman team forked from Sigram by Sialan Labs.
+net-im/psi 9999: Qt XMPP client
 net-im/psi-attention 9999: Psi plugin for making attention (XEP-0224)
 net-im/psi-autoreply 9999: Psi plugin to gnerate automatic replies.
 net-im/psi-birthdayreminder 9999: Psi plugin to remind contact's birthdays

@@ -51,6 +51,16 @@ media-sound/qomp:poiskmplugin - poiskm.me plugin
 media-sound/qomp:tunetofileplugin - Tune To File plugin
 media-sound/qomp:urlplugin - URL Plugin
 media-sound/qomp:yandexmusicplugin - Yandex.Music plugin
+net-im/psi:aspell - Enable spellchecking using app-text/aspell
+net-im/psi:enchant - Enable spellchecking using app-text/enchant
+net-im/psi:extras - Enable Psi+ patchset
+net-im/psi:hunspell - Enable spellchecking using app-text/hunspell
+net-im/psi:iconsets - Install additional iconsets, some of them have no clear licensing
+net-im/psi:keyring - Enable storing password in system keyring manager
+net-im/psi:webengine - Enable themed, html-based chatlogs using dev-qt/qtwebengine
+net-im/psi:webkit - Enable themed, html-based chatlogs using dev-qt/qtwebkit
+net-im/psi:whiteboarding - Enable experimental interactive SVG drawing
+net-im/psi:xscreensaver - Use X screensaver protocol extension to monitor idle/active status based on mouse/keyboard events
 net-im/psi-plugins-meta:attention - Enable Psi plugin for making attention (XEP-0224)
 net-im/psi-plugins-meta:autoreply - Enable Psi plugin to gnerate automatic replies.
 net-im/psi-plugins-meta:birthdayreminder - Enable Psi plugin to remind contact's birthdays
