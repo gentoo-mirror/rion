@@ -93,6 +93,7 @@ net-voip/linphone 3.12.0: Video softphone based on the SIP protocol
 sys-apps/hasp 3.3_p5-r3: Hardware Against Software Piracy for access to parallel and usb keys
 sys-apps/ksmtuned 9999: Simple script to tune whether and with what vigor ksm searches for dup pages
 sys-apps/linux-ftools 0_p20120419: Linux command line tools for fallocate, fincore, fadvise
+sys-apps/nvidia-systemd-pm 440.82: Power-management systemd services for proprietary nvidia-drivers
 sys-apps/openwsman 2.6.3: Opensource Implementation of WS-Management Client
 sys-apps/tog-pegasus 2.14.1: OpenPegasus WBEM Services for Linux
 sys-apps/wsmancli 2.3.0: Opensource Implementation of WS-Management - Command line utility
