@@ -75,16 +75,16 @@ net-im/psi-plugins-meta:extendedoptions - Enable Psi plugin for UI for some hidd
 net-im/psi-plugins-meta:gnupg - Enable Psi plugin for GnuPG message encryption
 net-im/psi-plugins-meta:gomokugame - Enable Psi plugin for Gomoku game
 net-im/psi-plugins-meta:historykeeper - Enable Psi plugin to keep certain contacts history clean
-net-im/psi-plugins-meta:httpupload - Enable Psi plugin to suppor http uploade feature as per XEP-0363
 net-im/psi-plugins-meta:icqdie - Enable Psi plugin generating weird replies to icq transport contacts.
 net-im/psi-plugins-meta:image - Enable Psi plugin for sending in-band images
 net-im/psi-plugins-meta:imagepreview - Enable Psi plugin to preview images in chat log
 net-im/psi-plugins-meta:jabberdisk - Enable Psi plugin for file sharing via jabber disk
 net-im/psi-plugins-meta:juick - Enable Psi plugin for juick.com service
 net-im/psi-plugins-meta:messagefilter - Enable Psi plugin to filter out messages by various conditions
+net-im/psi-plugins-meta:omemo - Enable Psi plugin for OMEMO
+net-im/psi-plugins-meta:openpgp - Enable Psi plugin to manager OpenPGP keys and settings
 net-im/psi-plugins-meta:otr - Enable Psi plugin for OTR message ecnryption
 net-im/psi-plugins-meta:pepchangenotify - Enable Psi plugin to show PEP change notifications
-net-im/psi-plugins-meta:psto - Enable Psi plugin for psto.net service
 net-im/psi-plugins-meta:qipxstatuses - Enable Psi plugin for QIP xStatus to xmpp user moods translation
 net-im/psi-plugins-meta:screenshot - Enable Psi plugin to quickly make screenshots
 net-im/psi-plugins-meta:skins - Enable Psi plugin for skins support.

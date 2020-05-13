@@ -61,6 +61,7 @@ net-im/psi-jabberdisk 9999: Psi plugin for file sharing via jabber disk
 net-im/psi-juick 9999: Psi plugin for juick.com service
 net-im/psi-messagefilter 9999: Psi plugin to filter out messages by various conditions
 net-im/psi-omemo 9999: Psi plugin for OMEMO
+net-im/psi-openpgp 9999: Psi plugin to manager OpenPGP keys and settings
 net-im/psi-otr 0.9.4 9999: Psi plugin for OTR message ecnryption
 net-im/psi-pepchangenotify 9999: Psi plugin to show PEP change notifications
 net-im/psi-plugins-meta 9999: Meta package for net-im/psi plugins
