@@ -26,14 +26,13 @@ games-action/oolite 1.84 1.86: Elite space trading & warfare remake
 mail-filter/milter-greylist 4.4.3: Stand-alone milter that implements the greylist filtering method
 mail-filter/policyd 2.0.12 2.0.14: Policy daemon for postfix and other MTAs
 media-gfx/flameshot 9999: Powerful yet simple to use screenshot software for GNU/Linux
-media-gfx/phatch 9999: Phatch is a simple to use cross-platform GUI Photo Batch Processor
 media-gfx/simpleviewer-gl 9999: Small and simple image viewer for Linux.
 media-libs/bcg729 1.0.4: Encoder and decoder of the ITU G729 Annex A/B speech codec
 media-libs/bcmatroska2 0.23: mediastreamer plugin: add H264 support
 media-libs/bzrtp 1.0.6: Implementation of ZRTP keys exchange protocol
 media-libs/mediastreamer 2.16.1: Mediastreaming library for telephony application
 media-libs/qimageblitz 5.9999: Graphical effect and filter library by KDE
-media-plugins/gst-plugins-webrtcdsp 1.12.4: Audio Filter using WebRTC Audio Processing library plugin for GStreamer
+media-plugins/gst-plugins-webrtcdsp 1.14.5 1.16.2: Audio Filter using WebRTC Audio Processing library plugin for GStreamer
 media-plugins/mediastreamer-x264 1.5.3: mediastreamer plugin: add H264 support
 media-sound/qomp 1.4 9999: Quick(Qt) Online Music Player - one player for different online music hostings
 net-dialup/pptpclient 1.10.0: Linux client for PPTP
