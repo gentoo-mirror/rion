@@ -15,7 +15,7 @@ dev-ml/ocaml-curses 1.0.3: Curses / ncurses bindings for the Objective Caml lang
 dev-ml/ocaml-libvirt 0.6.1.4 9999: Ocaml libvirt binding's
 dev-python/rcore 9999: Just an core for all rion's projects
 dev-util/bcunit 3.0.1 3.0.2: C Unit Test Framework from Belledonne Comminications
-dev-util/cpp2text 1.0: Stupid bidirection cpp to text converter
+dev-util/cpp2text 1.1: String representation converter (text, cpp, json)
 dev-util/douml 9999: Powerful UML 2 modelling tool. BoUML fork
 games-action/oolite 1.84 1.86: Elite space trading & warfare remake
 mail-filter/milter-greylist 4.4.3: Stand-alone milter that implements the greylist filtering method
