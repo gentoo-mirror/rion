@@ -11,5 +11,5 @@ RDEPEND=kernel_linux? ( virtual/modutils )
 REQUIRED_USE=lpt? ( kernel_linux )
 SLOT=0
 SRC_URI=http://ftp.etersoft.ru/pub/Etersoft/HASP/3.3/sources/haspd-3.3-alt10.src.rpm
-_eclasses_=estack	686eaab303305a908fd57b2fd7617800	eutils	fcb2aa98e1948b835b5ae66ca52868c5	linux-info	5d5cc2632ef6b3c817019fa4fa3d8508	linux-mod	9991808b521b5a8c569c9c4ccf8893f6	multilib	797cda3549becfe50afdfa35192ca137	rpm	760ff223c2c4299b68ea901e24c4cabd	systemd	71fd8d2065d102753fb9e4d20eaf3e9f	toolchain-funcs	512eb3367f507ebaa1d1d43ab7d66e6c
+_eclasses_=estack	686eaab303305a908fd57b2fd7617800	eutils	fcb2aa98e1948b835b5ae66ca52868c5	linux-info	5d5cc2632ef6b3c817019fa4fa3d8508	linux-mod	9991808b521b5a8c569c9c4ccf8893f6	multilib	ac7989ababbeabdef6fdc6e465b21644	rpm	760ff223c2c4299b68ea901e24c4cabd	systemd	71fd8d2065d102753fb9e4d20eaf3e9f	toolchain-funcs	512eb3367f507ebaa1d1d43ab7d66e6c
 _md5_=922ec5f0708ce0847080e00950f9e1f0
