@@ -14,8 +14,8 @@ dev-libs/launchdarkly-sdk-c 1.7.6: LaunchDarkly Client-side SDK for C/C++
 dev-ml/ocaml-curses 1.0.3: Curses / ncurses bindings for the Objective Caml language.
 dev-ml/ocaml-libvirt 0.6.1.4 9999: Ocaml libvirt binding's
 dev-python/rcore 9999: Just an core for all rion's projects
-dev-util/bcunit 3.0.1 3.0.2: C Unit Test Framework from Belledonne Comminications
-dev-util/cpp2text 1.1: String representation converter (text, cpp, json)
+dev-util/bcunit 4.4_beta20191119: C Unit Test Framework from Belledonne Comminications
+dev-util/cpp2text 1.1 9999: String representation converter (text, cpp, json)
 dev-util/douml 9999: Powerful UML 2 modelling tool. BoUML fork
 games-action/oolite 1.84 1.86: Elite space trading & warfare remake
 mail-filter/milter-greylist 4.4.3: Stand-alone milter that implements the greylist filtering method
@@ -69,7 +69,7 @@ net-im/psi-watcher 9999: Psi plugin for watching on contacts
 net-im/swift 4.9999 9999: Qt5 jabber (xmpp) client
 net-im/swiften 4.9999 9999: Just a perfect C++ XMPP library
 net-im/viber 12.0.0.7: Free calls, text and picture sharing with anyone, anywhere!
-net-libs/bctoolbox 0.5.1 0.6.0: Utilities library used by Belledonne Communications softwares
+net-libs/bctoolbox 4.3.1: Utilities library used by Belledonne Communications softwares
 net-libs/jdns 2.0.4: JDNS is a simple DNS implementation library
 net-libs/libexosip 5.0.0: Simple API for SIP protocol for multimedia session establishement
 net-libs/libosip 5.0.0: a simple way to support the Session Initiation Protocol
@@ -84,7 +84,7 @@ net-misc/linuxptp 1.3 1.4: Precision Time Protocol (PTP) for Linux ( IEEE standa
 net-misc/modem-manager-gui 0.0.16: GUI for Modem Manager daemon.
 net-print/samsung-unified-driver 1.00.39: Samsung Unified Linux Driver for printers and MFDs
 net-voip/belcard 1.0.2: C++ library to manipulate VCard standard format
-net-voip/belle-sip 1.6.3: C object oriented SIP Stack.
+net-voip/belle-sip 4.3.1: C object oriented SIP Stack.
 net-voip/linphone 3.12.0: Video softphone based on the SIP protocol
 sys-apps/hasp 3.3_p5-r3: Hardware Against Software Piracy for access to parallel and usb keys
 sys-apps/ksmtuned 9999: Simple script to tune whether and with what vigor ksm searches for dup pages
