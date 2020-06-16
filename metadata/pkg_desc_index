@@ -9,12 +9,10 @@ app-text/myrulib 0.29.16 9999: E-book collection manager
 app-text/qstardict 1.2 9999: QStarDict is a StarDict clone written with using Qt
 app-text/rst2epub 20120114 99999999: reStructuredText documents to epub files convertor
 dev-cpp/prometheus-cpp 0.9.0: Prometheus Client Library for Modern C++
-dev-libs/belr 4.3.1: Belledonne Communications' language recognition library
 dev-libs/launchdarkly-sdk-c 1.7.6: LaunchDarkly Client-side SDK for C/C++
 dev-ml/ocaml-curses 1.0.3: Curses / ncurses bindings for the Objective Caml language.
 dev-ml/ocaml-libvirt 0.6.1.4 9999: Ocaml libvirt binding's
 dev-python/rcore 9999: Just an core for all rion's projects
-dev-util/bcunit 4.4_beta20191119: C Unit Test Framework from Belledonne Comminications
 dev-util/cpp2text 1.1 9999: String representation converter (text, cpp, json)
 dev-util/douml 9999: Powerful UML 2 modelling tool. BoUML fork
 games-action/oolite 1.84 1.86: Elite space trading & warfare remake
@@ -22,13 +20,8 @@ mail-filter/milter-greylist 4.4.3: Stand-alone milter that implements the greyli
 mail-filter/policyd 2.0.12 2.0.14: Policy daemon for postfix and other MTAs
 media-gfx/flameshot 9999: Powerful yet simple to use screenshot software for GNU/Linux
 media-gfx/simpleviewer-gl 9999: Small and simple image viewer for Linux.
-media-libs/bcg729 1.0.4: Encoder and decoder of the ITU G729 Annex A/B speech codec
-media-libs/bcmatroska2 0.23: mediastreamer plugin: add H264 support
-media-libs/bzrtp 4.3.1: Implementation of ZRTP keys exchange protocol
-media-libs/mediastreamer 2.16.1: Mediastreaming library for telephony application
 media-libs/qimageblitz 5.9999: Graphical effect and filter library by KDE
 media-plugins/gst-plugins-webrtcdsp 1.14.5 1.16.2: Audio Filter using WebRTC Audio Processing library plugin for GStreamer
-media-plugins/mediastreamer-x264 1.5.3: mediastreamer plugin: add H264 support
 media-sound/qomp 1.4 9999: Quick(Qt) Online Music Player - one player for different online music hostings
 net-dialup/pptpclient 1.10.0: Linux client for PPTP
 net-im/cutegram 9999: A different telegram client from Aseman team forked from Sigram by Sialan Labs.
@@ -69,11 +62,7 @@ net-im/psi-watcher 9999: Psi plugin for watching on contacts
 net-im/swift 4.9999 9999: Qt5 jabber (xmpp) client
 net-im/swiften 4.9999 9999: Just a perfect C++ XMPP library
 net-im/viber 12.0.0.7: Free calls, text and picture sharing with anyone, anywhere!
-net-libs/bctoolbox 4.3.1: Utilities library used by Belledonne Communications softwares
 net-libs/jdns 2.0.4: JDNS is a simple DNS implementation library
-net-libs/libexosip 5.0.0: Simple API for SIP protocol for multimedia session establishement
-net-libs/libosip 5.0.0: a simple way to support the Session Initiation Protocol
-net-libs/ortp 4.3.2: Open Real-time Transport Protocol (RTP, RFC3550) stack
 net-libs/usrsctp 20200415: A cross-platform userland SCTP stack
 net-mail/mailgraph 1.14-r3: A mail statistics RRDtool frontend for Postfix
 net-misc/TelegramQML 9999: Telegram API tools for QtQML and Qml
@@ -83,9 +72,7 @@ net-misc/libqtelegram-ae 9999: A fork of libqtelegram by Aseman Team
 net-misc/linuxptp 1.3 1.4: Precision Time Protocol (PTP) for Linux ( IEEE standard 1588 )
 net-misc/modem-manager-gui 0.0.16: GUI for Modem Manager daemon.
 net-print/samsung-unified-driver 1.00.39: Samsung Unified Linux Driver for printers and MFDs
-net-voip/belcard 4.3.1: C++ library to manipulate VCard standard format
-net-voip/belle-sip 4.3.1: C object oriented SIP Stack.
-net-voip/linphone 3.12.0: Video softphone based on the SIP protocol
+net-voip/linphone-desktop 4.1.1: Video softphone based on the SIP protocol
 sys-apps/hasp 3.3_p5-r3: Hardware Against Software Piracy for access to parallel and usb keys
 sys-apps/ksmtuned 9999: Simple script to tune whether and with what vigor ksm searches for dup pages
 sys-apps/linux-ftools 0_p20120419: Linux command line tools for fallocate, fincore, fadvise
