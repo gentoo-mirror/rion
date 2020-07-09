@@ -73,12 +73,6 @@ net-im/psi-skins:themes - Pull in themes via net-im/psi-skins-themes
 net-im/swift:hunspell - Enable spellchecking using app-text/hunspell
 net-libs/jdns:tools - Enable jdns test tools
 net-print/samsung-unified-driver:network - Enable network printing support
-net-voip/linphone-desktop:assistant - Turn on assistant compiling (needs gtk enabled)
-net-voip/linphone-desktop:gsm-nonstandard - Support non-standard GSM frequencies
-net-voip/linphone-desktop:sqlite - Turn on compilation of message storage
-net-voip/linphone-desktop:tools - Compile tools
-net-voip/linphone-desktop:vcard - Enable retrieving personal contact information
-net-voip/linphone-desktop:video - Enable video support (display/capture)
 sys-apps/hasp:demo - Install demo binaries
 sys-apps/hasp:lpt - Install kernel module for LPT-keys
 sys-apps/hasp:net_hasp - Install binaries for use HASP-keys on network
