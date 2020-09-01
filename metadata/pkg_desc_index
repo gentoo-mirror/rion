@@ -62,7 +62,7 @@ net-im/psi-watcher 9999: Psi plugin for watching on contacts
 net-im/psimedia 9999: Psi/Psi+ plugin for voice/video calls
 net-im/swift 4.9999 9999: Qt5 jabber (xmpp) client
 net-im/swiften 4.9999 9999: Just a perfect C++ XMPP library
-net-im/viber 12.0.0.7: Free calls, text and picture sharing with anyone, anywhere!
+net-im/viber 13.3.1.22: Free calls, text and picture sharing with anyone, anywhere!
 net-libs/jdns 2.0.4: JDNS is a simple DNS implementation library
 net-libs/usrsctp 20200415: A cross-platform userland SCTP stack
 net-mail/mailgraph 1.14-r3: A mail statistics RRDtool frontend for Postfix
