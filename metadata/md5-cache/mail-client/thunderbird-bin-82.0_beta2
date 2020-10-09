@@ -1,0 +1,14 @@
+DEFINED_PHASES=compile install postinst postrm prepare unpack
+DEPEND=app-arch/unzip app-arch/zip app-arch/unzip
+DESCRIPTION=Thunderbird Mail Client
+EAPI=6
+HOMEPAGE=https://www.thunderbird.net/
+IUSE=+crashreporter +ffmpeg +pulseaudio selinux
+KEYWORDS=-* amd64 x86
+LICENSE=MPL-2.0 GPL-2 LGPL-2.1
+RDEPEND=dev-libs/atk >=sys-apps/dbus-0.60 >=dev-libs/dbus-glib-0.72 >=dev-libs/glib-2.26:2 >=media-libs/alsa-lib-1.0.16 media-libs/fontconfig >=media-libs/freetype-2.4.10:2 virtual/freedesktop-icon-theme >=x11-libs/cairo-1.10[X] x11-libs/gdk-pixbuf:2 >=x11-libs/gtk+-2.18:2 >=x11-libs/gtk+-3.4.0:3 x11-libs/libX11 x11-libs/libXext x11-libs/libXrender x11-libs/libXt >=x11-libs/pango-1.22.0 pulseaudio? ( !<media-sound/apulse-0.1.9 || ( media-sound/pulseaudio media-sound/apulse ) ) ffmpeg? ( media-video/ffmpeg ) crashreporter? ( net-misc/curl ) selinux? ( sec-policy/selinux-thunderbird )
+RESTRICT=strip mirror
+SLOT=0
+SRC_URI=amd64? ( https://archive.mozilla.org/pub/thunderbird/releases/82.0b2/linux-x86_64/en-US/thunderbird-82.0b2.tar.bz2 -> thunderbird-bin_x86_64-82.0_beta2.tar.bz2 ) x86? ( https://archive.mozilla.org/pub/thunderbird/releases/82.0b2/linux-i686/en-US/thunderbird-82.0b2.tar.bz2 -> thunderbird-bin_i686-82.0_beta2.tar.bz2 )
+_eclasses_=desktop	7fd20552ce4cc97e8acb132a499a7dd8	edos2unix	33e347e171066657f91f8b0c72ec8773	epatch	ed88001f77c6dd0d5f09e45c1a5b480e	estack	686eaab303305a908fd57b2fd7617800	eutils	2d5b3f4b315094768576b6799e4f926e	l10n	8cdd85e169b835d518bc2fd59f780d8e	ltprune	db8b7ce9d0e663594bcb4a4e72131a79	mozextension	798d8c84c9e7a8105e56c9eb6626e643	mozlinguas-v2	7559b4e56a88d67da4e96e77296f723c	multilib	98584e405e2b0264d37e8f728327fed1	nsplugins	2049586e425364a1c5bdb004205d1758	pax-utils	a41d1fd1c111289ffa04490de6ee79d7	preserve-libs	ef207dc62baddfddfd39a164d9797648	toolchain-funcs	605c126bed8d87e4378d5ff1645330cb	vcs-clean	2a0f74a496fa2b1552c4f3398258b7bf	versionator	2352c3fc97241f6a02042773c8287748	wrapper	4251d4c84c25f59094fd557e0063a974	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
+_md5_=cfed324b962b7026676fd72044024095

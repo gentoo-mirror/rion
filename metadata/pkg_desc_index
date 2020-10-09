@@ -8,7 +8,6 @@ app-text/makedict 0.4.1_beta1-r1 9999: Dictionary converter
 app-text/myrulib 0.29.16 9999: E-book collection manager
 app-text/qstardict 1.2 9999: QStarDict is a StarDict clone written with using Qt
 app-text/rst2epub 20120114 99999999: reStructuredText documents to epub files convertor
-dev-cpp/prometheus-cpp 0.9.0: Prometheus Client Library for Modern C++
 dev-libs/launchdarkly-sdk-c 1.7.6: LaunchDarkly Client-side SDK for C/C++
 dev-ml/ocaml-curses 1.0.3: Curses / ncurses bindings for the Objective Caml language.
 dev-ml/ocaml-libvirt 0.6.1.4 9999: Ocaml libvirt binding's
@@ -16,6 +15,7 @@ dev-python/rcore 9999: Just an core for all rion's projects
 dev-util/cpp2text 1.1 9999: String representation converter (text, cpp, json)
 dev-util/douml 9999: Powerful UML 2 modelling tool. BoUML fork
 games-action/oolite 1.84 1.86: Elite space trading & warfare remake
+mail-client/thunderbird-bin 82.0_beta2: Thunderbird Mail Client
 mail-filter/milter-greylist 4.4.3: Stand-alone milter that implements the greylist filtering method
 mail-filter/policyd 2.0.12 2.0.14: Policy daemon for postfix and other MTAs
 media-gfx/flameshot 9999: Powerful yet simple to use screenshot software for GNU/Linux
