@@ -1,4 +1,5 @@
 app-admin/eselect-xorgconf 0.3.1: An eselect module to manage xorg.conf symlink(s)
+app-crypt/qca 9999: Qt Cryptographic Architecture (QCA)
 app-dicts/stardict-ruspack 0.2-r3: Collection of dicts for stardict.
 app-misc/a4tool 0.1_beta1: Tools for control your smart mouse. A4Tech G10-700F, and other Oscar mouse's
 app-misc/ddccontrol-db 20170716: DDCControl monitor database
