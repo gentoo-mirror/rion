@@ -1,11 +1,11 @@
 DEFINED_PHASES=install
 DEPEND=|| ( app-arch/unrar app-arch/rar )
 DESCRIPTION=Collection of dicts for stardict.
-EAPI=6
+EAPI=7
 HOMEPAGE=http://web.archive.org/web/20131111152446/http://gnome.msiu.ru/stardict.php
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-2
 RDEPEND=!app-dicts/stardict-freedict-eng-rus
 SLOT=0
 SRC_URI=http://tkn.me/gentoo/distfiles/stardict-ruspack-0.2.rar
-_md5_=0dd54e226dd2b7b08a42946f1d5b8c5b
+_md5_=99d05c7d966b474ea76691d84dce2a82
