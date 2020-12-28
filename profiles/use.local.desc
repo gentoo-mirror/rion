@@ -18,7 +18,6 @@ app-text/qstardict:plugin_stardict - build stardict plugin
 app-text/qstardict:plugin_swac - 
 app-text/qstardict:plugin_web - build web plugin
 dev-python/rcore:sql - Install required dependencies to work database
-mail-client/thunderbird-bin:crashreporter - Enable crash reporter for bugs
 mail-filter/milter-greylist:bind - Use net-dns/bind-tools resolver instead glibc resolver
 mail-filter/milter-greylist:ldap - Build witch openldap support
 mail-filter/milter-greylist:p0f - Add support for OS type detection's. Usenet-analyzer/p0f

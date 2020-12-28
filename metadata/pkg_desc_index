@@ -21,6 +21,7 @@ mail-filter/policyd 2.0.12 2.0.14: Policy daemon for postfix and other MTAs
 media-gfx/flameshot 9999: Powerful yet simple to use screenshot software for GNU/Linux
 media-gfx/simpleviewer-gl 9999: Small and simple image viewer for Linux.
 media-libs/qimageblitz 5.9999: Graphical effect and filter library by KDE
+media-plugins/gst-plugins-webrtcdsp 1.16.2: Audio Filter using WebRTC Audio Processing library plugin for GStreamer
 media-sound/qomp 1.4 9999: Quick(Qt) Online Music Player - one player for different online music hostings
 net-dialup/pptpclient 1.10.0: Linux client for PPTP
 net-im/cutegram 9999: A different telegram client from Aseman team forked from Sigram by Sialan Labs.
