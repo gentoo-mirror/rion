@@ -1,15 +1,15 @@
 BDEPEND=>=app-arch/rpm2targz-9.0.0.3g virtual/pkgconfig
 DEFINED_PHASES=compile install postinst postrm preinst setup unpack
-DEPEND=kernel_linux? ( sys-apps/kmod[tools] ) sys-apps/sed kernel_linux? ( virtual/linux-sources virtual/libelf )
+DEPEND=kernel_linux? ( sys-apps/kmod[tools] dist-kernel? ( virtual/dist-kernel:= ) ) sys-apps/sed kernel_linux? ( virtual/linux-sources virtual/libelf )
 DESCRIPTION=Hardware Against Software Piracy for access to parallel and usb keys
 EAPI=7
 HOMEPAGE=http://www.etersoft.ru
-IUSE=net_hasp wine usb lpt demo kernel_linux kernel_linux kernel_linux
+IUSE=net_hasp wine usb lpt demo kernel_linux kernel_linux kernel_linux dist-kernel
 KEYWORDS=~amd64 ~x86
 LICENSE=Etersoft
-RDEPEND=kernel_linux? ( sys-apps/kmod[tools] )
+RDEPEND=kernel_linux? ( sys-apps/kmod[tools] dist-kernel? ( virtual/dist-kernel:= ) )
 REQUIRED_USE=lpt? ( kernel_linux )
 SLOT=0
 SRC_URI=http://ftp.etersoft.ru/pub/Etersoft/HASP/3.3/sources/haspd-3.3-alt10.src.rpm
-_eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	estack	055c42df72f76a4f45ec92b35e83cd56	eutils	2d5b3f4b315094768576b6799e4f926e	l10n	8cdd85e169b835d518bc2fd59f780d8e	linux-info	c90a203b1c14cfa77bd3e37a0e96c955	linux-mod	63c06dfa12648f13855f5f4348af824c	multilib	d410501a125f99ffb560b0c523cd3d1e	rpm	760ff223c2c4299b68ea901e24c4cabd	systemd	74b223e42834adf09a2d21fe5fe13741	toolchain-funcs	1a94dc06d324bd0dab754e11abe6d27e	wrapper	4251d4c84c25f59094fd557e0063a974
+_eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	estack	055c42df72f76a4f45ec92b35e83cd56	eutils	2d5b3f4b315094768576b6799e4f926e	l10n	8cdd85e169b835d518bc2fd59f780d8e	linux-info	c90a203b1c14cfa77bd3e37a0e96c955	linux-mod	6eea2d40e8514773bec08ae1be26800b	multilib	d410501a125f99ffb560b0c523cd3d1e	rpm	760ff223c2c4299b68ea901e24c4cabd	systemd	74b223e42834adf09a2d21fe5fe13741	toolchain-funcs	1a94dc06d324bd0dab754e11abe6d27e	wrapper	4251d4c84c25f59094fd557e0063a974
 _md5_=c404f357db664c2c7de7c4aeb10285da
