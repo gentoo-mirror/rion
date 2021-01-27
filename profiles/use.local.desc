@@ -81,7 +81,6 @@ net-im/psi-skins:themes - Pull in themes via net-im/psi-skins-themes
 net-im/psimedia:demo - Build demo application and its version of the plugin
 net-im/psimedia:extras - Enable Psi+ mode (required when built for Psi+)
 net-im/psimedia:psi - Build a plugin for net-im/psi
-net-im/swift:hunspell - Enable spellchecking using app-text/hunspell
 net-libs/jdns:tools - Enable jdns test tools
 net-print/samsung-unified-driver:network - Enable network printing support
 sys-apps/hasp:demo - Install demo binaries
