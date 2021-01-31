@@ -6,14 +6,11 @@ app-misc/a4tool 0.1_beta1: Tools for control your smart mouse. A4Tech G10-700F, 
 app-misc/ddccontrol-db 20170716: DDCControl monitor database
 app-misc/qmetro 0.7.1 9999: Metro/subway map and route computation software.
 app-misc/qtnote 3.0.5 3.1.0 9999: Qt note-taking application compatible with tomboy
-app-text/makedict 0.4.1_beta1-r1 9999: Dictionary converter
 app-text/myrulib 0.29.16 9999: E-book collection manager
 app-text/qstardict 1.2 9999: QStarDict is a StarDict clone written with using Qt
-app-text/rst2epub 20120114 99999999: reStructuredText documents to epub files convertor
 dev-libs/launchdarkly-sdk-c 1.7.6 2.1.1: LaunchDarkly Client-side SDK for C/C++
 dev-ml/ocaml-curses 1.0.3: Curses / ncurses bindings for the Objective Caml language.
 dev-ml/ocaml-libvirt 0.6.1.4 9999: Ocaml libvirt binding's
-dev-python/rcore 9999: Just an core for all rion's projects
 dev-util/cpp2text 1.1 9999: String representation converter (text, cpp, json)
 dev-util/douml 9999: Powerful UML 2 modelling tool. BoUML fork
 games-action/oolite 1.84 1.86: Elite space trading & warfare remake
@@ -66,7 +63,6 @@ net-libs/jdns 2.0.4: JDNS is a simple DNS implementation library
 net-mail/mailgraph 1.14-r3: A mail statistics RRDtool frontend for Postfix
 net-misc/TelegramQML 9999: Telegram API tools for QtQML and Qml
 net-misc/aseman-qt-tools 9999: Set of tools from Aseman-Land
-net-misc/hermes 9999: The great messenger of the gods
 net-misc/libqtelegram-ae 9999: A fork of libqtelegram by Aseman Team
 net-misc/linuxptp 1.3 1.4: Precision Time Protocol (PTP) for Linux ( IEEE standard 1588 )
 net-misc/modem-manager-gui 0.0.16: GUI for Modem Manager daemon.
@@ -74,7 +70,6 @@ net-print/samsung-unified-driver 1.00.39: Samsung Unified Linux Driver for print
 sys-apps/hasp 3.3_p5-r3 3.3_p5-r4: Hardware Against Software Piracy for access to parallel and usb keys
 sys-apps/ksmtuned 9999: Simple script to tune whether and with what vigor ksm searches for dup pages
 sys-apps/linux-ftools 0_p20120419: Linux command line tools for fallocate, fincore, fadvise
-sys-apps/openwsman 2.6.3: Opensource Implementation of WS-Management Client
 sys-apps/tog-pegasus 2.14.1: OpenPegasus WBEM Services for Linux
 sys-apps/wsmancli 2.3.0: Opensource Implementation of WS-Management - Command line utility
 sys-cluster/ploop 1.15: openvz tool and a library to control ploop block devices
