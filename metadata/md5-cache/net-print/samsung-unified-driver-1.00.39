@@ -12,4 +12,4 @@ RESTRICT=mirror strip
 SLOT=0
 SRC_URI=https://ftp.hp.com/pub/softlib/software13/printers/SS/SL-M4580FX/uld_V1.00.39_01.17.tar.gz
 _eclasses_=linux-info	c90a203b1c14cfa77bd3e37a0e96c955	multilib	d410501a125f99ffb560b0c523cd3d1e	toolchain-funcs	24921b57d6561d87cbef4916a296ada4	udev	452708c3f55cf6e918b045adb949a9e6	vcs-snapshot	b1abf460a493fc59ebb25de0df3f09dd
-_md5_=2488245963f4fa43d7e6f7080a6dde41
+_md5_=4942b05b9acabb79da7c5b1b71304b88
