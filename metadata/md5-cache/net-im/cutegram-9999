@@ -1,0 +1,14 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=configure install unpack
+DEPEND=>=net-misc/TelegramQML-9999 dev-qt/qtwebkit:5 dev-qt/qtmultimedia:5 dev-qt/qtdeclarative:5[localstorage] dev-qt/qtpositioning:5[qml] net-misc/aseman-qt-tools
+DESCRIPTION=A different telegram client from Aseman team forked from Sigram by Sialan Labs.
+EAPI=7
+HOMEPAGE=http://aseman.co/en/products/cutegram/
+INHERIT=qmake-utils git-r3
+LICENSE=GPL-3
+PROPERTIES=live
+RDEPEND=>=net-misc/TelegramQML-9999 dev-qt/qtwebkit:5 dev-qt/qtmultimedia:5 dev-qt/qtdeclarative:5[localstorage] dev-qt/qtpositioning:5[qml] net-misc/aseman-qt-tools
+RESTRICT=mirror
+SLOT=0
+_eclasses_=toolchain-funcs	24921b57d6561d87cbef4916a296ada4	multilib	d410501a125f99ffb560b0c523cd3d1e	qmake-utils	dc74fe3891abc25e80dad5cd3d7c6e47	git-r3	b8e8c92aa5fe8df7187e466138eb4e52
+_md5_=8114229dae90867a088531e100733775

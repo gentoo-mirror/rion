@@ -1,0 +1,14 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=configure prepare unpack
+DEPEND=x11-libs/wxGTK:2.8[X] dev-libs/libxml2 dev-db/sqlite:3[fts3(+),icu?] dev-db/wxsqlite3 app-arch/bzip2 icu? ( dev-libs/icu:= ) reader? ( media-libs/freetype:2 media-libs/libpng:= virtual/jpeg:0 sys-libs/zlib ) virtual/pkgconfig
+DESCRIPTION=E-book collection manager
+EAPI=7
+HOMEPAGE=http://www.lintest.ru/wiki/MyRuLib
+INHERIT=eutils wxwidgets git-r3
+IUSE=+icu +links reader syslog
+LICENSE=GPL-3
+PROPERTIES=live
+RDEPEND=x11-libs/wxGTK:2.8[X] dev-libs/libxml2 dev-db/sqlite:3[fts3(+),icu?] dev-db/wxsqlite3 app-arch/bzip2 icu? ( dev-libs/icu:= ) reader? ( media-libs/freetype:2 media-libs/libpng:= virtual/jpeg:0 sys-libs/zlib )
+SLOT=0
+_eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	l10n	8cdd85e169b835d518bc2fd59f780d8e	wrapper	4251d4c84c25f59094fd557e0063a974	eutils	2d5b3f4b315094768576b6799e4f926e	toolchain-funcs	24921b57d6561d87cbef4916a296ada4	multilib	d410501a125f99ffb560b0c523cd3d1e	flag-o-matic	09a8beb8e6a8e02dc1e1bd83ac353741	wxwidgets	407be90c398e52298054aff2093912a3	git-r3	b8e8c92aa5fe8df7187e466138eb4e52
+_md5_=e2a44f9476bfb2b56e458a6ab7d5767d

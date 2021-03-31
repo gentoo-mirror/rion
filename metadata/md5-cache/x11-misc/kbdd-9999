@@ -1,0 +1,14 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl] >=app-portage/elt-patches-20170815 || ( >=sys-devel/automake-1.16.2-r1:1.16 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4
+DEFINED_PHASES=configure prepare unpack
+DEPEND=dev-libs/glib:2= x11-libs/libX11:0= dbus? ( sys-apps/dbus:0= >=dev-libs/dbus-glib-0.86:0= )
+DESCRIPTION=Very simple layout switcher
+EAPI=7
+HOMEPAGE=https://github.com/qnikst/kbdd
+INHERIT=git-r3 autotools
+IUSE=dbus debug
+LICENSE=GPL-2
+PROPERTIES=live
+RDEPEND=dev-libs/glib:2= x11-libs/libX11:0= dbus? ( sys-apps/dbus:0= >=dev-libs/dbus-glib-0.86:0= )
+SLOT=0
+_eclasses_=git-r3	b8e8c92aa5fe8df7187e466138eb4e52	toolchain-funcs	24921b57d6561d87cbef4916a296ada4	multilib	d410501a125f99ffb560b0c523cd3d1e	libtool	f143db5a74ccd9ca28c1234deffede96	autotools	6ff8412ccf96444868b310b0a28973ba
+_md5_=832fd89f7a00c05eb7f946bdac07dae1

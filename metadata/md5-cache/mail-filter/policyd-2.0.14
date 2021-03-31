@@ -3,6 +3,7 @@ DEPEND=dev-perl/Net-Server dev-perl/Net-CIDR dev-perl/Config-IniFiles dev-perl/C
 DESCRIPTION=Policy daemon for postfix and other MTAs
 EAPI=4
 HOMEPAGE=http://policyd.sf.net/
+INHERIT=multilib
 IUSE=mysql postgres sqlite +webinterface
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-2
