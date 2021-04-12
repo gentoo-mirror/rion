@@ -63,7 +63,7 @@ net-misc/libqtelegram-ae 9999: A fork of libqtelegram by Aseman Team
 net-misc/linuxptp 1.3 1.4: Precision Time Protocol (PTP) for Linux ( IEEE standard 1588 )
 net-misc/modem-manager-gui 0.0.16: GUI for Modem Manager daemon.
 net-print/samsung-unified-driver 1.00.39: Samsung Unified Linux Driver for printers and MFDs
-sys-apps/hasp 3.3_p5-r3 3.3_p5-r4: Hardware Against Software Piracy for access to parallel and usb keys
+sys-apps/hasp 3.3_p5-r4: Hardware Against Software Piracy for access to parallel and usb keys
 sys-apps/ksmtuned 9999: Simple script to tune whether and with what vigor ksm searches for dup pages
 sys-cluster/ploop 1.15: openvz tool and a library to control ploop block devices
 sys-devel/qconf 9999: ./configure like generator for qmake-based projects
