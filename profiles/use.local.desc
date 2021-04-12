@@ -17,13 +17,13 @@ app-text/myrulib:reader - Enable internal Cool Reader engine
 app-text/qstardict:plugin_stardict - build stardict plugin
 app-text/qstardict:plugin_swac - 
 app-text/qstardict:plugin_web - build web plugin
-mail-filter/milter-greylist:bind - Use net-dns/bind-tools resolver instead glibc resolver
-mail-filter/milter-greylist:ldap - Build witch openldap support
-mail-filter/milter-greylist:p0f - Add support for OS type detection's. Usenet-analyzer/p0f
-mail-filter/milter-greylist:postfix - Add support for mail-mta/postfix MTA
-mail-filter/milter-greylist:sendmail - Add support for mail-mta/sendmail MTA
-mail-filter/milter-greylist:spamassassin - Add spamassasin plugin
-mail-filter/milter-greylist:spf - Add Sender Policy Framework support
+dev-db/spatialite:geos - Add the sci-libs/geos library for exact topological tests
+dev-db/spatialite:proj - Add the sci-libs/proj library for reprojection features
+dev-db/spatialite:xls - Add the dev-libs/freexl library for xls import support
+dev-python/rcore:sql - Install required dependencies to work database
+dev-vcs/mercurial:bugzilla - Support bugzilla integration.
+dev-vcs/mercurial:gpg - Support signing with GnuPG.
+dev-vcs/mercurial:tk - Install dev-lang/tk for hgk script.
 mail-filter/policyd:webinterface - 
 media-sound/qomp:cuteradioplugin - cuteRadio plugin
 media-sound/qomp:lastfmplugin - Last.FM plugin

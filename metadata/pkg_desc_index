@@ -13,7 +13,10 @@ dev-ml/ocaml-curses 1.0.3: Curses / ncurses bindings for the Objective Caml lang
 dev-ml/ocaml-libvirt 0.6.1.4 9999: Ocaml libvirt binding's
 dev-util/cpp2text 1.1 9999: String representation converter (text, cpp, json)
 dev-util/douml 9999: Powerful UML 2 modelling tool. BoUML fork
-games-action/oolite 1.84 1.86: Elite space trading & warfare remake
+dev-util/gmanedit2 9999: Gnome Manual Pages Editor
+dev-vcs/mercurial 2.8.9999: Scalable distributed SCM
+games-action/oolite 1.84: Elite space trading & warfare remake
+mail-filter/opendmarc 1.0.0 1.0.0-r1: Open source DMARC implementation
 mail-filter/policyd 2.0.12 2.0.14: Policy daemon for postfix and other MTAs
 media-gfx/flameshot 9999: Powerful yet simple to use screenshot software for GNU/Linux
 media-gfx/simpleviewer-gl 9999: Small and simple image viewer for Linux.
@@ -65,10 +68,19 @@ net-misc/aseman-qt-tools 9999: Set of tools from Aseman-Land
 net-misc/libqtelegram-ae 9999: A fork of libqtelegram by Aseman Team
 net-misc/linuxptp 1.3 1.4: Precision Time Protocol (PTP) for Linux ( IEEE standard 1588 )
 net-misc/modem-manager-gui 0.0.16: GUI for Modem Manager daemon.
-net-print/samsung-unified-driver 1.00.39: Samsung Unified Linux Driver for printers and MFDs
-sys-apps/hasp 3.3_p5-r3 3.3_p5-r4: Hardware Against Software Piracy for access to parallel and usb keys
-sys-apps/ksmtuned 9999: Simple script to tune whether and with what vigor ksm searches for dup pages
-sys-apps/tog-pegasus 2.14.1: OpenPegasus WBEM Services for Linux
+net-misc/networkmanager-l2tp 9999: NetworkManager L2TP plugin
+net-p2p/dump_viewer 9999: Viewer for DB dumps of torrent trackers
+net-p2p/passkeychanger 0.1.0.0 9999: Qt4 torrent passkey changer
+sci-geosciences/7ways 1.04.633: NaviKey's car navigation software
+sci-geosciences/qgis 2.10.1 2.12.1: User friendly Geographic Information System
+sci-libs/geographiclib 1.31 1.32: Small set of C++ classes for performing various geographic and geodesic conversions
+sys-apps/hasp 3.3_p5-r1: Hardware Against Software Piracy for access to parallel and usb keys
+sys-apps/ksmtuned 9999: Simple script that controls whether (and with what vigor) ksm should search for duplicated pages
+sys-apps/openwsman 2.3.6: Opensource Implementation of WS-Management Client
+sys-apps/sblim-cmpi-base 1.6.2: SBLIM Base Providers
+sys-apps/sblim-cmpi-fsvol 1.5.1: SBLIM fsvol instrumentation
+sys-apps/sblim-gather 2.2.7 2.2.8: SBLIM Performance Data Gatherer
+sys-apps/tog-pegasus 2.12.0: OpenPegasus WBEM Services for Linux
 sys-apps/wsmancli 2.3.0: Opensource Implementation of WS-Management - Command line utility
 sys-cluster/ploop 1.15: openvz tool and a library to control ploop block devices
 sys-devel/qconf 2.5 9999: ./configure like generator for qmake-based projects
