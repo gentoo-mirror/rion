@@ -10,20 +10,10 @@ app-crypt/qca:nss - Enable NSS plugin
 app-crypt/qca:pkcs11 - Enable PKCS#11 plugin
 app-crypt/qca:sasl - Enable SASL plugin
 app-crypt/qca:softstore - Enable softstore plugin
-app-misc/a4tool:battery - Enable battery level notifications using x11-libs/libnotify
 app-misc/qtnote:unity - Enable Unity/Ubuntu plugin
-app-text/myrulib:links - Include links to the online collections
-app-text/myrulib:reader - Enable internal Cool Reader engine
 app-text/qstardict:plugin_stardict - build stardict plugin
 app-text/qstardict:plugin_swac - 
 app-text/qstardict:plugin_web - build web plugin
-dev-db/spatialite:geos - Add the sci-libs/geos library for exact topological tests
-dev-db/spatialite:proj - Add the sci-libs/proj library for reprojection features
-dev-db/spatialite:xls - Add the dev-libs/freexl library for xls import support
-dev-python/rcore:sql - Install required dependencies to work database
-dev-vcs/mercurial:bugzilla - Support bugzilla integration.
-dev-vcs/mercurial:gpg - Support signing with GnuPG.
-dev-vcs/mercurial:tk - Install dev-lang/tk for hgk script.
 mail-filter/policyd:webinterface - 
 media-sound/qomp:cuteradioplugin - cuteRadio plugin
 media-sound/qomp:lastfmplugin - Last.FM plugin
@@ -41,8 +31,6 @@ net-im/psi:hunspell - Enable spellchecking using app-text/hunspell
 net-im/psi:iconsets - Install additional iconsets, some of them have no clear licensing
 net-im/psi:keyring - Enable storing password in system keyring manager
 net-im/psi:webengine - Enable themed, html-based chatlogs using dev-qt/qtwebengine
-net-im/psi:webkit - Enable themed, html-based chatlogs using dev-qt/qtwebkit
-net-im/psi:whiteboarding - Enable experimental interactive SVG drawing
 net-im/psi:xscreensaver - Use X screensaver protocol extension to monitor idle/active status based on mouse/keyboard events
 net-im/psi-plugins-meta:attention - Enable Psi plugin for making attention (XEP-0224)
 net-im/psi-plugins-meta:autoreply - Enable Psi plugin to gnerate automatic replies.
@@ -86,6 +74,4 @@ sys-apps/hasp:demo - Install demo binaries
 sys-apps/hasp:lpt - Install kernel module for LPT-keys
 sys-apps/hasp:net_hasp - Install binaries for use HASP-keys on network
 sys-apps/hasp:wine - Install winehasp binary and init-script
-www-plugins/freshplayerplugin:gles2 - Use system GLESv2 libraries instead of ANGLE for shader translation
-www-plugins/freshplayerplugin:v4l - Use libv4l2 for colorspace conversion
 www-servers/civetweb:server - Build standalone server
