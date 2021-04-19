@@ -11,7 +11,7 @@ dev-ml/ocaml-curses 1.0.3: Curses / ncurses bindings for the Objective Caml lang
 dev-ml/ocaml-libvirt 0.6.1.4 9999: Ocaml libvirt binding's
 dev-util/cpp2text 1.1 9999: String representation converter (text, cpp, json)
 dev-util/douml 9999: Powerful UML 2 modelling tool. BoUML fork
-games-action/oolite 1.84 1.86: Elite space trading & warfare remake
+games-action/oolite 1.90: Elite space trading & warfare remake
 mail-filter/policyd 2.0.12 2.0.14: Policy daemon for postfix and other MTAs
 media-gfx/flameshot 9999: Powerful yet simple to use screenshot software for GNU/Linux
 media-gfx/simpleviewer-gl 9999: Small and simple image viewer for Linux.
