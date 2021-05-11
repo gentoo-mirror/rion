@@ -33,7 +33,6 @@ BDEPEND="
 	doc? ( app-doc/doxygen )
 "
 DEPEND="
-	app-crypt/qca:2[ssl]
 	dev-qt/qtconcurrent:5
 	dev-qt/qtcore:5
 	dev-qt/qtgui:5
@@ -88,6 +87,11 @@ pkg_setup() {
 src_unpack() {
 	git-r3_src_unpack
 
+	unset EGIT_BRANCH EGIT_COMMIT
+	EGIT_CHECKOUT_DIR="${S}/iris/3rdparty/qca" \
+	EGIT_REPO_URI="${PSI_URI}/qca.git" \
+	git-r3_src_unpack
+
 	# fetch translations
 	unset EGIT_BRANCH EGIT_COMMIT
 	EGIT_REPO_URI=$(usex extras "${PSI_PLUS_LANGS_URI}" "${PSI_LANGS_URI}")
@@ -121,6 +125,8 @@ src_configure() {
 		-DCHAT_TYPE=$(usex webengine webengine basic)
 		-DUSE_XSS=$(usex xscreensaver)
 		-DPSI_PLUS=$(usex extras)
+		-DVERBOSE_PROGRAM_NAME=ON
+		-DBUNDLED_QCA=ON
 	)
 	cmake_src_configure
 }
