@@ -14,24 +14,7 @@ app-misc/qtnote:unity - Enable Unity/Ubuntu plugin
 app-text/qstardict:plugin_stardict - build stardict plugin
 app-text/qstardict:plugin_swac - 
 app-text/qstardict:plugin_web - build web plugin
-dev-db/spatialite:geos - Add the sci-libs/geos library for exact topological tests
-dev-db/spatialite:proj - Add the sci-libs/proj library for reprojection features
-dev-db/spatialite:xls - Add the dev-libs/freexl library for xls import support
-dev-python/rcore:sql - Install required dependencies to work database
-dev-vcs/mercurial:bugzilla - Support bugzilla integration.
-dev-vcs/mercurial:gpg - Support signing with GnuPG.
-dev-vcs/mercurial:tk - Install dev-lang/tk for hgk script.
-media-libs/mediastreamer:amr - Use of AMR Narrow Band codec plugin
-media-libs/mediastreamer:filters - Enable compilation of filters
-media-libs/mediastreamer:g726 - Support g726 codec
-media-libs/mediastreamer:g729 - Use g726 codec plugin
-media-libs/mediastreamer:ilbc - Use of iLBC (RFC3951) codec plugin
-media-libs/mediastreamer:ntp-timestamp - Turn on NTP timestamping on received packet
-media-libs/mediastreamer:opus - Enable opus codec support
-media-libs/mediastreamer:ortp - Enable usage of net-libs/ortp
-media-libs/mediastreamer:pcap - Enable usage of net-libs/libpcap
-media-libs/mediastreamer:silk - Use silk (skype protocol) codec plugin
-media-libs/mediastreamer:video - Enable video support
+media-sound/qomp:cuteradioplugin - cuteRadio plugin
 media-sound/qomp:lastfmplugin - Last.FM plugin
 media-sound/qomp:mprisplugin - MPRIS plugin
 media-sound/qomp:myzukaruplugin - myzuka.ru plugin
