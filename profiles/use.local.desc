@@ -63,7 +63,6 @@ net-im/psi-plugins-meta:storagenotes - Enable Psi plugin for Jabber notes protoc
 net-im/psi-plugins-meta:translate - Enable Psi plugin to fix incorrect input
 net-im/psi-plugins-meta:videostatus - Enable Psi plugin for settings some status during video watching
 net-im/psi-plugins-meta:watcher - Enable Psi plugin for watching on contacts
-net-im/psi-skins:themes - Pull in themes via net-im/psi-skins-themes
 net-im/psimedia:demo - Build demo application and its version of the plugin
 net-im/psimedia:extras - Enable Psi+ mode (required when built for Psi+)
 net-im/psimedia:psi - Build a plugin for net-im/psi

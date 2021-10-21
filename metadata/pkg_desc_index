@@ -29,10 +29,8 @@ net-im/psi-contentdownloader 9999: Psi plugin for downloading extras
 net-im/psi-enummessages 9999: Psi plugin to enumarate messages added to chat
 net-im/psi-extendedmenu 9999: Psi plugin which adds special submenu to contacts
 net-im/psi-extendedoptions 9999: Psi plugin for UI for some hidden options
-net-im/psi-gnupg 9999: Psi plugin for GnuPG message encryption
 net-im/psi-gomokugame 9999: Psi plugin for Gomoku game
 net-im/psi-historykeeper 9999: Psi plugin to keep certain contacts history clean
-net-im/psi-icqdie 9999: Psi plugin generating weird replies to icq transport contacts.
 net-im/psi-image 9999: Psi plugin for sending in-band images
 net-im/psi-imagepreview 9999: Psi plugin to preview images in chat log
 net-im/psi-jabberdisk 9999: Psi plugin for file sharing via jabber disk
@@ -45,7 +43,6 @@ net-im/psi-pepchangenotify 9999: Psi plugin to show PEP change notifications
 net-im/psi-plugins-meta 9999: Meta package for net-im/psi plugins
 net-im/psi-qipxstatuses 9999: Psi plugin for QIP xStatus to xmpp user moods translation
 net-im/psi-screenshot 9999: Psi plugin to quickly make screenshots
-net-im/psi-skins 9999: Psi plugin for skins support.
 net-im/psi-stopspam 9999: Psi plugin for spam blocking
 net-im/psi-storagenotes 9999: Psi plugin for Jabber notes protocol extension
 net-im/psi-translate 9999: Psi plugin to fix incorrect input
