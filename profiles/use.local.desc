@@ -67,6 +67,7 @@ net-im/psimedia:demo - Build demo application and its version of the plugin
 net-im/psimedia:extras - Enable Psi+ mode (required when built for Psi+)
 net-im/psimedia:psi - Build a plugin for net-im/psi
 net-libs/jdns:tools - Enable jdns test tools
+net-libs/srt:encryption - Enable encryption of the SRT stream
 net-print/samsung-unified-driver:network - Enable network printing support
 sys-apps/hasp:demo - Install demo binaries
 sys-apps/hasp:lpt - Install kernel module for LPT-keys
