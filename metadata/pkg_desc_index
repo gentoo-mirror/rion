@@ -1,6 +1,6 @@
 app-crypt/qca 9999: Qt Cryptographic Architecture (QCA)
 app-dicts/stardict-ruspack 0.2-r3: Collection of dicts for stardict.
-app-editors/typora 0.9.98: markdown editor
+app-editors/typora 1.0.3: markdown editor
 app-misc/ddccontrol-db 20170716: DDCControl monitor database
 app-misc/qmetro 0.7.1 9999: Metro/subway map and route computation software.
 app-misc/qtnote 3.0.5 3.1.0 9999: Qt note-taking application compatible with tomboy
