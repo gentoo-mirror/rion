@@ -19,7 +19,36 @@ media-sound/qomp 1.4 9999: Quick(Qt) Online Music Player - one player for differ
 net-im/bluejeans 2.24.0: Online meetings, video conferencing, and screen sharing for teams of any size
 net-im/cutegram 9999: A different telegram client from Aseman team forked from Sigram by Sialan Labs.
 net-im/psi 9999: Qt XMPP client
+net-im/psi-attention 9999: Psi plugin for making attention (XEP-0224)
+net-im/psi-autoreply 9999: Psi plugin to gnerate automatic replies.
+net-im/psi-birthdayreminder 9999: Psi plugin to remind contact's birthdays
+net-im/psi-chess 9999: Psi plugin to play chess with your friends
+net-im/psi-cleaner 9999: Psi plugin for profile cleaning for specified contacts.
+net-im/psi-clientswitcher 9999: Psi plugin for client version masking
+net-im/psi-conferencelogger 9999: Psi plugin which saves logs of conferences
+net-im/psi-contentdownloader 9999: Psi plugin for downloading extras
+net-im/psi-enummessages 9999: Psi plugin to enumarate messages added to chat
+net-im/psi-extendedmenu 9999: Psi plugin which adds special submenu to contacts
+net-im/psi-extendedoptions 9999: Psi plugin for UI for some hidden options
+net-im/psi-gomokugame 9999: Psi plugin for Gomoku game
+net-im/psi-historykeeper 9999: Psi plugin to keep certain contacts history clean
+net-im/psi-image 9999: Psi plugin for sending in-band images
+net-im/psi-imagepreview 9999: Psi plugin to preview images in chat log
+net-im/psi-jabberdisk 9999: Psi plugin for file sharing via jabber disk
+net-im/psi-juick 9999: Psi plugin for juick.com service
+net-im/psi-messagefilter 9999: Psi plugin to filter out messages by various conditions
+net-im/psi-omemo 9999: Psi plugin for OMEMO
+net-im/psi-openpgp 9999: Psi plugin to manager OpenPGP keys and settings
+net-im/psi-otr 0.9.4 9999: Psi plugin for OTR message ecnryption
+net-im/psi-pepchangenotify 9999: Psi plugin to show PEP change notifications
 net-im/psi-plugins-meta 9999: Meta package for net-im/psi plugins
+net-im/psi-qipxstatuses 9999: Psi plugin for QIP xStatus to xmpp user moods translation
+net-im/psi-screenshot 9999: Psi plugin to quickly make screenshots
+net-im/psi-stopspam 9999: Psi plugin for spam blocking
+net-im/psi-storagenotes 9999: Psi plugin for Jabber notes protocol extension
+net-im/psi-translate 9999: Psi plugin to fix incorrect input
+net-im/psi-videostatus 9999: Psi plugin for settings some status during video watching
+net-im/psi-watcher 9999: Psi plugin for watching on contacts
 net-im/psimedia 9999: Psi/Psi+ plugin for voice/video calls
 net-im/viber 13.3.1.22: Free calls, text and picture sharing with anyone, anywhere!
 net-libs/jdns 2.0.4: JDNS is a simple DNS implementation library
