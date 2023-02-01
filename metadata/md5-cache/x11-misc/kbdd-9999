@@ -2,7 +2,7 @@ BDEPEND=>=dev-vcs/git-1.8.2.1[curl] sys-devel/gnuconfig >=app-portage/elt-patche
 DEFINED_PHASES=configure prepare unpack
 DEPEND=dev-libs/glib:2= x11-libs/libX11:0= dbus? ( sys-apps/dbus:0= >=dev-libs/dbus-glib-0.86:0= )
 DESCRIPTION=Very simple layout switcher
-EAPI=7
+EAPI=8
 HOMEPAGE=https://github.com/qnikst/kbdd
 INHERIT=git-r3 autotools
 IUSE=dbus debug
@@ -11,4 +11,4 @@ PROPERTIES=live
 RDEPEND=dev-libs/glib:2= x11-libs/libX11:0= dbus? ( sys-apps/dbus:0= >=dev-libs/dbus-glib-0.86:0= )
 SLOT=0
 _eclasses_=git-r3	2347f8fe2d392b2a091191f94be37e6f	gnuconfig	b6b3e92f8b8c996400074b5f61a59256	toolchain-funcs	9a610728b9bcca1919234cceb35a1027	multilib	5ca4e49abed8e3a2f7b56920eadee157	libtool	241a8f577b9781a42a7421e53448a44e	autotools	6dcd6b6a486e79928e1243ff9ba41fcc
-_md5_=832fd89f7a00c05eb7f946bdac07dae1
+_md5_=dc8b6bae99d4f97f5285d4f84ca3a2c2

@@ -2,7 +2,7 @@ BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
 DEFINED_PHASES=configure install unpack
 DEPEND=dev-qt/qtcore:5 dev-qt/qtxml:5
 DESCRIPTION=./configure like generator for qmake-based projects
-EAPI=7
+EAPI=8
 HOMEPAGE=https://github.com/psi-plus/qconf
 INHERIT=qmake-utils git-r3
 LICENSE=GPL-2
@@ -10,4 +10,4 @@ PROPERTIES=live
 RDEPEND=dev-qt/qtcore:5 dev-qt/qtxml:5
 SLOT=0
 _eclasses_=toolchain-funcs	9a610728b9bcca1919234cceb35a1027	multilib	5ca4e49abed8e3a2f7b56920eadee157	qmake-utils	59420c906278d16deaaa629f9d115707	git-r3	2347f8fe2d392b2a091191f94be37e6f
-_md5_=02b7ee69d8a80441632887ba4e5b28f2
+_md5_=4255fb99170b55687d6a2f8d1b267091

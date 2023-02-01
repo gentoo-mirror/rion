@@ -2,7 +2,7 @@ BDEPEND=>=gnustep-base/gnustep-make-2.0
 DEFINED_PHASES=compile configure install postinst prepare setup
 DEPEND=virtual/opengl gnustep-base/gnustep-gui media-libs/sdl-mixer media-libs/sdl-image app-accessibility/espeak media-libs/libvorbis dev-libs/nspr media-libs/libpng:0 media-libs/openal dev-lang/spidermonkey:0 sys-libs/zlib[minizip] gnustep-base/gnustep-make[-libobjc2] virtual/gnustep-back
 DESCRIPTION=Elite space trading & warfare remake
-EAPI=7
+EAPI=8
 HOMEPAGE=http://oolite.org/
 INHERIT=gnustep-2 desktop
 IUSE=debug debug doc
@@ -11,5 +11,5 @@ LICENSE=GPL-2
 RDEPEND=virtual/opengl gnustep-base/gnustep-gui media-libs/sdl-mixer media-libs/sdl-image app-accessibility/espeak media-libs/libvorbis dev-libs/nspr media-libs/libpng:0 media-libs/openal dev-lang/spidermonkey:0 sys-libs/zlib[minizip] virtual/gnustep-back
 SLOT=0
 SRC_URI=https://github.com/OoliteProject/oolite/archive/1.90.tar.gz -> oolite-1.90.tar.gz https://github.com/OoliteProject/oolite-binary-resources/archive/1fe395fe185611b2de54b027cda6c29f15a9f3a0.tar.gz -> oolite-binary-resources-1.90.tar.gz https://github.com/OoliteProject/oolite-sdl-dependencies/archive/dd17796b2ee1257bea04aeffaec660f6c75eadf2.tar.gz -> oolite-sdl-dependencies-1.90.tar.gz
-_eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	strip-linguas	ac3ee41ee2d31d8c41a77c0838320cc7	wrapper	4a1902f969e5718126434fc35f3a0d9c	eutils	8f942ebdcf04334697649d4a0bf65a32	toolchain-funcs	9a610728b9bcca1919234cceb35a1027	multilib	5ca4e49abed8e3a2f7b56920eadee157	flag-o-matic	69394e25812406faa1f90edaf4969395	gnustep-base	789aee7a4ec1617c8b7e69cd50aa31b9	gnustep-2	55b799bffddadbf94e5605771c524bb1	desktop	7eb20ad915a0a318176d51bc2508ff5c
-_md5_=966e3aeaa6064a892ecfb8a5be77aeb5
+_eclasses_=toolchain-funcs	9a610728b9bcca1919234cceb35a1027	multilib	5ca4e49abed8e3a2f7b56920eadee157	flag-o-matic	69394e25812406faa1f90edaf4969395	gnustep-base	789aee7a4ec1617c8b7e69cd50aa31b9	gnustep-2	55b799bffddadbf94e5605771c524bb1	desktop	7eb20ad915a0a318176d51bc2508ff5c
+_md5_=24d3cee3cc49ca17728d9dec2a48392f
