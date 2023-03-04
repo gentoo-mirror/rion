@@ -69,8 +69,4 @@ net-im/psimedia:psi - Build a plugin for net-im/psi
 net-libs/jdns:tools - Enable jdns test tools
 net-libs/srt:encryption - Enable encryption of the SRT stream
 net-print/samsung-unified-driver:network - Enable network printing support
-sys-apps/hasp:demo - Install demo binaries
-sys-apps/hasp:lpt - Install kernel module for LPT-keys
-sys-apps/hasp:net_hasp - Install binaries for use HASP-keys on network
-sys-apps/hasp:wine - Install winehasp binary and init-script
 www-servers/civetweb:server - Build standalone server

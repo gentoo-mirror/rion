@@ -1,0 +1,14 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=configure install unpack
+DEPEND=dev-libs/glib:2 dev-qt/qtgui:5 dev-qt/qtnetwork:5 dev-qt/qtprintsupport:5 dev-qt/qtwidgets:5 dev-qt/qtxml:5 dev-qt/linguist-tools:5 dbus? ( dev-qt/qtdbus:5 ) plugin_swac? ( dev-qt/qtsql:5 ) kde? ( kde-frameworks/kwindowsystem )
+DESCRIPTION=QStarDict is a StarDict clone written with using Qt
+EAPI=8
+HOMEPAGE=http://qstardict.ylsoftware.com/
+INHERIT=qmake-utils git-r3
+IUSE=dbus debug kde nls plugin_stardict plugin_swac plugin_web
+LICENSE=GPL-2
+PROPERTIES=live
+REQUIRED_USE=|| ( plugin_stardict plugin_swac plugin_web )
+SLOT=0
+_eclasses_=toolchain-funcs	6001248ef162a5fa2a21ce132a212f6b	multilib	5ca4e49abed8e3a2f7b56920eadee157	qmake-utils	59420c906278d16deaaa629f9d115707	git-r3	2347f8fe2d392b2a091191f94be37e6f
+_md5_=5032d5d686bcf2ccdf610a4712049c8b
