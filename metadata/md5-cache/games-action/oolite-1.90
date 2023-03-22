@@ -11,5 +11,5 @@ LICENSE=GPL-2
 RDEPEND=virtual/opengl gnustep-base/gnustep-gui media-libs/sdl-mixer media-libs/sdl-image app-accessibility/espeak media-libs/libvorbis dev-libs/nspr media-libs/libpng:0 media-libs/openal dev-lang/spidermonkey:0 sys-libs/zlib[minizip] virtual/gnustep-back
 SLOT=0
 SRC_URI=https://github.com/OoliteProject/oolite/archive/1.90.tar.gz -> oolite-1.90.tar.gz https://github.com/OoliteProject/oolite-binary-resources/archive/1fe395fe185611b2de54b027cda6c29f15a9f3a0.tar.gz -> oolite-binary-resources-1.90.tar.gz https://github.com/OoliteProject/oolite-sdl-dependencies/archive/dd17796b2ee1257bea04aeffaec660f6c75eadf2.tar.gz -> oolite-sdl-dependencies-1.90.tar.gz
-_eclasses_=toolchain-funcs	6001248ef162a5fa2a21ce132a212f6b	multilib	5ca4e49abed8e3a2f7b56920eadee157	flag-o-matic	69394e25812406faa1f90edaf4969395	gnustep-base	789aee7a4ec1617c8b7e69cd50aa31b9	gnustep-2	191cacca9e01ae0fe9b898b09e4555b8	desktop	021728fdc1b03b36357dbc89489e0f0d
+_eclasses_=toolchain-funcs	6001248ef162a5fa2a21ce132a212f6b	multilib	5ca4e49abed8e3a2f7b56920eadee157	flag-o-matic	514815b1cc0dd4aeac177c2e812b3b1a	gnustep-base	789aee7a4ec1617c8b7e69cd50aa31b9	gnustep-2	191cacca9e01ae0fe9b898b09e4555b8	desktop	021728fdc1b03b36357dbc89489e0f0d
 _md5_=24d3cee3cc49ca17728d9dec2a48392f
