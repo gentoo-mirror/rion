@@ -9,5 +9,5 @@ KEYWORDS=~amd64 ~x86
 LICENSE=BlueJeans
 SLOT=0
 SRC_URI=https://swdl.bluejeans.com/desktop-app/linux/2.24.0/BlueJeans_2.24.0.89.rpm
-_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	xdg-utils	ac0e315a3688929e34ac75b139e7349a	xdg	4a14c5c24f121e7da66e5aab4a168c6e
+_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	xdg-utils	baea6080dd821f5562d715887954c9d3	xdg	4a14c5c24f121e7da66e5aab4a168c6e
 _md5_=b9dcb574a84ad0145eac65a7dca6174a
