@@ -1,11 +1,9 @@
 app-crypt/qca 9999: Qt Cryptographic Architecture (QCA)
-app-dicts/stardict-ruspack 0.2-r3: Collection of dicts for stardict.
 app-editors/typora 1.0.3: markdown editor
-app-misc/ddccontrol-db 20170716: DDCControl monitor database
 app-misc/qmetro 0.7.1 9999: Metro/subway map and route computation software.
 app-misc/qtnote 3.0.5 3.1.0 9999: Qt note-taking application compatible with tomboy
 app-text/qstardict 1.2 9999: QStarDict is a StarDict clone written with using Qt
-dev-libs/launchdarkly-sdk-c 1.7.6 2.3.0: LaunchDarkly Client-side SDK for C/C++
+dev-libs/launchdarkly-sdk-c 2.5.5: LaunchDarkly Client-side SDK for C/C++
 dev-util/cpp2text 1.1 9999: String representation converter (text, cpp, json)
 dev-util/douml 9999: Powerful UML 2 modelling tool. BoUML fork
 games-action/oolite 1.90: Elite space trading & warfare remake
@@ -37,7 +35,7 @@ net-im/psi-juick 9999: Psi plugin for juick.com service
 net-im/psi-messagefilter 9999: Psi plugin to filter out messages by various conditions
 net-im/psi-omemo 9999: Psi plugin for OMEMO
 net-im/psi-openpgp 9999: Psi plugin to manager OpenPGP keys and settings
-net-im/psi-otr 0.9.4 9999: Psi plugin for OTR message ecnryption
+net-im/psi-otr 9999: Psi plugin for OTR message ecnryption
 net-im/psi-pepchangenotify 9999: Psi plugin to show PEP change notifications
 net-im/psi-plugins-meta 9999: Meta package for net-im/psi plugins
 net-im/psi-qipxstatuses 9999: Psi plugin for QIP xStatus to xmpp user moods translation
@@ -60,5 +58,4 @@ sys-libs/rts_bpp 9999: Driver for realtek 5289/8411 card readers
 www-servers/civetweb 1.12: Embedded C/C++ web server
 x11-apps/ocs-url 9999: A program enabling web-installation of items via OpenCollaborationServices
 x11-misc/kbdd 9999: Very simple layout switcher
-x11-themes/country-flag 0: The flag icon filenames follow the ISO 3166-1 alpha-2 country codes.
 x11-themes/elementary-icon-theme 4.3.1: Elementary gnome icon theme
