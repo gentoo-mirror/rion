@@ -10,5 +10,5 @@ LICENSE=GPL-3
 RDEPEND=dev-qt/qtgui:5 dev-qt/qtwidgets dev-qt/qtnetwork:5 dev-qt/qtprintsupport:5 dev-qt/qtsingleapplication[X] kde? ( kde-frameworks/kglobalaccel kde-frameworks/kwindowsystem kde-frameworks/knotifications ) spell? ( app-text/hunspell )
 SLOT=0
 SRC_URI=https://github.com/Ri0n/QtNote/archive/3.1.0.tar.gz -> qtnote-3.1.0.tar.gz
-_eclasses_=toolchain-funcs	0c8a0b0d318eb5d5180d114bd3f6592b	multilib	c19072c3cd7ac5cb21de013f7e9832e0	qmake-utils	a8dd17b1d94586164f5e3fc12b1c6b81	xdg-utils	baea6080dd821f5562d715887954c9d3	gnome2-utils	b0183db3b2e07b18f3b77bffec72e116
+_eclasses_=toolchain-funcs	862d337d98edb576796827be2c6b11ca	multilib	c19072c3cd7ac5cb21de013f7e9832e0	qmake-utils	a8dd17b1d94586164f5e3fc12b1c6b81	xdg-utils	baea6080dd821f5562d715887954c9d3	gnome2-utils	b0183db3b2e07b18f3b77bffec72e116
 _md5_=5bc81b0e6257405e429b7454925789f2
