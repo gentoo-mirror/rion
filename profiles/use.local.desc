@@ -68,4 +68,7 @@ net-im/psimedia:psi - Build a plugin for net-im/psi
 net-libs/jdns:tools - Enable jdns test tools
 net-libs/srt:encryption - Enable encryption of the SRT stream
 net-print/samsung-unified-driver:network - Enable network printing support
+sys-fs/lvm2:lvm - Build all of LVM2 including daemons and tools like lvchange, not just the device-mapper library (for other packages to use). If your system uses LVM2 for managing disks and partitions, enable this flag.
+sys-fs/lvm2:sanlock - Enable lvmlockd with support for sanlock
+sys-fs/lvm2:thin - Support for thin volumes
 www-servers/civetweb:server - Build standalone server
