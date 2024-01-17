@@ -3,6 +3,7 @@ app-editors/typora 1.0.3: markdown editor
 app-misc/qmetro 0.7.1 9999: Metro/subway map and route computation software.
 app-misc/qtnote 3.0.5 3.1.0 9999: Qt note-taking application compatible with tomboy
 app-text/qstardict 1.2 9999: QStarDict is a StarDict clone written with using Qt
+dev-build/qconf 9999: ./configure like generator for qmake-based projects
 dev-libs/launchdarkly-sdk-c 2.5.5: LaunchDarkly Client-side SDK for C/C++
 dev-libs/plog 1.1.9: Portable, simple and extensible C++ logging library
 dev-util/cpp2text 1.1 9999: String representation converter (text, cpp, json)
@@ -54,7 +55,10 @@ net-misc/TelegramQML 9999: Telegram API tools for QtQML and Qml
 net-misc/aseman-qt-tools 9999: Set of tools from Aseman-Land
 net-misc/libqtelegram-ae 9999: A fork of libqtelegram by Aseman Team
 net-print/samsung-unified-driver 1.00.39: Samsung Unified Linux Driver for printers and MFDs
-dev-build/qconf 9999: ./configure like generator for qmake-based projects
+net-vpn/globalprotect-openconnect 1.4.9 9999: GlobalProtect VPN GUI based on Openconnect with SAML auth mode support
+sys-block/blivet 3.8.2: Python module for system storage configuration
+sys-block/blivet-gui 2.4.3_alpha 9999: Python module for system storage configuration
+sys-fs/lvm2 2.03.22-r2: User-land utilities for LVM2 (device-mapper) software
 sys-libs/rts_bpp 9999: Driver for realtek 5289/8411 card readers
 www-servers/civetweb 1.12: Embedded C/C++ web server
 x11-apps/ocs-url 9999: A program enabling web-installation of items via OpenCollaborationServices
