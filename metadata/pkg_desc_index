@@ -58,6 +58,7 @@ net-print/samsung-unified-driver 1.00.39: Samsung Unified Linux Driver for print
 net-vpn/globalprotect-openconnect 1.4.9 9999: GlobalProtect VPN GUI based on Openconnect with SAML auth mode support
 sys-block/blivet 3.8.2: Python module for system storage configuration
 sys-block/blivet-gui 2.4.3_alpha 9999: Python module for system storage configuration
+sys-fs/cryptsetup 2.7.0: Tool to setup encrypted devices with dm-crypt
 sys-fs/lvm2 2.03.22-r2: User-land utilities for LVM2 (device-mapper) software
 sys-libs/rts_bpp 9999: Driver for realtek 5289/8411 card readers
 www-servers/civetweb 1.12: Embedded C/C++ web server
