@@ -1,6 +1,6 @@
 BDEPEND=>=gnustep-base/gnustep-make-2.0
 DEFINED_PHASES=compile configure install postinst prepare setup
-DEPEND=virtual/opengl gnustep-base/gnustep-gui media-libs/sdl-mixer media-libs/sdl-image app-accessibility/espeak media-libs/libvorbis dev-libs/nspr media-libs/libpng:0 media-libs/openal dev-lang/spidermonkey:0 sys-libs/zlib[minizip] gnustep-base/gnustep-make[-libobjc2] virtual/gnustep-back
+DEPEND=virtual/opengl gnustep-base/gnustep-gui media-libs/sdl-mixer media-libs/sdl-image app-accessibility/espeak-ng media-libs/libvorbis dev-libs/nspr media-libs/libpng:0 media-libs/openal sys-libs/zlib[minizip] gnustep-base/gnustep-make[-libobjc2] virtual/gnustep-back
 DESCRIPTION=Elite space trading & warfare remake
 EAPI=8
 HOMEPAGE=http://oolite.space/
@@ -8,8 +8,8 @@ INHERIT=gnustep-2 desktop
 IUSE=debug debug doc
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-2
-RDEPEND=virtual/opengl gnustep-base/gnustep-gui media-libs/sdl-mixer media-libs/sdl-image app-accessibility/espeak media-libs/libvorbis dev-libs/nspr media-libs/libpng:0 media-libs/openal dev-lang/spidermonkey:0 sys-libs/zlib[minizip] virtual/gnustep-back
+RDEPEND=virtual/opengl gnustep-base/gnustep-gui media-libs/sdl-mixer media-libs/sdl-image app-accessibility/espeak-ng media-libs/libvorbis dev-libs/nspr media-libs/libpng:0 media-libs/openal sys-libs/zlib[minizip] virtual/gnustep-back
 SLOT=0
-SRC_URI=https://github.com/OoliteProject/oolite/archive/1.90.tar.gz -> oolite-1.90.tar.gz https://github.com/OoliteProject/oolite-binary-resources/archive/1fe395fe185611b2de54b027cda6c29f15a9f3a0.tar.gz -> oolite-binary-resources-1.90.tar.gz https://github.com/OoliteProject/oolite-sdl-dependencies/archive/dd17796b2ee1257bea04aeffaec660f6c75eadf2.tar.gz -> oolite-sdl-dependencies-1.90.tar.gz
+SRC_URI=https://github.com/OoliteProject/oolite/archive/1.90.tar.gz -> oolite-1.90.tar.gz https://github.com/OoliteProject/oolite-binary-resources/archive/1fe395fe185611b2de54b027cda6c29f15a9f3a0.tar.gz -> oolite-binary-resources-1.90.tar.gz https://github.com/OoliteProject/oolite-sdl-dependencies/archive/dd17796b2ee1257bea04aeffaec660f6c75eadf2.tar.gz -> oolite-sdl-dependencies-1.90.tar.gz https://github.com/OoliteProject/spidermonkey-ff4/archive/c463e95ea5d1d780301e7f3792783771381125f0.tar.gz -> oolite-spidermonkey-1.90.tar.gz
 _eclasses_=toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	flag-o-matic	24c947ff5f858625cf0b33c15eed4425	gnustep-base	923cb81765be4cd65f6419d3f9019af5	gnustep-2	191cacca9e01ae0fe9b898b09e4555b8	desktop	021728fdc1b03b36357dbc89489e0f0d
-_md5_=4a8c34002181f19d8df4f2441a3e2908
+_md5_=fccd8a560559f3eed9ecf1c6743e964e
