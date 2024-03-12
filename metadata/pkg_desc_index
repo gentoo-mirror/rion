@@ -48,7 +48,7 @@ net-im/psi-translate 9999: Psi plugin to fix incorrect input
 net-im/psi-videostatus 9999: Psi plugin for settings some status during video watching
 net-im/psi-watcher 9999: Psi plugin for watching on contacts
 net-im/psimedia 9999: Psi/Psi+ plugin for voice/video calls
-net-im/viber 18.2.0.2: Free calls, text and picture sharing with anyone, anywhere!
+net-im/viber 21.8.0.11: Free calls, text and picture sharing with anyone, anywhere!
 net-libs/jdns 2.0.4: JDNS is a simple DNS implementation library
 net-libs/srt 1.4.3: Secure Reliable Transport (SRT) library and tools
 net-misc/TelegramQML 9999: Telegram API tools for QtQML and Qml
