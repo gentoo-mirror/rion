@@ -29,7 +29,6 @@ net-im/psi:extras - Enable Psi+ patchset
 net-im/psi:hunspell - Enable spellchecking using app-text/hunspell
 net-im/psi:iconsets - Install additional iconsets, some of them have no clear licensing
 net-im/psi:webengine - Enable themed, html-based chatlogs using dev-qt/qtwebengine
-net-im/psi:xscreensaver - Use X screensaver protocol extension to monitor idle/active status based on mouse/keyboard events
 net-im/psi-plugins-meta:attention - Enable Psi plugin for making attention (XEP-0224)
 net-im/psi-plugins-meta:autoreply - Enable Psi plugin to gnerate automatic replies.
 net-im/psi-plugins-meta:birthdayreminder - Enable Psi plugin to remind contact's birthdays
