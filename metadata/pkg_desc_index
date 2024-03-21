@@ -54,6 +54,7 @@ net-libs/srt 1.4.3: Secure Reliable Transport (SRT) library and tools
 net-misc/TelegramQML 9999: Telegram API tools for QtQML and Qml
 net-misc/aseman-qt-tools 9999: Set of tools from Aseman-Land
 net-misc/libqtelegram-ae 9999: A fork of libqtelegram by Aseman Team
+net-print/ricoh-sp150 1.0: Ricoh SP 150 printer driver
 net-print/samsung-unified-driver 1.00.39: Samsung Unified Linux Driver for printers and MFDs
 net-vpn/globalprotect-openconnect 1.4.9 9999: GlobalProtect VPN GUI based on Openconnect with SAML auth mode support
 sys-block/blivet 3.8.2: Python module for system storage configuration
