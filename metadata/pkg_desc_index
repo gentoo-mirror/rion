@@ -1,5 +1,5 @@
 app-crypt/qca 9999: Qt Cryptographic Architecture (QCA)
-app-editors/typora 1.0.3: markdown editor
+app-editors/typora 1.8.10: markdown editor/reader
 app-misc/qmetro 0.7.1 9999: Metro/subway map and route computation software.
 app-misc/qtnote 3.0.5 3.1.0 9999: Qt note-taking application compatible with tomboy
 app-text/qstardict 1.2 9999: QStarDict is a StarDict clone written with using Qt
