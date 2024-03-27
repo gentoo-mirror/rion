@@ -12,7 +12,6 @@ games-action/oolite 1.90: Elite space trading & warfare remake
 media-gfx/flameshot 9999: Powerful yet simple to use screenshot software for GNU/Linux
 media-gfx/simpleviewer-gl 9999: Small and simple image viewer for Linux.
 media-libs/qimageblitz 5.9999: Graphical effect and filter library by KDE
-media-plugins/gst-plugins-webrtcdsp 1.16.3: Audio Filter using WebRTC Audio Processing library plugin for GStreamer
 media-sound/qomp 1.4 9999: Quick(Qt) Online Music Player - one player for different online music hostings
 net-im/bluejeans 2.24.0: Online meetings, video conferencing, and screen sharing for teams of any size
 net-im/cutegram 9999: A different telegram client from Aseman team forked from Sigram by Sialan Labs.
