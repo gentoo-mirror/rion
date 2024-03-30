@@ -11,9 +11,6 @@ app-crypt/qca:pkcs11 - Enable PKCS#11 plugin
 app-crypt/qca:sasl - Enable SASL plugin
 app-crypt/qca:softstore - Enable softstore plugin
 app-misc/qtnote:unity - Enable Unity/Ubuntu plugin
-app-text/qstardict:plugin_stardict - build stardict plugin
-app-text/qstardict:plugin_swac - 
-app-text/qstardict:plugin_web - build web plugin
 media-sound/qomp:cuteradioplugin - cuteRadio plugin
 media-sound/qomp:lastfmplugin - Last.FM plugin
 media-sound/qomp:mprisplugin - MPRIS plugin
@@ -65,7 +62,6 @@ net-im/psimedia:demo - Build demo application and its version of the plugin
 net-im/psimedia:extras - Enable Psi+ mode (required when built for Psi+)
 net-im/psimedia:psi - Build a plugin for net-im/psi
 net-libs/jdns:tools - Enable jdns test tools
-net-libs/srt:encryption - Enable encryption of the SRT stream
 net-print/samsung-unified-driver:network - Enable network printing support
 sys-fs/cryptsetup:argon2 - Enable password hashing algorithm from app-crypt/argon2
 sys-fs/cryptsetup:fips - Enable FIPS mode restrictions
@@ -80,4 +76,3 @@ sys-fs/cryptsetup:urandom - Use /dev/urandom instead of /dev/random
 sys-fs/lvm2:lvm - Build all of LVM2 including daemons and tools like lvchange, not just the device-mapper library (for other packages to use). If your system uses LVM2 for managing disks and partitions, enable this flag.
 sys-fs/lvm2:sanlock - Enable lvmlockd with support for sanlock
 sys-fs/lvm2:thin - Support for thin volumes
-www-servers/civetweb:server - Build standalone server
