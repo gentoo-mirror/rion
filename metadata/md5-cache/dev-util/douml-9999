@@ -9,5 +9,5 @@ LICENSE=GPL-3
 PROPERTIES=live
 RDEPEND=dev-qt/qtsql:5
 SLOT=0
-_eclasses_=toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	qmake-utils	a8dd17b1d94586164f5e3fc12b1c6b81	git-r3	86fa1f157b70b9d2ff340c4633b1cf4b	xdg-utils	baea6080dd821f5562d715887954c9d3	gnome2-utils	30dbce54b89e77b86f366548f94419ad
+_eclasses_=toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	qmake-utils	a8dd17b1d94586164f5e3fc12b1c6b81	git-r3	fbb2889c81f3a05910c1524db69425c1	xdg-utils	baea6080dd821f5562d715887954c9d3	gnome2-utils	30dbce54b89e77b86f366548f94419ad
 _md5_=5d6c99dc421b342da87b3931fe6b0e95
