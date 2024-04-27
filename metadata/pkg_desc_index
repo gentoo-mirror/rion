@@ -29,7 +29,7 @@ net-im/psi-imagepreview 9999: Psi plugin to preview images in chat log
 net-im/psi-jabberdisk 9999: Psi plugin for file sharing via jabber disk
 net-im/psi-juick 9999: Psi plugin for juick.com service
 net-im/psi-messagefilter 9999: Psi plugin to filter out messages by various conditions
-net-im/psi-omemo 9999: Psi plugin for OMEMO
+net-im/psi-omemo 9999: OMEMO encryption support for Psi instant messenger
 net-im/psi-openpgp 9999: Psi plugin to manager OpenPGP keys and settings
 net-im/psi-otr 9999: Psi plugin for OTR message ecnryption
 net-im/psi-pepchangenotify 9999: Psi plugin to show PEP change notifications
