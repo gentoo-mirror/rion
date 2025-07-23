@@ -11,6 +11,8 @@ app-crypt/qca:pkcs11 - Enable PKCS#11 plugin
 app-crypt/qca:sasl - Enable SASL plugin
 app-crypt/qca:softstore - Enable softstore plugin
 app-misc/qtnote:unity - Enable Unity/Ubuntu plugin
+app-text/qstardict:stardict - Build backend plugin to use stardict dictionaties
+app-text/qstardict:web - Build backend plugin to use online dictionaties
 media-sound/qomp:cuteradioplugin - cuteRadio plugin
 media-sound/qomp:lastfmplugin - Last.FM plugin
 media-sound/qomp:mprisplugin - MPRIS plugin

@@ -3,6 +3,7 @@ app-dicts/stardict-ruspack 0.2-r3: Collection of dicts for stardict.
 app-editors/typora 1.8.10: markdown editor/reader
 app-misc/qmetro 0.7.1 9999: Metro/subway map and route computation software.
 app-misc/qtnote 3.0.5 3.1.0 9999: Qt note-taking application compatible with tomboy
+app-text/qstardict 4.0.0 9999: QStarDict is a StarDict clone written with using Qt
 dev-build/qconf 9999: ./configure like generator for qmake-based projects
 dev-libs/launchdarkly-sdk-c 2.5.5: LaunchDarkly Client-side SDK for C/C++
 dev-libs/plog 1.1.9: Portable, simple and extensible C++ logging library
